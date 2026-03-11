@@ -1,0 +1,39 @@
+.glow-loader {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 4px;
+}
+
+.glow-triangle {
+  fill: #c97b2a;
+  stroke: #e8a040;
+  stroke-width: 1.5;
+  animation: pyramid-pulse 2s ease-in-out infinite;
+}
+
+.glow-text {
+  font-family: 'Georgia', serif;
+  font-size: 0.85rem;
+  font-style: italic;
+  color: #8b7355;
+  animation: text-fade 2s ease-in-out infinite;
+}
+
+@keyframes pyramid-pulse {
+  0%, 100% {
+    opacity: 0.4;
+    fill: #c97b2a;
+    filter: drop-shadow(0 0 4px rgba(201, 123, 42, 0.3));
+  }
+  50% {
+    opacity: 1;
+    fill: #e8a040;
+    filter: drop-shadow(0 0 12px rgba(232, 160, 64, 0.7));
+  }
+}
+
+@keyframes text-fade {
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 1; }
+}

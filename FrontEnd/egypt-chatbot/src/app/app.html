@@ -1,0 +1,46 @@
+<div class="chat-shell">
+
+  <header class="chat-header">
+    <div class="avatar">
+      <img src="pharaoh.png" alt="MummyBot" />
+    </div>
+    <div>
+      <h1>MummyBot</h1>
+      <p>Ancient Egypt Knowledge Agent</p>
+    </div>
+  </header>
+
+  <div class="messages-area" #scrollRef>
+    <div class="messages-inner">
+
+      @if (messages().length === 0) {
+        <div class="empty-state">
+          <div class="empty-avatar">
+            <img src="pharaoh.png" alt="MummyBot" />
+          </div>
+          <h2>MummyBot</h2>
+          <p>Ask me anything about ancient Egypt — pyramids, pharaohs, hieroglyphs, mummification, the Nile, and more.</p>
+          <div class="suggestions">
+            @for (q of suggestions; track q) {
+              <button (click)="handleSend(q)">{{ q }}</button>
+            }
+          </div>
+        </div>
+      }
+
+      @for (msg of messages(); track $index) {
+        <app-chat-message [role]="msg.role" [content]="msg.content" />
+      }
+
+      @if (isLoading()) {
+        <div class="loading-row">
+          <app-pyramid-loader />
+        </div>
+      }
+
+    </div>
+  </div>
+
+  <app-chat-input (sendMessage)="handleSend($event)" [disabled]="isLoading()" />
+
+</div>

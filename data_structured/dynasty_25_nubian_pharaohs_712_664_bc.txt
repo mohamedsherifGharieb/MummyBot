@@ -1,0 +1,105 @@
+DYNASTY FILE: dynasty_25_nubian_pharaohs_712_664_bc
+============================================================
+
+PHARAOH: Piye
+SOURCE:  https://en.wikipedia.org/wiki/Piye
+----------------------------------------
+
+WHO: He was a Kushite king who ruled Egypt during 744–714 BC and founded the Twenty-fifth Dynasty. He ruled from the city of Napata in Nubia, modern-day Sudan.
+
+WHAT_THEY_DID: Piye expanded Nubia's power into Lower Egypt by defeating a coalition led by Tefnakht of Sais. He seized control of Middle and Lower Egypt and received the submission of various Egyptian kings, then returned to Nubia and never came back to Egypt.
+
+AGE: Unknown
+
+HOW_THEY_DIED: Unknown
+
+ACHIEVEMENTS:
+- Founded the Twenty-fifth Dynasty of Egypt
+- Conquered Lower Egypt in a campaign he viewed as a holy war
+- Received submission from kings across the Nile Delta
+
+EGYPT_ERA: Egypt was fragmented and ruled by competing local kings when Piye invaded and reunified it under Kushite control.
+
+============================================================
+
+PHARAOH: Shabaka
+SOURCE:  https://en.wikipedia.org/wiki/Shabaka
+----------------------------------------
+
+WHO: He was a Kushite pharaoh of the Twenty-fifth Dynasty of Egypt, reigning from approximately 705 to 690 BC. He ruled from Napata in Nubia.
+
+WHAT_THEY_DID: Shabaka consolidated Kushite rule over Egypt and carried out construction projects. He built and improved royal pyramids at el-Kurru and worked to strengthen the dynasty's hold over both Egypt and Nubia.
+
+AGE: Unknown
+
+HOW_THEY_DIED: Unknown
+
+ACHIEVEMENTS:
+- Consolidated Kushite rule over Egypt
+- Built and improved royal pyramids at el-Kurru
+- Strengthened the Twenty-fifth Dynasty
+
+EGYPT_ERA: Egypt was under stable Kushite rule during his reign, with the dynasty working to legitimize itself as true pharaohs of Egypt.
+
+============================================================
+
+PHARAOH: Shebitku
+SOURCE:  https://en.wikipedia.org/wiki/Shebitku
+----------------------------------------
+
+WHO: He was the second pharaoh of the Kushite Twenty-fifth Dynasty of Egypt, reigning from 714 BC to 705 BC. He was a son of Piye, the founder of this dynasty.
+
+WHAT_THEY_DID: Shebitku continued the Kushite hold over Egypt after his father Piye. He built his pyramid tomb at el-Kurru and maintained Kushite authority over both Egypt and Nubia.
+
+AGE: Unknown
+
+HOW_THEY_DIED: Unknown
+
+ACHIEVEMENTS:
+- Maintained Kushite rule over Egypt
+- Built his pyramid tomb at el-Kurru
+
+EGYPT_ERA: Egypt remained under Kushite control during his short reign, continuing the stability established by Piye.
+
+============================================================
+
+PHARAOH: Taharqa
+SOURCE:  https://en.wikipedia.org/wiki/Taharqa
+----------------------------------------
+
+WHO: Taharqa was a pharaoh of the Twenty-fifth Dynasty of Egypt and king of the Kingdom of Kush from 690 to 664 BC. He was one of the Nubian "Black Pharaohs" who ruled Egypt for nearly a century.
+
+WHAT_THEY_DID: Taharqa led Egypt during a prosperous renaissance period but faced repeated invasions by the Assyrians. He was defeated by Esarhaddon in 671 BC and driven from Memphis, then defeated again by Ashurbanipal and fled to Thebes where he died.
+
+AGE: Around 60 years old at death (ascended the throne at approximately age 32 in 690 BC, died 664 BC)
+
+HOW_THEY_DIED: Died of natural causes in the city of Thebes in 664 BC after being driven out of Egypt by Assyrian forces. Buried in a pyramid at Nuri in Sudan.
+
+ACHIEVEMENTS:
+- Built major temples at Karnak, Kawa, and Jebel Barkal
+- Built the largest pyramid in the Napatan region at Nuri
+- Defended Egypt against Assyrian invasions for over two decades
+
+EGYPT_ERA: Egypt experienced a cultural and architectural renaissance early in his reign, but later faced severe pressure from Assyrian invasions that ultimately ended Kushite rule.
+
+============================================================
+
+PHARAOH: Tantamani
+SOURCE:  https://en.wikipedia.org/wiki/Tantamani
+----------------------------------------
+
+WHO: He was the last pharaoh of the Twenty-fifth Dynasty and ruler of the Kingdom of Kush. He was the son of King Shabaka and nephew of Taharqa.
+
+WHAT_THEY_DID: Tantamani invaded Egypt after the Assyrians withdrew, briefly reoccupying the country including Memphis. He was then defeated by Ashurbanipal's forces in 663 BC, which led to the Sack of Thebes and the end of Kushite rule in Egypt.
+
+AGE: Unknown
+
+HOW_THEY_DIED: Fled to Upper Egypt after defeat by Ashurbanipal. Died around 653 BC, cause unknown.
+
+ACHIEVEMENTS:
+- Briefly reoccupied all of Egypt including Memphis
+- Last pharaoh of the Twenty-fifth Dynasty
+
+EGYPT_ERA: Egypt was at the very end of Kushite rule, facing complete takeover by the Assyrian Empire which sacked Thebes and looted its treasures.
+
+============================================================

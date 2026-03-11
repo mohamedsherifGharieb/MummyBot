@@ -1,0 +1,15 @@
+<div class="glow-loader">
+  <svg viewBox="0 0 48 44" width="40" height="36" fill="none">
+    <defs>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="3" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+    <polygon class="glow-triangle" points="24,4 44,40 4,40" filter="url(#glow)"/>
+  </svg>
+  <span class="glow-text">Consulting the scrolls...</span>
+</div>

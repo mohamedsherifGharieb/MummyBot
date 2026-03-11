@@ -1,0 +1,119 @@
+.message-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px 16px;
+  margin-bottom: 4px;
+}
+
+.assistant-row {
+  justify-content: flex-start;
+}
+
+.user-row {
+  justify-content: flex-end;
+}
+
+.avatar {
+  flex-shrink: 0;
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.assistant-avatar {
+  background: radial-gradient(circle, #f5ead0, #e8d5a8);
+  border: 2px solid #c97b2a;
+  box-shadow: 0 0 10px rgba(201, 123, 42, 0.4), 0 0 20px rgba(201, 123, 42, 0.15);
+  animation: pharaoh-glow 3s ease-in-out infinite;
+}
+
+.user-avatar {
+  background: #e8d5a8;
+  border: 2px solid #c9a96e;
+}
+
+@keyframes pharaoh-glow {
+  0%, 100% { box-shadow: 0 0 8px rgba(201, 123, 42, 0.3), 0 0 16px rgba(201, 123, 42, 0.1); }
+  50% { box-shadow: 0 0 14px rgba(232, 160, 64, 0.5), 0 0 28px rgba(232, 160, 64, 0.2); }
+}
+
+.bubble {
+  max-width: 75%;
+  padding: 14px 18px;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: 1rem;
+  line-height: 1.7;
+  word-break: break-word;
+}
+
+.assistant-bubble {
+  background: #f5ead0;
+  color: #3a2a14;
+  border-radius: 4px 16px 16px 16px;
+  border: 1px solid #d4bc8a;
+
+  :host ::ng-deep {
+    h3.md-h2 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #8b4513;
+      margin: 12px 0 6px;
+      font-family: 'Georgia', serif;
+
+      &:first-child { margin-top: 0; }
+    }
+
+    h4.md-h3 {
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: #7a5a32;
+      margin: 10px 0 4px;
+      font-family: 'Georgia', serif;
+    }
+
+    strong {
+      font-weight: 700;
+      color: #5c3d1a;
+    }
+
+    ul {
+      margin: 6px 0;
+      padding-left: 20px;
+      list-style: none;
+
+      li {
+        position: relative;
+        padding-left: 8px;
+        margin-bottom: 4px;
+
+        &::before {
+          content: '\25B2';
+          position: absolute;
+          left: -16px;
+          color: #c97b2a;
+          font-size: 0.6rem;
+          top: 4px;
+        }
+      }
+    }
+  }
+}
+
+.user-bubble {
+  background: linear-gradient(135deg, #c97b2a, #a86420);
+  color: #fdf6e3;
+  border-radius: 16px 4px 16px 16px;
+  border: 1px solid #8b4513;
+  font-size: 1rem;
+}

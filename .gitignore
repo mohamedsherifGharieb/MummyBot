@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Angular / frontend build
+/FrontEnd/egypt-chatbot/dist/
+/FrontEnd/egypt-chatbot/.angular/
+
+# IDEs, OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*
+
+# Packaged archives / distributions (don't upload packaged binaries)
+*.tar
+*.tar.gz
+*.zip
+*.whl
+*.apk
+*.deb
+
+# Database files
+.sqlite3
+
+# Logs
+*.log
+
+# Keep script and data files tracked (data/ and scripts/ directories should be committed)
+# If you want to ignore any specific script/data subfolder, add it explicitly below.

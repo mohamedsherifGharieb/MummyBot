@@ -1,0 +1,18 @@
+<div class="message-row" [class.user-row]="!isAssistant()" [class.assistant-row]="isAssistant()">
+
+  @if (isAssistant()) {
+    <div class="avatar assistant-avatar">
+      <img src="pharaoh.png" alt="MummyBot" />
+    </div>
+  }
+
+  <div class="bubble" [class.assistant-bubble]="isAssistant()" [class.user-bubble]="!isAssistant()" [innerHTML]="formattedContent()">
+  </div>
+
+  @if (!isAssistant()) {
+    <div class="avatar user-avatar">
+      <img src="User.jpg" alt="User" />
+    </div>
+  }
+
+</div>

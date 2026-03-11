@@ -1,0 +1,26 @@
+<div class="input-wrapper">
+  <div class="input-box">
+    <textarea
+      #textareaRef
+      [ngModel]="value()"
+      (ngModelChange)="value.set($event)"
+      (keydown)="handleKeyDown($event)"
+      placeholder="Ask about ancient Egypt..."
+      [disabled]="disabled()"
+      rows="1"
+    ></textarea>
+    <div class="input-actions">
+      <button
+        (click)="submit()"
+        [disabled]="!value().trim() || disabled()"
+        class="send-btn"
+        title="Send"
+      >
+        <svg viewBox="0 0 32 32" width="20" height="20" fill="none">
+          <polygon points="16,2 30,28 2,28" fill="currentColor"/>
+        </svg>
+      </button>
+    </div>
+  </div>
+  <p class="footer-text">Powered by the wisdom of the Nile</p>
+</div>
