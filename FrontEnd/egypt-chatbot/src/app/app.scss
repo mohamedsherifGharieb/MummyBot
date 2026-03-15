@@ -79,6 +79,7 @@
   scroll-behavior: smooth;
   background: transparent;
   position: relative;
+  padding: 0 12px;
 
   /* background image moved to .chat-shell with translucent overlay */
 
@@ -92,10 +93,19 @@
 
 .messages-inner {
   max-width: 768px;
-  margin: 0 auto;
-  padding: 16px 16px 16px;
+  margin: 16px auto;
+  padding: 16px;
   position: relative;
   z-index: 1;
+
+  /* Chat window panel \u2014 same parchment colour as the input box */
+  background: rgba(245, 234, 208, 0.93);
+  border: 1.5px solid #d4bc8a;
+  border-radius: 18px;
+  box-shadow:
+    0 4px 24px rgba(139, 69, 19, 0.14),
+    inset 0 1px 0 rgba(255, 255, 255, 0.45);
+  min-height: calc(100% - 32px);
 }
 
 .empty-state {

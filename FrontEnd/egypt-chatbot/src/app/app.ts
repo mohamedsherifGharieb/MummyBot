@@ -50,7 +50,9 @@ export class App {
     this.messages.update(msgs => [...msgs, { role: 'user', content: text }]);
     this.isLoading.set(true);
 
-    const history = this.messages().slice(-5, -1).map(m => ({ role: m.role, content: m.content }));
+    // Send last 10 messages (before this new user message) so the backend
+    // can resolve pronouns like "he/she" across longer conversations.
+    const history = this.messages().slice(-11, -1).map(m => ({ role: m.role, content: m.content }));
 
     try {
       const response = await fetch(this.API, {

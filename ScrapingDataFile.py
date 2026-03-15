@@ -41,13 +41,101 @@ PHARAOHS = {
         ("Tantamani", "https://en.wikipedia.org/wiki/Tantamani"),
     ],
     "Ptolemaic Period (~304–30 BC)": [
-        ("Ptolemy I",    "https://en.wikipedia.org/wiki/Ptolemy_I_Soter"),
-        ("Ptolemy II",   "https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus"),
-        ("Ptolemy III",  "https://en.wikipedia.org/wiki/Ptolemy_III_Euergetes"),
-        ("Cleopatra VII","https://en.wikipedia.org/wiki/Cleopatra"),
-        ("Arsinoe II",   "https://en.wikipedia.org/wiki/Arsinoe_II"),
+        ("Ptolemy I",     "https://en.wikipedia.org/wiki/Ptolemy_I_Soter"),
+        ("Ptolemy II",    "https://en.wikipedia.org/wiki/Ptolemy_II_Philadelphus"),
+        ("Ptolemy III",   "https://en.wikipedia.org/wiki/Ptolemy_III_Euergetes"),
+        ("Cleopatra VII", "https://en.wikipedia.org/wiki/Cleopatra"),
+        ("Arsinoe II",    "https://en.wikipedia.org/wiki/Arsinoe_II"),
+    ],
+
+    "Dynasty 1–2 (Early Dynastic ~3100–2686 BC)": [
+        ("Narmer",      "https://en.wikipedia.org/wiki/Narmer"),
+        ("Hor-Aha",     "https://en.wikipedia.org/wiki/Hor-Aha"),
+        ("Djer",        "https://en.wikipedia.org/wiki/Djer"),
+        ("Den",         "https://en.wikipedia.org/wiki/Den_(pharaoh)"),
+        ("Khasekhemwy", "https://en.wikipedia.org/wiki/Khasekhemwy"),
+    ],
+
+    "Dynasty 3 (Old Kingdom ~2686–2613 BC)": [
+        ("Djoser",     "https://en.wikipedia.org/wiki/Djoser"),
+        ("Sekhemkhet", "https://en.wikipedia.org/wiki/Sekhemkhet"),
+        ("Huni",       "https://en.wikipedia.org/wiki/Huni"),
+    ],
+    "Dynasty 5 (Old Kingdom ~2494–2345 BC)": [
+        ("Userkaf",  "https://en.wikipedia.org/wiki/Userkaf"),
+        ("Sahure",   "https://en.wikipedia.org/wiki/Sahure"),
+        ("Niuserre", "https://en.wikipedia.org/wiki/Niuserre"),
+        ("Unas",     "https://en.wikipedia.org/wiki/Unas"),
+    ],
+    "Dynasty 6 (Old Kingdom ~2345–2181 BC)": [
+        ("Teti",     "https://en.wikipedia.org/wiki/Teti"),
+        ("Pepi I",   "https://en.wikipedia.org/wiki/Pepi_I_Meryre"),
+        ("Pepi II",  "https://en.wikipedia.org/wiki/Pepi_II_Neferkare"),
+        ("Nitocris", "https://en.wikipedia.org/wiki/Nitocris_(pharaoh)"),
+    ],
+
+    "Dynasty 11 (Middle Kingdom ~2055–1985 BC)": [
+        ("Mentuhotep II",  "https://en.wikipedia.org/wiki/Mentuhotep_II"),
+        ("Mentuhotep III", "https://en.wikipedia.org/wiki/Mentuhotep_III"),
+        ("Mentuhotep IV",  "https://en.wikipedia.org/wiki/Mentuhotep_IV"),
+    ],
+    "Dynasty 12 (Middle Kingdom ~1985–1773 BC)": [
+        ("Amenemhat I",   "https://en.wikipedia.org/wiki/Amenemhat_I"),
+        ("Senusret I",    "https://en.wikipedia.org/wiki/Senusret_I"),
+        ("Senusret II",   "https://en.wikipedia.org/wiki/Senusret_II"),
+        ("Senusret III",  "https://en.wikipedia.org/wiki/Senusret_III"),
+        ("Amenemhat III", "https://en.wikipedia.org/wiki/Amenemhat_III"),
+        ("Sobekneferu",   "https://en.wikipedia.org/wiki/Sobekneferu"),
+    ],
+
+    "Dynasty 15 (Hyksos ~1650–1550 BC)": [
+        ("Salitis", "https://en.wikipedia.org/wiki/Salitis"),
+        ("Apep",    "https://en.wikipedia.org/wiki/Apepi_(pharaoh)"),
+        ("Khamudi", "https://en.wikipedia.org/wiki/Khamudi"),
+    ],
+    "Dynasty 17 (Theban ~1580–1550 BC)": [
+        ("Seqenenre Tao", "https://en.wikipedia.org/wiki/Seqenenre_Tao"),
+        ("Kamose",        "https://en.wikipedia.org/wiki/Kamose"),
+    ],
+
+    "Dynasty 20 (Late Ramesside ~1186–1069 BC)": [
+        ("Ramesses III", "https://en.wikipedia.org/wiki/Ramesses_III"),
+        ("Ramesses IV",  "https://en.wikipedia.org/wiki/Ramesses_IV"),
+        ("Ramesses IX",  "https://en.wikipedia.org/wiki/Ramesses_IX"),
+        ("Ramesses XI",  "https://en.wikipedia.org/wiki/Ramesses_XI"),
+    ],
+
+    "Dynasty 21 (Third Intermediate ~1069–945 BC)": [
+        ("Smendes I",   "https://en.wikipedia.org/wiki/Smendes_I"),
+        ("Pinedjem I",  "https://en.wikipedia.org/wiki/Pinedjem_I"),
+        ("Psusennes I", "https://en.wikipedia.org/wiki/Psusennes_I"),
+    ],
+    "Dynasty 22 (Libyan ~945–720 BC)": [
+        ("Shoshenq I",   "https://en.wikipedia.org/wiki/Shoshenq_I"),
+        ("Osorkon II",   "https://en.wikipedia.org/wiki/Osorkon_II"),
+        ("Shoshenq III", "https://en.wikipedia.org/wiki/Shoshenq_III"),
+    ],
+    "Dynasty 26 (Saite Period ~664–525 BC)": [
+        ("Psamtik I",   "https://en.wikipedia.org/wiki/Psamtik_I"),
+        ("Necho II",    "https://en.wikipedia.org/wiki/Necho_II"),
+        ("Psamtik II",  "https://en.wikipedia.org/wiki/Psamtik_II"),
+        ("Apries",      "https://en.wikipedia.org/wiki/Apries"),
+        ("Ahmose II",   "https://en.wikipedia.org/wiki/Ahmose_II"),
+        ("Psamtik III", "https://en.wikipedia.org/wiki/Psamtik_III"),
+    ],
+    "Dynasty 27 (First Persian ~525–404 BC)": [
+        ("Cambyses II",  "https://en.wikipedia.org/wiki/Cambyses_II"),
+        ("Darius I",     "https://en.wikipedia.org/wiki/Darius_I"),
+        ("Xerxes I",     "https://en.wikipedia.org/wiki/Xerxes_I"),
+        ("Artaxerxes I", "https://en.wikipedia.org/wiki/Artaxerxes_I"),
+    ],
+    "Dynasty 30 (Last Native ~380–343 BC)": [
+        ("Nectanebo I",  "https://en.wikipedia.org/wiki/Nectanebo_I"),
+        ("Teos",         "https://en.wikipedia.org/wiki/Teos_of_Egypt"),
+        ("Nectanebo II", "https://en.wikipedia.org/wiki/Nectanebo_II"),
     ],
 }
+
 
 def clean_text(text: str) -> str:
     text = re.sub(r'\[\d+\]', '', text)
@@ -65,7 +153,7 @@ def extract_wikipedia_content(url: str) -> str:
     soup = BeautifulSoup(response.text, "html.parser")
 
     content_div = soup.select_one('#mw-content-text .mw-parser-output')
-    paragraphs = content_div.select('p') if content_div else soup.select('p')
+    paragraphs  = content_div.select('p') if content_div else soup.select('p')
 
     chunks = []
     for p in paragraphs:
@@ -79,7 +167,6 @@ def extract_wikipedia_content(url: str) -> str:
     return '\n\n'.join(chunks)
 
 
-
 def scrape_all(output_path: str = "egypt_raw_data.md"):
     lines = [
         "# Ancient Egypt Pharaohs — Raw Scraped Data\n",
@@ -87,7 +174,7 @@ def scrape_all(output_path: str = "egypt_raw_data.md"):
     ]
 
     total = sum(len(v) for v in PHARAOHS.values())
-    done = 0
+    done  = 0
 
     for dynasty, pharaohs in PHARAOHS.items():
         lines.append(f"\n## {dynasty}\n")
@@ -99,7 +186,6 @@ def scrape_all(output_path: str = "egypt_raw_data.md"):
 
             try:
                 content = extract_wikipedia_content(url)
-
                 lines.append(f"\n### {name}\n")
                 lines.append(f"**Source:** {url}\n\n")
                 lines.append(content)
@@ -117,8 +203,8 @@ def scrape_all(output_path: str = "egypt_raw_data.md"):
         f.write('\n'.join(lines))
 
     print(f"\nDone! Saved to: {output_path}")
-    print(f"Kings scraped: {done}")
+    print(f"Total pharaohs scraped: {done}")
 
 
 if __name__ == "__main__":
-    scrape_all("egypt_raw_data.md")
+    scrape_all("egypt_raw_data.md") 

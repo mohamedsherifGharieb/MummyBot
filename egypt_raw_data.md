@@ -1,8 +1,12 @@
 # Ancient Egypt Pharaohs — Raw Scraped Data
 
-> Review, clean, and chunk before embedding.
+---
+
 
 ## Dynasty 4 (Pyramid Builders ~2575–2465 BC)
+
+---
+
 
 ### Snefru
 
@@ -219,9 +223,9 @@ The earliest attestation of Hatshepsut as pharaoh occurs in the tomb of Ramose a
 **Source:** https://en.wikipedia.org/wiki/Thutmose_III
 
 
-Thutmose III (variously also spelled Tuthmosis or Thothmes, Ancient Egyptian: 𓅝𓄟𓄤𓆣), sometimes called Thutmose the Great, (1479–1425 BC) was the fifth pharaoh of the 18th Dynasty of Egypt. He is regarded as one of the greatest warriors, military commanders, and military strategists of all time; as Egypt's preeminent warrior pharaoh and conqueror; and as a dominant figure in the New Kingdom period.
+Thutmose III (variously also spelled Tuthmosis or Thothmes, Ancient Egyptian: 𓅝𓄟𓄤𓆣), sometimes called Thutmose the Great, was the fifth pharaoh of the 18th Dynasty of Egypt. He is regarded as one of the greatest warriors, military commanders, and military strategists of all time; as Egypt's preeminent warrior pharaoh and conqueror; and as a dominant figure in the New Kingdom period.
 
-Officially, Thutmose III ruled Egypt from his coronation on 28 April 1479 BC at the age of two until his death on 11 March 1425 BC. But for the first 22 years of his reign, he was coregent with his stepmother and aunt, Hatshepsut, who was named the pharaoh. He became sole ruler after Hatshepsut's death in 1458.
+Officially, Thutmose III ruled Egypt from 28 April 1479 BC until his death on 11 March 1425 BC. But for the first 22 years of his reign, he was coregent with his stepmother and aunt, Hatshepsut, who was named pharaoh. He became sole ruler after Hatshepsut's death in 1458.
 
 Thutmose III conducted between 17 and 20 military campaigns, all victorious, which brought ancient Egypt's empire to its zenith. They are detailed in the inscriptions known as the Annals of Thutmose III. He also created the ancient Egyptian navy, the first navy in the ancient world. Historian Richard A. Gabriel called him the "Napoleon of Egypt".
 
@@ -231,7 +235,7 @@ Thutmose's two main names transliterate as mn-ḫpr-rꜥ ḏḥwtj-ms. The first
 
 Thutmose III was the son of Thutmose II by his secondary wife, Iset (or Aset). His father's Great Royal Wife was Hatshepsut. Her daughter, Neferure, was Thutmose's half-sister.
 
-When Thutmose II died, Thutmose III was too young to rule. Hatshepsut became his regent and ultimately declared herself pharaoh, while never denying kingship to Thutmose III. As a result, Thutmose III was relegated to junior coregent (Horus), while Hatshepsut became senior coregent (Osiris). During his childhood, Hatshepsut ruled Egypt in practice and name, achieving prosperity and success. While Thutmose is depicted as the first on surviving monuments, both were assigned the usual royal names and insignia.
+When his father died, Thutmose III was too young to rule; estimates of his age vary between two and thirteen years. Hatshepsut became his regent and ultimately declared herself pharaoh, while never denying kingship to Thutmose III. As a result, Thutmose III was relegated to junior coregent (Horus), while Hatshepsut became senior coregent (Osiris). During his childhood, Hatshepsut ruled Egypt in practice and name, achieving prosperity and success. While Thutmose is depicted as the first on surviving monuments, both were assigned the usual royal names and insignia.
 
 When Thutmose III reached a suitable age and demonstrated his capacity, Hatshepsut appointed him to head her armies, and at her death in 1458, he was ready to rule.
 
@@ -244,7 +248,7 @@ When Thutmose III reached a suitable age and demonstrated his capacity, Hatsheps
 **Source:** https://en.wikipedia.org/wiki/Amenhotep_II
 
 
-Amenhotep II (also called Amenophis II and meaning "Amun is Satisfied") was the seventh pharaoh of the Eighteenth Dynasty of Egypt. He inherited a vast kingdom from his father Thutmose III, and held it by means of a few military campaigns in Syria; however, he fought much less than his father, and his reign saw the effective cessation of hostilities between Egypt and Mitanni, the major kingdoms vying for power in Syria. His reign is usually dated from 1427 to 1401 BC. His consort was Tiaa, who was barred from any prestige until Amenhotep's son, Thutmose IV, came into power.
+Amenhotep II (lit. '"Amun is Satisfied"'), also called Amenophis II, was the seventh pharaoh of the Eighteenth Dynasty of Egypt. He inherited a vast kingdom from his father Thutmose III, and held it by means of a few military campaigns in Syria; however, he fought much less than his father, and his reign saw the effective cessation of hostilities between Egypt and Mitanni, the major kingdoms vying for power in Syria. His reign is usually dated from 1427 to 1401 BC. His consort was Tiaa, who was barred from any prestige until Amenhotep's son, Thutmose IV, came into power.
 
 Amenhotep II was born to Thutmose III and a minor wife of the king: Merytre-Hatshepsut. He was not, however, the firstborn son of this pharaoh; his elder brother Amenemhat, the son of the great king's chief wife Satiah, was originally the intended heir to the throne since Amenemhat was designated the 'king's eldest son" and overseer of the cattle of Amun in Year 24 of Thutmose's reign. However, between Years 24 and 35 of Thutmose III, both queen Satiah and prince Amenemhat died, which prompted the pharaoh to marry the non-royal Merytre-Hatshepsut.  She would bear Thutmose III a number of children including the future Amenhotep II. Amenhotep II was born and raised in Memphis in the north, instead of in Thebes, the traditional capital. While a prince, he oversaw deliveries of wood sent to the dockyard of Peru-nūfe in Memphis, and was made the Setem, the high priest over Lower Egypt. Amenhotep has left several inscriptions touting his athletic skills while he was a leader of the army before his crowning. Amenhotep was no less athletic than his powerful father. He claims to have been able to shoot an arrow through a copper target one palm thick, and that he was able to row his ship faster and farther than two hundred members of the navy could row theirs. Some scepticism concerning the truth of these claims has been expressed among Egyptologists.
 
@@ -254,7 +258,7 @@ When he assumed power, Amenhotep II was 18 years old according to an inscription
 
 "Now his majesty arose as king, as a fine youth, who was well-developed, having completed eighteen years upon his thighs in bravery. He was one who knew every work of Mentu, without equal on the battlefield. He was one who knew horses; one whose like did not exist in this numerous army. There was not one there who could draw his bow, nor could he be approached in running."
 
-After becoming pharaoh, Amenhotep married a woman of uncertain parentage named Tiaa. As many as ten sons and one daughter have been attributed to him. Amenhotep's most important son was Thutmose IV, who succeeded himTemplate:Nre; however, there is significant evidence for his having many more children. Princes Amenhotep, Webensenu, Amenemopet, and Nedjem are all clearly attested, and Amenemhat, Khaemwaset, and Aakheperure as well as a daughter, Iaret, are also possible children.
+After becoming pharaoh, Amenhotep married a woman of uncertain parentage named Tiaa. As many as ten sons and one daughter have been attributed to him. Amenhotep's most important son was Thutmose IV, who succeeded him; however, there is significant evidence for his having many more children. Princes Amenhotep, Webensenu, Amenemopet, and Nedjem are all clearly attested, and Amenemhat, Khaemwaset, and Aakheperure as well as a daughter, Iaret, are also possible children.
 
 Papyrus B.M. 10056, which dates to sometime after Amenhotep II's tenth year, refers to a king's son and setem-priest Amenhotep. This Amenhotep might also be attested in a stele from Amenhotep II's temple at Giza, however the stele's name has been defaced so that positive identification is impossible. Stele B may belong to another son, Webensenu. Webensenu's name is otherwise attested on a statue of Amenhotep's chief architect, Minmose, and his canopic jars and a funerary statue have been found in Amenhotep II's tomb. Another Giza stele, stele C, records the name of a Prince Amenemopet, whose name is otherwise unattested. The same statue with the name Webensenu on it is also inscribed with the name of prince Nedjem, who is otherwise unattested.
 
@@ -382,7 +386,7 @@ Tutankhamun was born in the reign of Akhenaten, during the Amarna Period of the 
 
 His parentage is debated as they are not attested in surviving inscriptions. He was certainly a prince, as a fragmentary inscription from Hermopolis refers to "Tutankhuaten" as a "king's son". He is generally thought to have been the son of Akhenaten or his successor Smenkhkare. Inscriptions from Tutankhamun's reign treat him as a son of Akhenaten's father, Amenhotep III, but that is only possible if Akhenaten's 17-year reign included a long co-regency with his father, a possibility that many Egyptologists once supported but is now being abandoned. His mother has been variously suggested to be Akhenaten's chief wife Nefertiti, Amenhotep III's daughter Beketaten, or Akhenaten's daughters Meritaten[d] or Meketaten.[e] Tutankhamun was wet nursed by a woman named Maia, known from her tomb at Saqqara.
 
-DNA testing identified his father as the mummy from tomb KV55, thought to be Akhenaten, but due to the developmental condition of the mummy's skeleton, most scholars estimate the age to be around twenty, thus effectively ruling out the possibility of Akhenaten; other scholars believe he was Smenkhkare. His mother as "The Younger Lady", an anonymous mummy cached in tomb KV35. His parents were full siblings, both being children of Amenhotep III and his chief wife Tiye.[f] The identity of The Younger Lady is unknown, but she cannot be Nefertiti, as she was not known to be a sister of Akhenaten. However, researchers such as Marc Gabolde and Aidan Dodson claim that Nefertiti was indeed Tutankhamun's mother. In this interpretation of the DNA results, the genetic closeness is not due to a brother-sister pairing but the result of three generations of first-cousin marriage, making Nefertiti a first cousin of Akhenaten. The validity and reliability of the genetic data from mummified remains have been questioned due to possible degradation due to decay. The Younger Lady is more likely not any of Akhenaten's known wives, but one of Tiye's younger daughters, perhaps Nebetah or Beketaten (or possibly the two were the same person, who changed her name at the beginning of Akhenaten's reign).
+DNA testing identified his father as the mummy from tomb KV55, thought to be Akhenaten, but due to the developmental condition of the mummy's skeleton, most scholars estimate the age to be around twenty, thus effectively ruling out the possibility of Akhenaten; other scholars believe he was Smenkhkare. His mother is "The Younger Lady", an anonymous mummy cached in tomb KV35. His parents were full siblings, both being children of Amenhotep III and his chief wife Tiye.[f] The identity of The Younger Lady is unknown, but she cannot be Nefertiti, as she was not known to be a sister of Akhenaten. However, researchers such as Marc Gabolde and Aidan Dodson claim that Nefertiti was indeed Tutankhamun's mother. In this interpretation of the DNA results, the genetic closeness is not due to a brother-sister pairing but the result of three generations of first-cousin marriage, making Nefertiti a first cousin of Akhenaten. The validity and reliability of the genetic data from mummified remains have been questioned due to possible degradation due to decay. The Younger Lady is more likely not any of Akhenaten's known wives, but one of Tiye's younger daughters, perhaps Nebetah or Beketaten (or possibly the two were the same person, who changed her name at the beginning of Akhenaten's reign).
 
 When Tutankhaten became king, he married Ankhesenpaaten, one of Akhenaten's daughters, who later changed her name to Ankhesenamun. He fathered two daughters who died at or soon after birth and were buried with him in his tomb. Computed tomography studies published in 2011 revealed that one daughter was born prematurely at 5–6 months of pregnancy and the other at full-term, 9 months. DNA testing has suggested the anonymous mummy KV21A is their mother, but the data is not statistically significant enough to allow her to be securely identified as his only known wife, Ankhesenamun. Tutankhamun's death marked the end of the royal bloodline of the Eighteenth Dynasty.
 
@@ -436,7 +440,7 @@ When Tutankhamun died while a teenager, Horemheb had already been officially des
 **Source:** https://en.wikipedia.org/wiki/Ramesses_I
 
 
-Menpehtyre Ramesses I (or Ramses) was the founding pharaoh of ancient Egypt's 19th Dynasty. The dates for his short reign are not completely known but the timeline of late 1292–1290 BC is frequently cited as well as 1295–1294 BC. While Ramesses I was the founder of the 19th Dynasty, his brief reign mainly serves to mark the transition between the reign of Horemheb, who had stabilized Egypt in the late 18th Dynasty, and the rule of the powerful pharaohs of his own dynasty, in particular his son Seti I, and grandson Ramesses II.
+Menpehtyre Ramesses I[a], was the founding pharaoh of ancient Egypt's 19th Dynasty. The dates for his short reign are not completely known but the timeline of late 1292–1290 BC is frequently cited as well as 1295–1294 BC. While Ramesses I was the founder of the 19th Dynasty, his brief reign mainly serves to mark the transition between the reign of Horemheb, who had stabilized Egypt in the late 18th Dynasty, and the rule of the powerful pharaohs of his own dynasty, in particular his son Seti I, and grandson Ramesses II.
 
 Originally called Paramessu, Ramesses I was of non-royal birth, being born into a noble military family from the Nile Delta region, perhaps near the former Hyksos capital of Avaris. He was a son of a troop commander called Seti. His uncle Khaemwaset, an army officer, married Tamwadjesy, the matron of Tutankhamun's Harem of Amun, who was a relative of Huy, the viceroy of Kush, an important state post. This shows the high status of Ramesses' family. Ramesses I found favor with Horemheb, the last pharaoh of the tumultuous Eighteenth Dynasty, who appointed the former as his vizier. As Paramessu, Ramesses also served as the High Priest of Seth under Amenhotep III—as such, he would have played an important role in the restoration of the old religion following the Amarna heresy of a generation earlier, under Akhenaten.
 Horemheb himself had been a nobleman from outside the immediate royal family, who rose through the ranks of the Egyptian army to serve as the royal advisor to Tutankhamun and Ay and, ultimately, pharaoh. Since Horemheb had no surviving children, he ultimately chose Ramesses to be his heir in the final years of his reign presumably because Ramesses I was both an able administrator and had a son (Seti I) and a grandson (the future Ramesses II) to succeed him and thus avoid any succession difficulties.
@@ -464,7 +468,7 @@ Seti I, his son and successor, later built a small chapel with fine reliefs in m
 
 Menmaatre Seti I (or Sethos I in Greek) was the second pharaoh of the Nineteenth Dynasty of Egypt during the New Kingdom period, ruling c. 1294 or 1290 BC to 1279 BC. He was the son of Ramesses I and Sitre, and the father of Ramesses II (commonly known as Ramesses the Great).
 
-The name 'Seti' means "of Set", which indicates that he was consecrated to the god Set (also termed "Sutekh" or "Seth"). As with most pharaohs, Seti had several names. Upon his ascension, he took the prenomen "mn-m3't-r' ", usually vocalized in Egyptian as Menmaatre (Established is the Justice of Re). His better known nomen, or birth name, is transliterated as "sty mry-n-ptḥ" or Sety Merenptah, meaning "Man of Set, beloved of Ptah". Manetho incorrectly considered him to be the founder of the 19th Dynasty, and gave him a reign length of 55 years, though no evidence has ever been found for so long a reign.
+The name Seti means "of Set", which indicates that he was consecrated to the god Set (also termed "Seth" or "Sutekh"). As a result, other Egyptian transliterations of Seti's name can include Sethi or Sutekhi. As with most pharaohs, Seti had several names. Upon his ascension, he took the prenomen "mn-m3't-r' ", usually vocalized in Egyptian as Menmaatre (Established is the Justice of Re). His better known nomen, or birth name, is transliterated as "sty mry-n-ptḥ" or Sety Merenptah, meaning "Man of Set, beloved of Ptah". Manetho incorrectly considered him to be the founder of the 19th Dynasty, and gave him a reign length of 55 years, though no evidence has ever been found for so long a reign.
 
 After the enormous social upheavals generated by Akhenaten's religious reform, Horemheb, Ramesses I and Seti I's main priority was to re-establish order in the kingdom and to reaffirm Egypt's sovereignty over Canaan and Syria, which had been compromised by the increasing external pressures from the Hittite state. During the reign of his father Ramesses I, Seti was made both heir apparent and vizier.
 
@@ -492,17 +496,17 @@ Ramesses II[a] (/ˈræməsiːz, ˈræmsiːz, ˈræmziːz/; Ancient Egyptian: r�
 
 In ancient Greek sources, he is called Ozymandias,[c] derived from the first part of his Egyptian-language regnal name: Usermaatre Setepenre.[d] Ramesses was also referred to as the "Great Ancestor" by successor pharaohs.
 
-For the early part of his reign, he focused on building cities, temples, and monuments. After establishing the city of Pi-Ramesses in the Nile Delta, he designated it as Egypt's new capital and used it as the main staging point for his campaigns in Syria. Ramesses led several military expeditions into the Levant, where he reasserted Egyptian control over Canaan and Phoenicia; he also led a number of expeditions into Nubia, all commemorated in inscriptions at Beit el-Wali and Gerf Hussein. He celebrated an unprecedented thirteen or fourteen Sed festivals—more than any other pharaoh.
+Ramesses ascended to the throne at age 25, and for the early part of his reign, he focused on building cities, temples, and monuments. After establishing the city of Pi-Ramesses in the Nile Delta, he designated it as Egypt's new capital and used it as the main staging point for his campaigns in Syria. Ramesses led several military expeditions into the Levant, where he reasserted Egyptian control over Canaan and Phoenicia; he also led a number of expeditions into Nubia, all commemorated in inscriptions at Beit el-Wali and Gerf Hussein. He celebrated an unprecedented thirteen or fourteen Sed festivals—more than any other pharaoh.
 
 Estimates of his age at death vary, although 90 or 91 is considered to be the most likely figure. Upon his death, he was buried in a tomb (KV7) in the Valley of the Kings; his body was later moved to the Royal Cache, where it was discovered by archaeologists in 1881. Ramesses' mummy is now on display at the National Museum of Egyptian Civilization, located in the city of Cairo.
 
 Ramesses II was one of the few pharaohs who was worshipped as a deity during his lifetime.
 
-Ramesses II was not born a prince. His grandfather Ramesses I was a vizier (tjaty) and military officer during the reign of pharaoh Horemheb, who appointed Ramesses I as his successor; at that time, Ramesses II was about eleven years old.
+Scholars dispute Ramesses II's association with the popular and contemporary depiction of him as the pharaoh of The Exodus, including former Secretary-General of Egypt's Supreme Council of Antiquities Mostafa Wazir and Jewish historian Lester L. Grabbe.
+
+Ramesses II was not born a prince. His grandfather, Ramesses I, was a vizier (tjaty) and military officer during the reign of pharaoh Horemheb, who appointed Ramesses I as his successor; at that time, Ramesses II was about eleven years old.
 
 After Ramesses I died, his son, Seti I became king, and designated his son Ramesses II as prince regent at about the age of fourteen.
-
-Ramesses' date of accession to the throne is recorded as III Shemu (11th month), day 27, which most Egyptologists believe to be 31 May 1279 BC.
 
 
 ---
@@ -646,7 +650,7 @@ Shabaka is thought to be the son of King Kashta and Pebatjma, although a text fr
 Shebitku or Shabataka (Ancient Egyptian: šꜣ-bꜣ-tꜣ-kꜣ, Neo-Assyrian Akkadian: 𒃻𒉺𒋫𒆪𒀪, romanized: Šapatakuʾ, Ancient Greek: Σεθῶν Sethōn or Ancient Greek: Σαβάκων Sabakōn) also known as Shebitqo, was the second pharaoh of the Kushite Twenty-fifth Dynasty of Egypt who ruled from 714 BC – 705 BC. He was a son of Piye, the founder of this dynasty. Shebitku's prenomen or throne name, Djedkare, means "Enduring is the Soul of Re." Shebitku's queen was Arty, who was a daughter of king Piye, according to a fragment of statue JE 49157 of the High Priest of Amun Haremakhet, son of Shabaka, found in the temple of the Goddess Mut in
 Karnak.
 
-Until recent times, Shebitku was placed within the 25th Dynasty between Shabaka and Taharqa. Although the possibility of a switch between the reigns of Shabaka and Shebitku had already been suggested before by Brunet and Baker had outlined nine reasons for the reversal, it was Michael Bányai in 2013 who first published in a mainstream journal many arguments in favor of such a relocation. After him, Frédéric Payraudeau and Gerard P. F. Broekman independently expanded the hypothesis. The archaeological evidence discovered in 2016/2017 by Claus Jurman confirms a Shebitku-Shabaka succession. Gerard Broekman's GM 251 (2017) paper shows that Shebitku reigned before Shabaka since the upper edge of Shabaka's NLR #30 Year 2 Karnak quay inscription was carved over the left-hand side of the lower edge of Shebitku's NLR#33 Year 3 inscription. The Egyptologist Claus Jurman's personal re-examination of the Karnak quay inscriptions of Shebitku (or Shabataka) and Shabaka in 2016 and 2017 conclusively demonstrate that Shebitku ruled before Shabaka and confirmed Broekman's arguments that Shebitku's Nile Text inscription was carved before Shabaka's inscription; hence, Shebitku ruled before Shabaka.
+Until recent times, Shebitku was placed within the 25th Dynasty between Shabaka and Taharqa. Although the possibility of a switch between the reigns of Shabaka and Shebitku had already been suggested before by Jean-Frédéric Brunet and Baker had outlined nine reasons for the reversal, it was Michael Bányai in 2013 who first published in a mainstream journal many arguments in favor of such a relocation. After him, Frédéric Payraudeau and Gerard P. F. Broekman independently expanded the hypothesis. The archaeological evidence discovered in 2016/2017 by Claus Jurman confirms a Shebitku-Shabaka succession. Gerard Broekman's GM 251 (2017) paper shows that Shebitku reigned before Shabaka since the upper edge of Shabaka's NLR #30 Year 2 Karnak quay inscription was carved over the left-hand side of the lower edge of Shebitku's NLR#33 Year 3 inscription. The Egyptologist Claus Jurman's personal re-examination of the Karnak quay inscriptions of Shebitku (or Shabataka) and Shabaka in 2016 and 2017 conclusively demonstrate that Shebitku ruled before Shabaka and confirmed Broekman's arguments that Shebitku's Nile Text inscription was carved before Shabaka's inscription; hence, Shebitku ruled before Shabaka.
 
 Critically, it was first pointed out by Baker and then later by Frédéric Payraudeau who wrote in French that "the Divine Adoratrix ie., God's Wife of Amun Shepenupet I," the last Libyan Adoratrix, was still alive during the reign of Shebitku/Shabataqo because she is represented performing rites and is described as "living" in those parts of the Osiris-Héqadjet chapel built during his reign (wall and exterior of the gate). In the rest of the room it is Amenirdis I, (Shabaka's sister), who is represented with the Adoratrix title and provided with a coronation name. The succession Shepenupet I – Amenirdis I as God's Wife of Amun or Divine Adoratrice of Amun thus took place during the reign of Shebitku. This detail in itself is sufficient to show that the reign of Shabaka cannot precede that of Shebitku.
 
@@ -839,6 +843,1381 @@ Arsinoe reportedly paid for a rotunda in the Samothrace temple complex, where sh
 In 281 BC, Lysimachus died in battle and Arsinoë fled to Cassandreia (Κασσάνδρεια). There, she married her paternal half-brother Ptolemy Keraunos. Ptolemy Keraunos was a son of Ptolemy I Soter and his first wife, Eurydice of Egypt. The marriage was for political reasons: both claimed the throne of Macedonia and Thrace (by the time of his death Lysimachus was ruler of both regions, and his power extended to southern Greece and Anatolia). Their relationship was never good.
 
 As Ptolemy Keraunos was becoming more powerful, Arsinoë decided it was time to stop him and conspired against him with her sons. This action caused Ptolemy Keraunus to kill two of her sons, Lysimachus and Philip, while the eldest, Ptolemy, was able to escape and to flee north, to the kingdom of the Dardanians.
+
+
+---
+
+
+## Dynasty 1–2 (Early Dynastic ~3100–2686 BC)
+
+---
+
+
+### Narmer
+
+**Source:** https://en.wikipedia.org/wiki/Narmer
+
+
+Narmer (Ancient Egyptian: nꜥr-mr, may mean "painful catfish", "stinging catfish", "harsh catfish", or "fierce catfish"; fl. c. 3100 BC) was an ancient Egyptian king of the Early Dynastic Period, whose reign began at the end of the 4th millennium BC. He is believed to have been the successor to the Protodynastic king Ka. Many scholars consider him the unifier of Egypt and founder of the First Dynasty, and in turn the first king of a unified Egypt. He also had a prominently noticeable presence in Canaan, compared to his predecessors and successors. Neithhotep is thought to be his queen consort or his daughter.
+
+A majority of Egyptologists believe that Narmer was the same person as Menes.[a]
+
+Although highly interrelated, the questions of "who was Menes?" and "who unified Egypt?" are actually two separate issues. Narmer is often credited with the unification of Egypt by means of the conquest of Lower Egypt by Upper Egypt. Menes was the first pharaoh of Ancient Egypt according to the ancient historian Manetho, and is identified by the majority of Egyptologists as the same person as Narmer – although a vigorous debate also proposes identification with Hor-Aha, Narmer's successor, as a primary alternative.[b]
+
+The issue is confusing because "Narmer" is a Horus name while "Menes" is a Sedge and Bee name, also known as "prenomen" or "throne name". All of the King Lists which began to appear in the New Kingdom only list throne names, and almost all begin with Menes, or begin with divine and/or semi-divine rulers, with Menes as the first "human king". The difficulty is aligning the contemporary archaeological evidence which lists Horus names with the king lists that list personal names.
+
+Two documents have been put forward as proof either that Narmer was Menes or alternatively Hor-Aha was Menes. The first is the "Naqada Label" found at the site of Naqada, in the tomb of Neithhotep, often assumed to have been the mother of Horus Aha. The label shows a serekh of Hor-Aha next to an enclosure inside of which are symbols that have been interpreted by some scholars as the name "Menes". The second is the seal impression from Abydos that alternates between a serekh of Narmer and the chessboard symbol, "mn", which is interpreted as an abbreviation of Menes. Arguments have been made with regard to each of these documents in favour of Narmer or Hor-Aha being Menes, but in neither case is the argument conclusive.[c]
+
+The second document, the seal impression from Abydos, shows the serekh of Narmer alternating with the gameboard sign (mn), together with its phonetic complement, the n sign, which is always shown when the full name of Menes is written, again representing the name "Menes". At first glance, this would seem to be strong evidence that Narmer was Menes. However, based on an analysis of other early First Dynasty seal impressions, which contain the name of one or more princes, the seal impression has been interpreted by other scholars as showing the name of a prince of Narmer named Menes, hence Menes was Narmer's successor, Hor-Aha, and thus Hor-Aha was Menes. Cervelló-Autuori has rebutted this (Cervelló-Autuori 2005, pp. 42–45), but opinions still vary, and the seal impression cannot be said to definitively support either theory.
+
+Two necropolis sealings, found in 1985 and 1991 in Abydos (Umm el-Qa'ab), in or near the tombs of Den (called the Den seal impressions) and Qa'a (called the Qa'a sealing), show Narmer as the first king on each list, followed by Hor-Aha. The Qa'a sealing lists all eight of the kings of what scholars now call the First Dynasty in the correct order, starting with Narmer. These necropolis sealings are strong evidence that Narmer was the first king of the First Dynasty, hence the same person as Menes.
+
+The complete spelling of Narmer's name consists of the hieroglyphs for a catfish (nꜥr)[d] and a chisel (mr), hence the reading "Narmer" (using the rebus principle). This word is sometimes translated as "raging catfish". However, there is no consensus on this reading. Other translations of the adjective before "catfish" include "angry", "fighting", "fierce", "painful", "furious", "bad", "evil", "biting", "menacing", and "stinging". Some scholars have taken entirely different approaches to reading the name that do not include "catfish" in the name at all, but these approaches have not been generally accepted.
+
+
+---
+
+
+### Hor-Aha
+
+**Source:** https://en.wikipedia.org/wiki/Hor-Aha
+
+
+Hor-Aha (or Aha or Horus Aha; fl. c. 3085 BC) is considered the second pharaoh of the First Dynasty of Egypt by most Egyptologists,[a] while others consider him the first one and corresponding to Menes. He lived around the 31st century BC and is thought to have had a long reign.
+
+The commonly used name Hor-Aha is a romanisation of his Horus name, written as a Horus falcon perched upon a serekh with a mace and shield in its talons, forming a variant of hieroglyph Gardiner code D34. Read as Aha (ꜥḥꜣ), the Egyptian verb 'to fight', here a masculine singular participle describing an attribute of the king (Horus) and thus translated as Horus 'the fighter' by scholars.
+
+Manetho's record Aegyptiaca (translating to History of Egypt) lists his Greek name as Athothis, or "Athotís".
+
+In the contemporary Early Dynastic sources, kings are most usually identified by their Horus and later (after Den) their Nebty/Nesut biti names. Whereas, the later Ramesside kinglists tend to use their Personal/Nebty names, rather than their Horus names. Thus there are issues with matching Horus name to Personal/Nebty names on the Abydos and Turin canon. However, in more recent years it has been increasingly accepted that we do in fact have the personal names of the earliest kings Narmer = Menes, Djer = Iti, Djet = Ita, based on the existence of particular sealings and graffito. Although, Hor-Aha, is left as the outlier with no seal and or document like the Djer Sinai graffito discovered by Tallet that confirms his Horus name. It has however, been argued by Autuori that a contemporary seal of Hor-Aha (IÄF III, fig. 36), with an additional two X1 brad loaf/'t' glyphs placed within his serekh, may actually be a writing of his personal name. As tt is very close to ttj (Teti) the spelling on the Abydos and Turin canon.
+
+Regardless, based on the sequence of 1st dynasty kings in contemporary sources it is generally accepted by those that agree Menes = Narmer. That Hor-Aha is indeed the Teti mentioned as the second king of the first dynasty on the Abydos and Turin canon.
+
+There has been some controversy about Hor-Aha. Some believe him to be the same individual as the legendary Menes and that he was the one to unify all of Egypt. Others claim he was the son of Narmer, the pharaoh who unified Egypt. Narmer and Menes may have been one pharaoh, referred to with more than one name. Regardless, considerable historical evidence from the period points to Narmer as the pharaoh who first unified Egypt (see Narmer Palette) and to Hor-Aha as his son and heir.
+
+Seal impressions discovered by Günter Dreyer in the Umm El Qa'ab from Den and Qa'a burials identify Hor-Aha as the second pharaoh of the first dynasty. His predecessor Narmer had united Upper Egypt and Lower Egypt into a single kingdom, Upper and Lower Egypt. Hor-Aha probably ascended the throne in the mid 31st century BC.
+
+Hor-Aha appears to have commemorated visits to a number of religious sites, for ritual activities. One year label of Aha (Aha3) from Abydos appears to record both a visit to a shrine of Neith (likely at Sais). It has been suggested this was to honour the lower Egyptian origins of Neithhotep if she was indeed his mother. Furthermore, the same label in the second register appears to commemorate a visit to the Djebaut (ḏbꜥ.wt) shrine in Buto. A third visit to a religious site may be recorded on the right hand side of the first register of the Naqada label. Which has a combination of signs, that although often argued to be evidence in the Narmer-Menes debate, may simply be read instead as a visit or founding of a nb.tj (nebty, two ladies) shrine. It is now the general consensus that the Naqada label has no bearing on the Narmer-Menes debate. Moreover, many scholars doubt that it is a nebty name as the nebty name simply is not in use this early on.
+
+
+---
+
+
+### Djer
+
+**Source:** https://en.wikipedia.org/wiki/Djer
+
+
+Djer (also Zer or Sekhty; fl. c. 3000 BC) is considered the third pharaoh of the First Dynasty of ancient Egypt in current Egyptology. He lived around the mid 31st century BC and reigned for about 40 years. A mummified forearm of Djer or his wife was discovered by Egyptologist Flinders Petrie, but was discarded by Émile Brugsch.
+
+Jürgen von Beckerath translates the hieroglyphs of "Djer" as "Defender of Horus." The King lists of the New Kingdom (13th century BC) record the third pharaoh as ꞽttꞽ, which is sometimes also translated as Iteti. The earliest names given in these lists are almost certainly later tradition, as throne names, the one used in official annals, are only attested from the reign of Den, the fifth pharaoh. In fact, it's possible that ꞽttꞽ is the result of a later scribe mistaking one of Djer's honorific (recorded in the Palermo Stone) as an actual name.
+
+In the Aegyptiaca of the Egyptian priest Manetho (3rd century BC), the third pharaoh is recorded as Kenkenês (Κενκενης). I. E. S. Edwards theorized that this name actually refers to an alternate spelling of Den's throne name, which in turn led to other corruptions in the king list.
+
+According to the Roman historian Julius Africanus, Manetho wrote that the third pharaoh ruled 31 years. Modern reconstructions of the near-contemporary (and therefore, more accurate) Palermo Stone ascribes Djer a reign of at least 40 years. According to Toby Wilkinson, the annals record "41 complete or partial years." Wilkinson also notes that years 1–10 of Djer's reign are preserved in register II of the Palermo Stone, while the middle years of this pharaoh's reign are recorded in register II of Cairo stone fragment C1. However, this is not the only proposed reconstruction. Erik Hornung argues that the Palermo Stone records 47 years for Djer, while Wolfgang Helck proposes 57 years.
+
+Djer's reign was preceded by a regency controlled by Neithhotep, possibly his mother or grandmother.
+
+The evidence for Djer's life and reign is:
+
+The inscriptions, on ivory and wood, are in a very early form of hieroglyphs, hindering complete translation, but a label at Saqqarah may depict the First Dynasty practice of human sacrifice. An ivory tablet from Abydos mentions that Djer visited Buto and Sais in the Nile Delta.
+
+The Palermo stone lists the first nine years of Djer's reign, as well as the heights of the Nile for each.
+
+
+---
+
+
+### Den
+
+**Source:** https://en.wikipedia.org/wiki/Den_(pharaoh)
+
+
+Den, also known as Hor-Den, Dewen, and Udimu, was the Horus name of a pharaoh of the Early Dynastic Period who ruled during the First Dynasty of Egypt. He is the best archaeologically-attested ruler of this period, credited with bringing prosperity to his realm.
+
+Den was attributed the title "King of Upper and Lower Egypt" and wore the double crown (red and white). Notably, the floor of his tomb at Umm El Qa'ab, near Abydos, was constructed using red and black granite, making it the earliest known use of this hard stone as a building material in Egypt with a flight of stairs leading to it. During his long reign, he established many of the customs of court ritual and royalty drawn on by later rulers and was held in high regard by his immediate successors.
+
+The Ancient Egyptian historian Manetho called him “Oúsaphaîdos” and credited him with a reign of 20 years, whilst the Royal Canon of Turin is damaged and therefore unable to provide information about the duration of Den's reign. Egyptologists and historians generally believe that Den had a reign of 42 years, based on inscriptions on the Palermo Stone.
+
+Recent radiocarbon data from the tombs at Abu Rawash, datable to the reign of Den, provide likely estimate for the Den's accession to 3011–2921 BC (1σ).
+
+Den's serekh name is well attested on earthen seal impressions, on ivory labels and in inscriptions on vessels made of schist, diorite and marble. The artifacts were found at Abydos, Saqqara and Abu Rawash. Den's name is also attested in later documents. For example, the Medical Papyrus of Berlin (the Ramesside era) discusses several methods of treatment and therapies for a number of different diseases. Some of these methods are said to originate from the reign of Den, but this statement may merely be trying to make the medical advice sound traditional and authoritative. Similarly, Den is mentioned in the Papyrus of Ani (also dated to Ramesside times) in chapter 64.
+
+Den's serekh name was "Den" or "Dewen", most likely meaning "he who brings the water". This is consistent with his birth name, which was “Khasty”, meaning “he of the two deserts”. Egyptologists such as Toby Wilkinson and Francesco Tiradritti think that the birth name refers to the eastern and the western desert – both surrounding Egypt like protective shields – or to Lower and Upper Egypt. This is in accord with the introduction of the Nisut-Bity-title by Den. This royal title was designed to legitimise the ruler's power over the whole of Egypt.
+
+Den's family has been the subject of significant research. His mother was queen Merneith; this conclusion is supported by contemporary seal impressions and by the inscription on the Palermo Stone. Den's wives were the queens Semat, Seshemet-ka, Serethor, and, possibly, Qaineit. He also had numerous sons and daughters; his possible successors could have been king Anedjib and king Semerkhet.
+
+Den's Royal Household is also well researched. Subsidiary tombs and palatial mastabas at Sakkara belonged to high officials such as Ipka, Ankh-ka, Hemaka, Nebitka, Amka, Iny-ka and Ka-Za. In a subsidiary tomb at Den's necropolis, the rare stela of a dwarf named Ser-Inpu was found.
+
+
+---
+
+
+### Khasekhemwy
+
+**Source:** https://en.wikipedia.org/wiki/Khasekhemwy
+
+
+Khasekhemwy (c. 2690 BC; Ḫꜥj-sḫm.wj, also rendered Kha-sekhemui) was the last Pharaoh of the Second Dynasty of Egypt. Little is known about him, other than that he led several significant military campaigns and built the mudbrick fort known as Shunet El Zebib.
+
+His Horus name Ḫꜥj-sḫm.wj can be interpreted as "The Two Powerful Ones Appear", but the name is recorded in many variants, such as Ḥr-Ḫꜥj-sḫm (Horus, he whose power appears), ḫꜥj sḫm.wj ḥtp nṯrwj jm=f (the two powers appear in that the ancestors rest within him) (etc.)[a] He is also known under his later traditioned birth name Bebti (which is also one of the names of the god Horus) and under his Hellenized name Cheneres (by Manetho; derived from Khasekhemwy).
+
+Khasekhemwy ruled for close to 18 years, with a floruit in the early 27th century BC. The exact date of his reign in Egyptian chronology is unclear but would fall roughly in between 2690–2670 BC.
+
+According to Toby Wilkinson's study of the Palermo Stone in Royal Annals of Ancient Egypt, this near contemporary 5th dynasty document assigns Khasekhemwy a reign of 17.5 or nearly 18 full years. Wilkinson suggests that a reign of 18 "complete or partial years" can be attributed to Khasekhemwy since the Palermo Stone and its associated fragments record Years 3-6 and Years 12-18 of this king and notes that his final year is recorded in the preserved section of the document. 
+Since the cattle count is shown to be regularly biennial during the second dynasty from the Palermo Stone (the year of the 6th, 7th and 8th count is preserved on the document plus full years after these counts respectively), a figure of c. 18 years is likely correct for Khasekhemwy. (or c. 18 years 2 months and 23 days from the main fragment of the Palermo Stone)
+
+In addition, Manetho states Khasekhemwy ruled Egypt for thirty years, while the Turin King List states it was only twenty-seven years and a lifespan of forty years. However, both are considered unreliable as they were written long after Khasekhemwy's death whereas the Palermo Stone was carved 200 years after Khasekhemwy's death and is thought to be more accurate.
+
+Khasekhemwy is normally placed as the successor of Seth-Peribsen, though some Egyptologists believe that he was the successor of Sekhemib-Perenmaat and that another Pharaoh, Khasekhem, ruled between them. Most scholars, however, believe that Khasekhem and Khasekhemwy are, in fact, the same person. Khasekhem may have changed his name to Khasekhemwy after he defeated Seth-Peribsen and reunited Upper and Lower Egypt following a civil war between the followers of the god Horus led by himself and the followers of the god Seth led by Peribsen. Others believe Khasekhemwy only defeated Seth-Peribsen after returning to Egypt from putting down a revolt in Nubia. Either way, he ended the infighting of the Second dynasty and reunited Egypt.
+
+Khasekhemwy is unique in Egyptian history as having both the symbols of Horus and Seth on his serekh. At the beginning of his reign he adopted the Horus name Khasekhem, "The powerful one has appeared", which clearly showed his allegiance to Horus. Later, however, after defeating Peribsen, he added the symbol of Seth next to Horus and added the epithet to his royal serekh,   / and accordingly changed his name to the dual form Khasekhemwy, "The two powers have appeared", along with the addition "The two powers are at peace with him".  Some Egyptologists believe that this was an attempt to unify the two factions; but after his death, Seth was dropped from the serekh permanently. Khasekhemwy was the earliest Egyptian king known to have built statues of himself.
+
+Khasekhemwy apparently undertook considerable building projects upon the reunification of Egypt. He built in stone at el-Kab, Hierakonpolis, and Abydos. Khasekhemwy built enclosures at Nekhen, and at Abydos (now known as Shunet ez Zebib) and was buried there in the necropolis at Umm el-Qa'ab. He may also have built the Gisr el-Mudir at Saqqara.
+
+
+---
+
+
+## Dynasty 3 (Old Kingdom ~2686–2613 BC)
+
+---
+
+
+### Djoser
+
+**Source:** https://en.wikipedia.org/wiki/Djoser
+
+
+Djoser (also read as Zoser) was an ancient Egyptian pharaoh of the 3rd Dynasty during the Old Kingdom, and was the founder of that epoch. He is also known by his Hellenized names Tosorthros (from Manetho) and Sesorthos (from Eusebius). He was the son of King Khasekhemwy and Queen Nimaathap, but whether he was also the direct successor to their throne is unclear. Most Ramesside king lists identify a king named Nebka as preceding him, but there are difficulties in connecting that name with contemporary Horus names, so some Egyptologists question the received throne sequence. Djoser is known for his step pyramid, which is the earliest colossal stone building in ancient Egypt.
+
+The painted limestone statue of Djoser, now in the Egyptian Museum in Cairo, is the oldest known life-sized Egyptian statue. Today, at the site in Saqqara where it was found, a plaster copy of it stands in place of the original. The statue was discovered during the Antiquities Service Excavations of 1924–1925.
+
+In contemporary inscriptions, he is called by his Horus name Netjerikhet, meaning "divine of body". Later sources, which include a New Kingdom reference to his construction, help confirm that Netjerikhet and Djoser are the same person.
+
+While Manetho names Necherophes and the Turin King List names Nebka as the first ruler of the Third Dynasty, many Egyptologists now believe Djoser was first king of this dynasty, pointing out that the order in which some predecessors of Khufu are mentioned in the Westcar Papyrus suggests Nebka should be placed between Djoser and Huni, not before Djoser. More significantly, the English Egyptologist Toby Wilkinson has demonstrated that burial seals found at the entrance to Khasekhemwy's tomb in Abydos name only Djoser, rather than Nebka. This supports the view that it was Djoser who buried and, hence, directly succeeded Khasekhemwy, rather than Nebka.
+
+Djoser is linked to Khasekhemwy, the last king of the Second Dynasty of Egypt, through his wife Queen Nimaethap (Nimaat-hap) via seals found in Khasekhemwy's tomb and at Beit Khallaf. The seal at Abydos names Nimaat-hap as the "mother of the king's children, Nimaat-hap". On mastaba K1 at Beit Khallaf, the same person is mentioned as the "mother of the dual king". Dating of other seals at the Beit Khallaf site place them to the reign of Djoser. This evidence suggests that Khasekhemwy is either the direct father of Djoser or that Nimaat-hap had him through a previous husband. German Egyptologist Gunter Dreyer found Djoser's sealings at Khasekhemwy's tomb at Umm El Qa'ab, further suggesting that Djoser was the direct successor of Khasekhemwy and that he finished the construction of the tomb.
+
+Her cult seems to have still been active in the later reign of Sneferu.
+
+Hetephernebti is identified as one of Djoser's queens "on a series of boundary stela from the Step Pyramid enclosure (now in various museums) and a fragment of relief from a building at Hermopolis" currently in the Egyptian museum of Turin.
+
+Inetkawes was their only daughter known by name. There was also a third royal female attested during Djoser's reign, but her name is destroyed. The relationship between Djoser and his successor, Sekhemkhet, is not known, and the date of his death is uncertain.
+
+
+---
+
+
+### Sekhemkhet
+
+**Source:** https://en.wikipedia.org/wiki/Sekhemkhet
+
+
+Sekhemkhet (also read as Sechemchet) was an ancient Egyptian king (pharaoh) of the 3rd Dynasty during the Old Kingdom. His reign is thought to have been from about 2648 BC until 2640 BC. He is also known under his later traditioned birth name Djoser-teti and under his Hellenized name Tyreis (by Manetho; derived from Teti in the Abydos King List). Sekhemkhet was probably the brother or eldest son of king Djoser. Little is known about this king, since he ruled for only a few years. However, he erected a step pyramid at Saqqara and left behind a well known rock inscription at Wadi Maghareh (Sinai Peninsula).
+
+The duration of Sekhemkhet's reign is believed to have been six to seven years. The royal Turin Canon attributes six years of reign to Sekhemkhet, a figure also proposed by Myriam Wissa based on the unfinished state of Sekhemkhet's pyramid. Using his reconstruction of the Palermo Stone (5th Dynasty), Toby Wilkinson assigns seven years to this king. This figure is based on the number of year registers preserved in Cairo Fragment I [de], register V. Wilkinson states that "this figure is fairly certain, since the [king's] titulary begins immediately after the dividing line marking the change of reign.". Similarly, the historian Manetho lists Sekhemkhet under the name of Tyreis and indicates that he reigned for seven years. Nabil Swelim, by contrast, proposed a reign of nineteen years, because he believed that Sekhemkhet might be the Tosertasis mentioned by Manetho. However, such a long reign is at odds with the unfinished state of the buried pyramid and this view is generally rejected by Egyptologists.
+
+Little is known about activities conducted during Sekhemkhet's reign. The only preserved documents showing Sekhemkhet are two rock inscriptions at Wadi Maghareh in the Sinai Peninsula. The first one shows Sekhemkhet twice: once wearing the Hedjet crown, another wearing the Deshret crown. The second inscription depicts a scene known as "smiting the enemy": Sekhemkhet has grabbed a foe by its hair and raises his arm in an attempt to club the enemy to death with a ceremonial sceptre. The presence of these reliefs at Wadi Maghareh suggests that local mines of copper and turquoise were exploited during Sekhemkhet's reign. These mines were apparently active throughout the early 3rd Dynasty since reliefs of Djoser and Sanakht were also discovered in the Wadi Maghareh. One inscription from the Sinai states that Wepwawet "opens the way" to king Sekhemkhet's victory.
+
+Several clay seals presenting an unusual Nebty name together with Sekhemkhet's Horus name were found at the eastern excavation site on the island of Elephantine. The Egyptologist Jean Pierre Pätznik reads the Nebty name as Ren nebty meaning The two ladies are pleased with his name. It is not entirely clear whether this is indeed Sekhemkhet's nebty name or that of a yet unknown queen.
+
+Sekhemkhet's wife may have been Djeseretnebti, but this name appears without any queen's title, and Egyptologists dispute the true meaning and reading of this name. The name has alternatively been read as Djeser-Ti and identified with the cartouche-name Djeser-Teti presented in the Saqqara King List as the direct successor of Djoser. Sekhemkhet most likely had sons and daughters, but so far none have been attested.
+
+Some consider Sekhemkhet to be the brother of Djoser, making him another son of Khasekhemwy, who was the final king of the Second Dynasty. If this is true, his mother would be Nimaathap.
+
+Sekhemkhet's pyramid is sometimes referred to as the "Buried Pyramid" and was first excavated in 1952 by Egyptian archaeologist Zakaria Goneim. A sealed sarcophagus was discovered beneath the pyramid, but when opened was found to be empty.
+
+Sekhemkhet's pyramid was planned as a step pyramid. Its base was a square measuring 378 ft x 378 ft (220 x 220 cubits). If the pyramid had been completed, it would have had six or seven steps and a final height of 240.5 ft (140 cubits). These proportions would have given the pyramid an angle of elevation of 51˚50', identical to the pyramid at Meidum and the Great Pyramid of Giza. Like Djoser's pyramid, Sekhemkhet's was built of limestone blocks. The monument was not finished, possibly because of the pharaoh's sudden death. Only the first step of the pyramid was completed, leaving a monument in the shape of a large square mastaba.
+
+
+---
+
+
+### Huni
+
+**Source:** https://en.wikipedia.org/wiki/Huni
+
+
+Huni (original reading unknown) was an ancient Egyptian king, the last pharaoh of the Third Dynasty of Egypt during the Old Kingdom period. Based on the Turin king list, he is commonly credited with a reign of 24 years, ending c. 2613 BC.
+
+Huni's chronological position as the last king of the third dynasty is fairly certain, but there is uncertainty about the succession order of rulers at the end of the third dynasty. It is also unclear under which Hellenized name the ancient historian Manetho listed him in his Aegyptiacae: mostly likely Aches, as Winfried Barta proposes.[citation needed] Many Egyptologists believe that Huni was the father and direct predecessor of King Sneferu, but this is questioned by other scholars. Huni is seen by scholars as a confusing figure in Egyptian history, because he was long remembered in Egyptian traditions, but very few documents, objects or monuments from his reign have survived.
+
+Huni is not a well attested pharaoh; most of the attestations only point indirectly to him. There are only two contemporary objects with his name.
+
+The first one is a conical stele made of red granite, discovered in 1909 on the island of Elephantine by Henri Gauthier. The object is 160 centimetres (63 in) long, 69 centimetres (27 in) thick and 50 centimetres (20 in) broad. Its shape resembles a typical Benben stele, as known from mastaba tombs of the early dynastic kings. At the front, the cone presents a rectangular niche with an encarved inscription inside. The inscription mentions a royal palace named the Palace of the headband of Huni and writes Huni's name above it inside a royal cartouche. The decorated niche is interpreted by scholars as a so-called "apparition window". The lower part of the window frame is flattened and elongated and shows traces of a second inscription, apparently the same as inside the window. It is not fully clarified where exactly the object was once on display. Because it was found very close to a stepped pyramid, Egyptologists such as Rainer Stadelmann propose a position on the very front of the monument, or even visibly embedded in one of the steps. Today Huni's dedication cone is in the possession of the Cairo Museum as object JE 41556.
+
+The second finding, discovered in 2007, is a polished stone bowl made of magnesite, found at South-Abusir in the mastaba tomb AS-54, belonging to a high official, whose name is yet unknown to archaeologists. The stone vessel inscription mentions Huni's name without a cartouche, but with the Njswt-Bity title. The orthography of the hieroglyphs that form Huni's name makes a reading as Njswt-Hw or Hw-en-Niswt plausible.
+
+Huni is also attested in mastaba L6 at Saqqara, attributed to the official Metjen and dating to the end of the third dynasty. There, an inscription was found with the name of a royal domain Hw.t-njswt.-hw ("Hut-nisut-hu") of Huni.
+
+Huni is further mentioned on the back of the Palermo stone in the section concerning the reign of the 5th-dynasty king Neferirkare Kakai, who apparently had a mortuary temple built for the cult of Huni. The temple, however, has not yet been located.
+
+Finally, Huni is attested in the papyrus Prisse, in the Instructions of Kagemni, probably dating to the 13th dynasty. The papyrus gives an important indication about Huni's succession in column II, line 7:
+
+
+---
+
+
+## Dynasty 5 (Old Kingdom ~2494–2345 BC)
+
+---
+
+
+### Userkaf
+
+**Source:** https://en.wikipedia.org/wiki/Userkaf
+
+
+Userkaf (known in Ancient Greek as Οὐσερχέρης, Usercherês) was a pharaoh of ancient Egypt and the founder of the Fifth Dynasty. He reigned for seven to eight years in the early 25th century BC, during the Old Kingdom period. He probably belonged to a branch of the Fourth Dynasty royal family, although his parentage is uncertain; he could have been the son of Khentkaus I. He had at least one daughter and very probably a son, Sahure, with his consort Neferhetepes. This son succeeded him as pharaoh.
+
+His reign heralded the ascendancy of the cult of Ra, who effectively became Egypt's state god during the Fifth Dynasty. Userkaf may have been a high-priest of Ra before ascending the throne, and built a sun temple, known as the Nekhenre, between Abusir and Abu Gurab. In doing so, he instituted a tradition followed by his successors over a period of 80 years. The Nekhenre mainly functioned as a mortuary temple for the setting sun. Rites performed in the temple were primarily concerned with Ra's creator function and his role as father of the king. Taken with the reduction in the size of the royal mortuary complex, this suggests a more concrete separation between the sun god and the king than in the preceding dynasties. After Userkaf's death, his temple was the subject of four building phases, during which it acquired a large obelisk.
+
+Userkaf built a pyramid in Saqqara close to that of Djoser, a location that forced architects to put the associated mortuary temple in an unusual position, to the south of the pyramid. The latter was much smaller than those built during the Fourth Dynasty but the mortuary complex was lavishly and extensively decorated with fine painted reliefs. In addition to his own pyramid and temple, Userkaf built a smaller pyramid close to his for one of his queens, likely Neferhetepes. Although Userkaf was the object of a funerary cult after his death like the other Fifth Dynasty kings, his was relatively unimportant, and was abandoned after the end of the dynasty. Little is known of his activities beyond the construction of his pyramid and sun temple. The Old Kingdom royal annals record offerings of beer, bread and lands to various gods, some of which may correspond to building projects on Userkaf's behalf, including the temple of Montu in El-Tod where he is the earliest attested pharaoh. Beyond the borders of Egypt, a military expedition to Canaan or the Eastern Desert may have taken place, and trade contacts with the Aegean seem to have existed at the time.
+
+The identity of Userkaf's parents is uncertain, but he undoubtedly had family connections with the rulers of the preceding Fourth Dynasty.  Egyptologist Miroslav Verner proposes that he was a son of Menkaure by one of his secondary queens and possibly a full brother to his predecessor and the last king of the Fourth Dynasty, Shepseskaf.
+
+Alternatively, Nicolas Grimal, Peter Clayton and Michael Rice propose that Userkaf was the son of a Neferhetepes, whom Grimal, Giovanna Magi and Rice see as a daughter of Djedefre and Hetepheres II. The identity of Neferhetepes's husband in this hypothesis is unknown, but Grimal conjectures that he may have been the "priest of Ra, lord of Sakhebu", mentioned in Westcar papyrus. Aidan Dodson and Dyan Hilton propose that Neferhetepes was buried in the pyramid next to that of Userkaf, which is believed to have belonged to a woman of the same name.
+
+The location of the pyramid attributed to Neferhetepes, however, strongly suggests that she may instead have been Userkaf's wife. If so she should be identified with the Neferhetepes who is the mother of Userkaf's successor and likely son, Sahure. A relief from Sahure's causeway depicts this king and his queen together with the king's mother, identified as a Neferhetepes, which very likely makes her Userkaf's wife. Like Grimal, Jaromír Malek sees her as a daughter of Djedefre and Hetepheres II. Following this hypothesis, Mark Lehner also suggests that Userkaf's mother may have been Khentkaus I, an idea shared by Arielle Kozloff.
+
+Dodson and Hilton argue that Neferhetepes is not given the title of king's wife in later documents pertaining to her mortuary cult, although they note that this absence is inconclusive. They propose that Userkaf's queen may have been Khentkaus I, a hypothesis shared by Selim Hassan. Clayton and Rosalie and Anthony David concur, further positing that Khentkaus I was Menkaure's daughter.  Bernhard Grdseloff argues that Userkaf, as a descendant of pharaoh Djedefre marrying a woman from the main royal line—that of Khafre and Menkaure—could have unified two rival factions within the royal family and ended possible dynastic struggles. Alternatively, Userkaf could have been the high priest of Ra before ascending the throne, giving him sufficient influence to marry Shepseskaf's widow in the person of Khentkaus I.
+
+Many Egyptologists, including Verner, Zemina, David, and Baker, believe that Sahure was Userkaf's son rather than his brother as suggested by the Westcar papyrus. The main evidence is a relief showing Sahure and his mother Neferhetepes, this being also the name of the queen who is believed to have owned the pyramid next to Userkaf's. An additional argument supporting the filiation of Sahure is the location of his pyramid in close proximity to Userkaf's sun temple. No other child of Userkaf has been identified except a daughter named Khamaat, mentioned in inscriptions uncovered in the mastaba of Ptahshepses.
+
+
+---
+
+
+### Sahure
+
+**Source:** https://en.wikipedia.org/wiki/Sahure
+
+
+Sahure (also Sahura, meaning "He who is close to Re") was a pharaoh of ancient Egypt and the second ruler of the Fifth Dynasty. He reigned for about 13 years in the early 25th century BC during the Old Kingdom Period. Sahure's reign marks the political and cultural high point of the Fifth Dynasty. He was probably the son of his predecessor Userkaf with Queen Neferhetepes II, and was in turn succeeded by his son Neferirkare Kakai.
+
+During Sahure's rule, Egypt had important trade relations with the Levantine coast. Sahure launched several naval expeditions to modern-day Lebanon to procure cedar trees, slaves, and exotic items. His reign may have witnessed the flourishing of the Egyptian navy, which included a high-seas fleet as well as specialized racing boats. Relying on this, Sahure ordered the earliest attested expedition to the land of Punt, which brought back large quantities of myrrh, malachite, and electrum. Sahure is shown celebrating the success of this venture in a relief from his mortuary temple which shows him tending a myrrh tree in the garden of his palace whose name means "Sahure's splendor soars up to heaven". This relief is the only one in Egyptian art depicting a king gardening. Sahure sent further expeditions to the turquoise and copper mines in Sinai. He also ordered military campaigns against Libyan chieftains in the Western Desert, bringing back livestock to Egypt.
+
+Sahure had a pyramid built for himself in Abusir, thereby abandoning the royal necropolises of Saqqara and Giza, where his predecessors had built their monuments. This decision was possibly motivated by the presence of the sun temple of Userkaf in Abusir, the first such temple of the Fifth Dynasty. The Pyramid of Sahure is much smaller than the pyramids of the preceding Fourth Dynasty but the decoration and architecture of his mortuary temple is more elaborate. The valley temple, causeway and mortuary temple of his pyramid complex were once adorned by over 10,000 m2 (110,000 sq ft) of exquisite polychrome reliefs, representing the highest form reached by this art during the Old Kingdom period. The Ancient Egyptians recognized this particular artistic achievement and tried to emulate the reliefs in the tombs of subsequent kings and queens. The architects of Sahure's pyramid complex introduced the use of palmiform columns (columns whose capital has the form of palm leaves), which would soon become a hallmark of ancient Egyptian architecture. The layout of his mortuary temple was also innovative and became the architectural standard for the remainder of the Old Kingdom period. Sahure is also known to have constructed a sun temple called "The Field of Ra", and although it has not yet been located, it is presumably also in Abusir.
+
+Sahure was the object of a funerary cult, the food offerings for which were initially provided by agricultural estates set up during his reign. This official, state-sponsored cult endured until the end of the Old Kingdom. Subsequently, during the Middle Kingdom period, Sahure was venerated as a royal ancestor figure but his cult no longer had dedicated priests. For unknown reasons, during the New Kingdom Sahure was equated with a form of the goddess Sekhmet. The cult of "Sekhmet of Sahure" had priests and attracted visitors from all over Egypt to Sahure's temple. This unusual cult was celebrated far beyond Abusir, and persisted up until the end of the Ptolemaic period nearly 2500 years after Sahure's death.
+
+Excavations at the pyramid of Sahure in Abusir under the direction of Miroslav Verner and Tarek El-Awady in the early 2000s provide a picture of the royal family of the early Fifth Dynasty. In particular, reliefs from the causeway linking the valley and mortuary temples of the pyramid complex reveal that Sahure's mother was queen Neferhetepes II. She was the wife of pharaoh Userkaf, as indicated by the location of her pyramid immediately adjacent to that of Userkaf, and bore the title of "king's mother". This makes Userkaf the father of Sahure in all likelihood. This is further reinforced by the discovery of Sahure's cartouche in the mortuary temple of Userkaf at Saqqara, indicating that Sahure finished the structure started most probably by his father.
+
+This contradicts older, alternative theories according to which Sahure was the son of queen Khentkaus I, believed to be the wife of the last pharaoh of the preceding Fourth Dynasty, Shepseskaf and a brother to either Userkaf or Neferirkare.
+
+Sahure is known to have been succeeded by Neferirkare Kakai, who until 2005 was believed to be his brother. That year, a relief originally adorning the causeway of Sahure's pyramid and showing Sahure seated in front of two of his sons, Ranefer and Netjerirenre, was discovered by Verner and another Egyptologist, Tarek El-Awady. Next to Ranefer's name the text "Neferirkare Kakai king of Upper and Lower Egypt" had been added, indicating that Ranefer was Sahure's son and had assumed the throne under the name "Neferirkare Kakai" at the death of his father. Since both Ranefer and Netjerirenre are given the titles of "king's eldest son", Verner and El-Awady speculate that they may have been twins with Ranefer born first. They propose that Netjerirenre may have later seized the throne for a brief reign under the name "Shepseskare", although this remains conjectural. The same relief further depicts queen Meretnebty, who was thus most likely Sahure's consort and the mother of Ranefer and Netjerirenre. Three more sons, Khakare, Horemsaf, and Nebankhre are shown on reliefs from Sahure's mortuary temple, but the identity of their mother(s) is unknown.
+
+Netjerirenre bore several religious titles corresponding to high-ranking positions in the court and which suggest that he may have acted as a vizier for his father. This is debated, as Michel Baud points out that at the time of Sahure, the eviction of royal princes from the vizierate was ongoing if not already complete.
+
+
+---
+
+
+### Niuserre
+
+**Source:** https://en.wikipedia.org/wiki/Niuserre
+
+
+Nyuserre Ini (also Niuserre Ini or Neuserre Ini; in Greek known as Rathurês, Ῥαθούρης; died c. 2422 BC) was an Ancient Egyptian king, the sixth ruler of the Fifth Dynasty during the Old Kingdom period. He is credited with a reign of 24 to 36 years depending on the scholar, and likely lived in the second half of the 25th century BCE. Nyuserre was the younger son of Neferirkare Kakai and queen Khentkaus II, and the brother of the short-lived king Neferefre. He may have succeeded his brother directly, as indicated by much later historical sources. Alternatively, Shepseskare may have reigned between the two as advocated by Miroslav Verner, albeit only for a few weeks or months at the most. The relation of Shepseskare with Neferefre and Nyuserre remains highly uncertain. Nyuserre was in turn succeeded by Menkauhor Kaiu, who could have been his nephew and a son of Neferefre.
+
+Nyuserre was the most prolific builder of his dynasty, having built three pyramids for himself and his queens and completed a further three for his father, mother and brother, all in the necropolis of Abusir. He built the largest surviving temple to the sun god Ra constructed during the Old Kingdom, named Shesepibre or "Joy of the heart of Ra". He also completed the Nekhenre, the Sun temple of Userkaf in Abu Gorab, and the valley temple of Menkaure in Giza. In doing so, he was the first king since Shepseskaf, last ruler of the Fourth Dynasty, to pay attention to the Giza necropolis, a move which may have been an attempt to legitimise his rule following the troubled times surrounding the unexpected death of his brother Neferefre.
+
+There is little evidence for military action during Nyuserre's reign; the Egyptian state continued to maintain trade relations with Byblos on the Levantine coast and to send mining and quarrying expeditions to Sinai and Lower Nubia. Nyuserre's reign saw the growth of the administration, and the effective birth of the nomarchs, provincial governors who, for the first time, were sent to live in the provinces they administered rather than at the pharaoh's court.
+
+As with other Old Kingdom pharaohs, Nyuserre benefited from a funerary cult established at his death. In Nyuserre's case, this official state-sponsored cult existed for centuries, surviving the chaotic First Intermediate Period and lasting until the Twelfth Dynasty of the Middle Kingdom. In parallel, a spontaneous popular cult appeared, with people venerating Nyuserre under his birth name "Iny". In this cult, Nyuserre played a role similar to that of a saint, being invoked as an intercessor between the believer and the gods. It left little archaeological evidence and seems to have continued until the New Kingdom, nearly 1,000 years after his death.
+
+Nyuserre Ini is well attested in sources contemporaneous with his reign, for example in the tombs of some of his contemporaries including Nyuserre's manicurists Khnumhotep and Niankhkhnum, the high officials Khufukhaf II, Ty, Rashepses, Neferefre-ankh and Khabawptah, and the priests of his funerary cult Nimaatsed and Kaemnefert.
+
+Nyuserre is attested in three ancient Egyptian king lists, all dating to the New Kingdom. The earliest of these is the Karnak king list, which was commissioned by Thutmose III (fl. 1479–1425 BCE) to honour some of his forebears and which mentions Nyuserre in the fourth entry, which shows his birth name "Iny" in a cartouche. Nyuserre's prenomen occupies the 30th entry of the Abydos King List, written nearly 200 years later during the reign of Seti I (fl. 1290–1279 BCE). Nyuserre's prenomen was most likely also given on the Turin canon (third column, 22nd row), dating to the reign of Ramses II (fl. 1279–1213 BCE), but it has since been lost in a large lacuna affecting the document. Fragments of his reign length are still visible on the papyrus, indicating a reign of somewhere between 11 and 34 years. Nyuserre is the only Fifth Dynasty king absent from the Saqqara Tablet.
+
+Nyuserre was also mentioned in the Aegyptiaca, a history of Egypt probably written in the 3rd century BCE during the reign of Ptolemy II (fl. 283–246 BCE) by the Egyptian priest Manetho. Even though no copies of the text survive, it is known through later writings by Sextus Julius Africanus and Eusebius. In particular, Africanus relates that the Aegyptiaca mentioned a pharaoh ´Ραθούρης, that is "Rathurês", reigning for forty-four years as the sixth king of the Fifth Dynasty. "Rathurês" is believed to be the Hellenised form of Nyuserre.
+
+Two competing hypotheses exist in Egyptology to describe the succession of events running from the death of Neferirkare Kakai, the third king of the Fifth Dynasty, to the coronation of Nyuserre Ini, the sixth ruler of the dynasty. Relying on historical sources, where Nyuserre is said to have directly succeeded Neferefre, many Egyptologists such as Jürgen von Beckerath and Hartwig Altenmüller have traditionally believed that the following succession took place: Neferirkare Kakai → Shepseskare → Neferefre → Nyuserre Ini. In this scenario, Neferefre is the father of Nyuserre, who would have become pharaoh after Neferefre's unexpected death. Neferefre would be the successor of Shepseskare, credited with seven years of reign, as indicated in Manetho's Aegyptiaca.
+
+
+---
+
+
+### Unas
+
+**Source:** https://en.wikipedia.org/wiki/Unas
+
+
+Unas /ˈjuːnəs/ or Wenis, also spelled Unis (Ancient Egyptian: wnjs, hellenized form Oenas /ˈiːnəs/ or Onnos; died c. 2345 BC), was a king, the ninth and last ruler of the Fifth Dynasty of Egypt during the Old Kingdom. Unas reigned for around 30 years in the mid-24th century BC (c. 2375–c. 2345 BC), succeeding Djedkare Isesi, who might have been his father.
+
+Little is known of Unas's activities during his reign, which was a time of economic decline. Egypt maintained trade relations with the Levantine coast and Nubia, and military action may have taken place in southern Canaan. The growth and decentralization of the administration in conjunction with the lessening of the king's power continued under Unas, ultimately contributing to the collapse of the Old Kingdom some 200 years later.
+
+Unas built a pyramid in Saqqara, the smallest of the royal pyramids completed during the Old Kingdom. The accompanying mortuary complex with its high and valley temples linked by a 750-metre-long (2,460 ft) causeway was lavishly decorated with painted reliefs, whose quality and variety surpass the usual royal iconography. Furthermore, Unas was the first pharaoh to have the Pyramid Texts carved and painted on the walls of the chambers of his pyramid, a major innovation that was followed by his successors until the First Intermediate Period (c. 2160 – c. 2050 BC). These texts identify the king with Ra and with Osiris, whose cult was on the rise in Unas's time, and were meant to help the king reach the afterlife.
+
+Unas had several daughters and possibly one or two sons who are believed to have predeceased him. Manetho, a third-century BC Egyptian priest of the Ptolemaic Kingdom and author of the first history of Egypt, claims that with Unas's death the Fifth Dynasty came to an end. Unas was succeeded by Teti, the first king of the Sixth Dynasty, possibly after a short crisis. However, the archaeological evidence suggests that the Egyptians at the time made no conscious break with the preceding dynasty and the distinction between the Fifth and Sixth dynasties might be illusory.
+
+The funerary cult of Unas established at his death continued until the end of the Old Kingdom and may have survived during the chaotic First Intermediate Period. The cult was still in existence or revived during the later Middle Kingdom (c. 2050 – c. 1650 BC). This did not prevent Amenemhat I and Senusret I (c. 1990 – c. 1930 BC) from partially dismantling the mortuary complex of Unas for its materials.
+
+In parallel to the official cult, Unas may have received popular veneration as a local god of Saqqara until as late as the Late Period (664–332 BC), nearly 2,000 years after his death.
+
+Unas is well attested by historical sources with three ancient Egyptian king lists dating to the New Kingdom period mentioning him. He occupies the 33rd entry of the Abydos King List, which was written during the reign of Seti I (1290–1279 BC). Unas's name is also present on the Saqqara Tablet (32nd entry) and on the Turin canon (third column, 25th row), both of which were written during the reign of Ramses II (1279–1213 BC). The Turin canon further credits Unas with 30 years of reign. These sources all place Unas as the ninth and final ruler of the Fifth Dynasty, succeeding Djedkare Isesi and preceding Teti on the throne. This relative chronology is corroborated by archaeological evidence, for example in the tomb of officials serving under these kings.
+
+In addition to these sources, Unas was also likely mentioned in the Aegyptiaca, a history of Egypt written in the 3rd century BC during the reign of Ptolemy II (283–246 BC) by the Egyptian priest Manetho. No copies of the Aegyptiaca have survived to this day and it is known to us only through later writings by Sextus Julius Africanus and Eusebius. Africanus relates that the Aegyptiaca mentioned a pharaoh "Onnos" reigning for 33 years at the end of the Fifth Dynasty. Onnos is believed to be the hellenized form for Unas, and Africanus' 33-year figure fits well with the 30 years of reign given to Unas on the Turin canon.
+
+
+---
+
+
+## Dynasty 6 (Old Kingdom ~2345–2181 BC)
+
+---
+
+
+### Teti
+
+**Source:** https://en.wikipedia.org/wiki/Teti
+
+
+Teti, less commonly known as Othoes, sometimes also Tata, Atat, or Athath in outdated sources (died c. 2333 BC), was the first king of the Sixth Dynasty of Egypt. He was buried at Saqqara. The exact length of his reign has been destroyed on the Turin King List but is believed to have been around 12 years.
+
+Teti's Horus name Sehoteptawy, "He who pacifies the Two Lands", probably indicates that he must have led military pacification operations near the start of his reign. During Teti's reign, high officials were beginning to build funerary monuments that rivaled those of the pharaoh. His vizier, Mereruka, built a mastaba tomb at Saqqara which consisted of 33 richly carved rooms, the biggest known tomb for an Egyptian nobleman. This is considered to be a sign that Egypt's wealth was being transferred from the central court to the officials, a slow process that culminated in the end to the Old Kingdom.[citation needed]
+
+Teti's highest date is his "Year after the 6th Count 3rd Month of Summer day lost" (Year 12 if the count was biannual) from Hatnub Graffito No.1. This information is confirmed by the South Saqqara Stone Annal document from Pepi II's reign, which gives him a reign of around 12 years.
+
+Teti is known to have had several children. He was the father of at least three sons and probably ten daughters. Of the sons, two are well attested, and a third one is likely.
+
+According to N. Kanawati, Teti had at least nine daughters by a number of wives, and the fact that they were named after his mother, Sesheshet, allows researchers to trace his family. At least three princesses bearing the name Seshseshet are designated as "king's eldest daughter", meaning that there were at least three different queens. It seems that there was a tenth one, born of a fourth queen, as she is also designated as "king's eldest daughter".
+
+Another possible daughter is princess Inti.
+
+The Egyptian priest and chronicler Manetho states that Teti was murdered by his palace bodyguards in a harem plot, and he appears to have been briefly succeeded by a short-lived usurper, Userkare.
+
+Teti was buried in the royal necropolis at Saqqara. His pyramid complex is associated with the mastabas of officials from his reign.
+
+
+---
+
+
+### Pepi I
+
+**Source:** https://en.wikipedia.org/wiki/Pepi_I_Meryre
+
+
+Pepi I Meryre (also Pepy I) was an ancient Egyptian pharaoh, third king of the Sixth Dynasty of Egypt, who ruled for over 40 years at the turn of the 24th and 23rd centuries BC, toward the end of the Old Kingdom period. He was the son of Teti, the founder of the dynasty, and ascended the throne only after the brief intervening reign of the enigmatic pharaoh Userkare. His mother was Iput, who may have been a daughter of Unas, the final ruler of the preceding Fifth Dynasty. Pepi I, who had at least six consorts, was succeeded by his son Merenre Nemtyemsaf I, with whom he may have shared power in a coregency at the very end of his reign. Pepi II Neferkare, who might also have been Pepi I's son, succeeded Merenre.
+
+Several difficulties accumulated during Pepi's reign, beginning with the possible murder of his father and the ensuing reign of Userkare. Later, probably after his twentieth year of reign, Pepi faced a harem conspiracy hatched by one of his consorts who may have tried to have her son designated heir to the throne, and possibly another conspiracy involving his vizier at the end of his reign. Confronted with the protracted decline of pharaonic power and the emergence of dynasties of local officials, Pepi reacted with a vast architectural program involving the construction of temples dedicated to local gods and numerous chapels for his own cult throughout Egypt, reinforcing his presence in the provinces. Egypt's prosperity allowed Pepi to become the most prolific builder of the Old Kingdom. At the same time, Pepi favored the rise of small provincial centres and recruited officials of non-noble extraction to curtail the influence of powerful local families. Continuing Teti's policy, Pepi expanded a network of warehouses accessible to royal envoys and from which taxes and labor could easily be collected. Finally, he buttressed his power after the harem conspiracy by forming alliances with Khui, the provincial nomarch of Abydos, marrying two of his daughters, Ankhesenpepi I and Ankhesenpepi II, and making both Khui's wife Nebet and her son Djau viziers. The Egyptian state's external policy under Pepi comprised military campaigns against Nubia, Sinai and the southern Levant, landing troops on the Levantine coast using Egyptian transport boats. Trade with Byblos, Ebla and the oases of the Western Desert flourished, while Pepi launched mining and quarrying expeditions to Sinai and further afield.
+
+Pepi had a pyramid complex built for his funerary cult in Saqqara, next to which he built at least a further six pyramids for his consorts. Pepi's pyramid, which originally stood 52.5 m (172 ft) tall, and an accompanying high temple, followed the standard layout inherited from the late Fifth Dynasty. The most extensive corpus of Pyramid Texts from the Old Kingdom cover the walls of Pepi I's burial chamber, antechamber and much of the corridor leading to it. For the first time, these texts also appear in some of the consorts' pyramids. Excavations revealed a bundle of viscera and a mummy fragment, both presumed to belong to the pharaoh. Pepi's complex, called Pepi Mennefer, remained the focus of his funerary cult well into the Middle Kingdom and ultimately gave its name to the nearby capital of Egypt, Memphis. Pepi's cult stopped early in the Second Intermediate Period. Pepi's monuments began to be quarried for their stone in the  New Kingdom, and in the Mamluk era they were almost entirely dismantled.
+
+Pepi was the son of the pharaoh Teti and Iput. Her parentage is directly attested to by a relief on a decree uncovered in Coptos that mentions Iput as Pepi's mother, by inscriptions in her mortuary temple mentioning her titles as mother of a king and as mother of Pepi, by the architecture of her tomb which had been changed from an original mastaba form into a pyramid on the accession of her son to the throne,
+and by her mention as being Pepi's mother on the Sixth Dynasty royal annals. Iput may have been a daughter of Unas, the last pharaoh of the Fifth Dynasty, although this remains uncertain and debated. She seems to have died before Pepi's accession to the throne. The observation that Teti was most probably Pepi's father follows from the location of Iput's tomb, next to Teti's pyramid as was customary for a queen consort.
+
+Egyptologists have identified six consorts of Pepi I with near certainty.
+Pepi's best-attested consorts were Ankhesenpepi I and Ankhesenpepi II, who both bore future pharaohs and were daughters of the nomarch of Abydos Khui and his wife Nebet. Further consorts are Nubwenet, Inenek-Inti, who became one of Pepi's viziers, and Mehaa (also called Haaheru). All were buried in pyramids adjacent to that of Pepi. Relief fragments from the necropolis surrounding Pepi's pyramid mention another consort, Sebwetet.
+
+Two more consorts have been proposed for Pepi I based on partial evidence. The first is Nedjeftet, whose name is recorded on blocks excavated in the necropolis adjacent to Pepi's pyramid. The identification of Nedjeftet as Pepi's consort remains uncertain owing to the lack of inscriptions explicitly naming her husband. Given the location of Nedjeftet's blocks in the necropolis, she may be the owner of a pyramid west of Pepi's. The second is another consort, named Behenu, who was buried in the second largest queen pyramid of Pepi's necropolis, north of his. She could either be one of his consorts or a consort of Pepi II.
+
+A final unnamed consort, only referred to by her title "Weret-Yamtes" meaning "great of affection", is known from inscriptions uncovered in the tomb of Weni, an official serving Pepi. This consort, whose name is purposefully left unmentioned by Weni, conspired against Pepi and was prosecuted when the conspiracy was discovered.
+
+Pepi fathered at least four sons. Ankhesenpepi I probably bore him the future pharaoh Merenre Nemtyemsaf I. Ankhesenpepi II was the mother of Pepi II Neferkare, who was probably born at the very end of Pepi I's reign given he was only six upon ascending the throne after Merenre's rule. While a majority of Egyptologists favor this hypothesis, an alternative one holds that Pepi II could be a son of Merenre.
+Another of Pepi I's sons was Teti-ankh, meaning "Teti lives", whose mother has yet to be identified. Teti-ankh is known only from an ink inscription bearing his name discovered in Pepi's pyramid. Buried nearby is Prince Hornetjerkhet, a son of Pepi with Mehaa.
+
+
+---
+
+
+### Pepi II
+
+**Source:** https://en.wikipedia.org/wiki/Pepi_II_Neferkare
+
+
+Pepi II Neferkare (c. 2284 BC – c. 2214 BC) was a king of the Sixth Dynasty in Egypt's Old Kingdom. His second name, Neferkare (Nefer-ka-Re), means "Beautiful is the Ka of Re". He succeeded to the throne at age six, after the death of Nemtyemsaf I.
+
+Pepi II's reign marked a sharp decline of the Old Kingdom. As the power of the nomarchs grew, the power of the king declined. With no dominant central power, local nobles began raiding each other's territories and the Old Kingdom came to an end within a couple of years after the end of Pepi II's reign. This led to the First Intermediate Period of Egypt which lasted from the Seventh Dynasty of Egypt to the Tenth Dynasty of Egypt.
+
+According to the ancient historian Manetho (4th century BC), he reigned for 94 years, and according to the Turin King List (13th century BC), for 90 years. Since the latest contemporary documentary evidence for Pepi II dates from his 62nd year of reign, the 90+ years may be questionable.
+
+He was traditionally thought to be the son of Pepi I and Queen Ankhesenpepi II, but the South Saqqara Stone annals record that Merenre had a minimum reign of 11 years. Several 6th Dynasty royal seals and stone blocks – the latter of which were found within the funerary temple of Queen Ankhesenpepi II, the known mother of Pepi II – were discovered in the 1999–2000 excavation season at Saqqara, which demonstrate that she also married Merenre after Pepi I's death and became this king's chief wife. Inscriptions on these stone blocks give Ankhesenpepi II the royal titles of: "King's Wife of the Pyramid of Pepy I, King's Wife of the Pyramid of Merenre, King's Mother of the Pyramid of Pepy II". Therefore, today, many Egyptologists believe that Pepi II was likely Merenre's own son. Pepi II would, therefore, be Pepi I's grandson while Merenre was, most likely, Pepi II's father since he is known to have married Pepi II's known mother, Queen Ankhesenpepi II.
+
+His mother Ankhesenpepi II (Ankhesenmeryre II) most likely ruled as regent in the early years of his reign. She may have been helped in turn by her brother Djau, who was a vizier under the previous pharaoh. An alabaster statuette in the Brooklyn Museum depicts a young Pepi II, in full kingly regalia, sitting on the lap of his mother. Despite his long reign, this piece is one of only three known sculptural representations in existence of this particular king. Some scholars have taken the relative paucity of royal statuary to suggest that the royal court was losing the ability to retain skilled artisans.
+
+A glimpse of the personality of the pharaoh while he was still a child can be found in a letter he wrote to Harkhuf, a governor of Aswan and the head of one of the expeditions he sent into Nubia. Sent to trade and collect ivory, ebony, and other precious items, he captured a pygmy. News of this reached the royal court, and an excited young king sent word back to Harkhuf that he would be greatly rewarded if the pygmy were brought back alive, where he would have likely served as an entertainer for the court. This letter was preserved as a lengthy inscription on Harkhuf's tomb, and has been called the first travelogue.
+
+Over his long life, Pepi II had several wives, including:
+
+Of these queens, Neith, Iput, and Udjebten each had their own minor pyramids and mortuary temples as part of the king's own pyramid complex in Saqqara. Queen Ankhesenpepi III and Meritites IV were buried in pyramids near the pyramid of Pepi I Meryre, and Ankhesenpepi IV was buried in a chapel in the complex of Queen Udjebten.
+
+
+---
+
+
+### Nitocris
+
+**Source:** https://en.wikipedia.org/wiki/Nitocris_(pharaoh)
+
+
+_Scrape failed: 404 Client Error: Not Found for url: https://en.wikipedia.org/wiki/Nitocris_(pharaoh)_
+
+---
+
+
+## Dynasty 11 (Middle Kingdom ~2055–1985 BC)
+
+---
+
+
+### Mentuhotep II
+
+**Source:** https://en.wikipedia.org/wiki/Mentuhotep_II
+
+
+Mentuhotep II (Ancient Egyptian: Mn-ṯw-ḥtp, meaning "Mentu is satisfied"), also known under his prenomen Nebhepetre (Ancient Egyptian: Nb-ḥpt-Rˁ, meaning "The Lord of the rudder is Ra"; died c. 2009 BC), was an ancient Egyptian King, the sixth ruler of the 11th Dynasty. He is credited with reuniting Egypt, thus ending the turbulent First Intermediate Period and becoming the first pharaoh of the Middle Kingdom. He reigned for 51 years, according to the Turin King List. Mentuhotep II succeeded his father Intef III on the throne and was in turn succeeded by his son Mentuhotep III.
+
+Mentuhotep II ascended Egypt's throne in the Upper Egyptian city of Thebes during the First Intermediate Period. Egypt was not unified during this time, and the 10th Dynasty, rival to Mentuhotep's 11th, ruled Lower Egypt from Herakleopolis. After the Herakleopolitan kings desecrated the sacred ancient royal necropolis of Abydos in Upper Egypt in the fourteenth year of Mentuhotep's reign, Pharaoh Mentuhotep II dispatched his armies north to conquer Lower Egypt. Continuing his father Intef III's conquests, Mentuhotep succeeded in unifying his country, probably shortly before his 39th year on the throne. Following and in recognition of the unification, in regnal year 39, he changed his titulary to Sematawy (Ancient Egyptian: Smȝ-tȝ.w(j), meaning "He who unifies the two lands").
+
+Following the unification, Mentuhotep II reformed Egypt's government. To reverse the decentralization of power, which contributed to the collapse of the Old Kingdom and marked the First Intermediate Period, he centralized the state in Thebes by stripping from nomarchs some of their power. Mentuhotep II also created new governmental posts whose occupants were Theban men loyal to him, giving the pharaoh more control over his country. Officials from the capital travelled the country regularly to control regional leaders.
+
+Mentuhotep II was buried at the Theban necropolis of Deir el-Bahari. His mortuary temple was one of Mentuhotep II's most ambitious building-projects, and included several architectural and religious innovations. For example, it included terraces and covered walkways around the central structure, and it was the first mortuary temple that identified the pharaoh with the god Osiris. His temple inspired several later temples, such as those of Hatshepsut and Thutmose III of the Eighteenth Dynasty. Some depictions of Mentuhotep II seem to indicate that he suffered from elephantiasis, resulting in swollen legs.
+
+Mentuhotep II was the son of Intef III and Intef III's wife Iah who may also have been his sister. This lineage is demonstrated by the stele of Henenu (Cairo 36346), an official who served under Intef II, Intef III and his son, which the stele identifies as Horus s-ankh-[ib-t3wy], Mentuhotep II's first Horus name. As for Iah, she bore the title of mwt-nswt, "King's mother". The parentage of Mentuhotep II is also indirectly confirmed by a relief at Shatt er-Rigal. Some scholars have suggested that Mentuhotep II was of Nubian origin. Specifically, Wildung and Lobban have argued that Egyptian iconography represented Mentuhotep II with pronounced, Nubian facial features. Crawford noted that the rulers of the 11th dynasty were based in the Theban or southern region of Upper Egypt and had close relations with Nubia.
+
+Mentuhotep II had many wives who were buried with him in or close to his mortuary temple.
+
+Mentuhotep II is considered to be the first ruler of the Middle Kingdom of Egypt. The Turin Canon credits him with a reign of 51 years. Many Egyptologists have long considered two rock reliefs, showing Mentuhotep II towering over smaller figures labeled king "Intef", to be conclusive evidence that his predecessor Intef III was his own father; this is, however, not entirely certain, as these reliefs may have had other propagandistic purposes, and there are other difficulties surrounding Mentuhotep's true origin, his three name-changes, and his frequent attempts to claim descent from various gods.
+
+When he ascended the Theban throne, Mentuhotep II inherited the vast land conquered by his predecessors from the first cataract in the south to Abydos and Tjebu in the north.
+Mentuhotep II's first fourteen years of reign seem to have been peaceful in the Theban region as there are no surviving traces of conflict firmly datable to that period. In fact, the general scarcity of testimonies from the early part of Mentuhotep's reign might indicate that he was young when he ascended the throne, a hypothesis consistent with his 51 years long reign.
+
+
+---
+
+
+### Mentuhotep III
+
+**Source:** https://en.wikipedia.org/wiki/Mentuhotep_III
+
+
+Sankhkare Mentuhotep III (also Montuhotep III; died c. 1997 BC) of the 11th Dynasty was King of Egypt during the Middle Kingdom. He was assigned a reign of 12 years in the Turin Canon. Mentuhotep's reign is known for his expedition to Punt and architectural innovations.
+
+Mentuhotep III succeeded his father Mentuhotep II to the throne. It is believed that, following his father's long 51 years of reign, Mentuhotep III was relatively old when he acceded to the throne and reigned for 12 years. Despite its short duration, Mentuhotep's reign is known for his expedition to Punt and architectural innovations.
+
+Mentuhotep III's titulary is very similar to the third and final one of his father. Mentuhotep III is known to have had at least two praenomen: the well known Sankhkare and also
+
+Mentuhotep III sent an expedition to the Land of Punt during the 8th year of his reign, something that had not been done since the Old Kingdom. An inscription in the Wadi Hammamat describes the expedition as being 3,000 men strong and under the command of the steward Henenu. As they left Coptos in direction of the Red Sea (port of Mersa Gawasis?), they dug 12 wells for future expeditions and cleared the region of rebels. They returned from Punt with incense, gum, and perfumes, and quarried the Wadi Hammamat for stones.
+
+Sankhkare Mentuhotep was responsible for several building projects in the 12 years of his reign. He extended the temple of Monthu in Medamud, a monumental decorated doorway bearing his likeness and royal titles now resides in the Louvre.
+
+Sankhkare Mentuhotep also had a mudbrick temple erected at Thoth Hill in Western Thebes. The temple was built on the site of an older archaic temple. It was dedicated to the god Montu-Ra. This temple may have been destroyed by an earthquake towards the end of the 11th Dynasty.
+
+It was long presumed that his own tomb and mortuary temple was begun in Deir el-Bahari, but never completed. This temple was located in a separate valley a short distance from his father's mortuary temple. A causeway would have led up to a temple platform. A burial chamber lined with limestone slabs was completed and sealed, but apparently it never contained a burial. The association of the monument with Sankhkare Mentuhotep was circumstantial, based on co-location with the tomb (TT280) of the High Steward Meketre, one of the chief officials of the reign. However, Dorothea Arnold recently provided compelling evidence that the monument is the likely unfinished Theban tomb of Amenemhat I, the funerary monument of Sankhkare Mentuhotep remains unknown. However, the attribution of the monument to Amenemhat I is unproven as well. The owner of the unnamed royal burial place must remain open.
+
+Mentuhotep III was the son and successor of Mentuhotep II. One of the wives of Mentuhotep II, Tem, was given the title Mother of the Dual King and is the mother of Mentuhotep III. Mentuhotep III's family is mostly a mystery. It is currently believed that he fathered his successor Mentuhotep IV with one of his probable harem wives, Imi. This is, however, still debated among Egyptologists. Mentuhotep IV's mother is known to have been Queen Imi. If he was the son of Mentuhotep III, Imi must have been the wife of Mentuhotep III.
+
+
+---
+
+
+### Mentuhotep IV
+
+**Source:** https://en.wikipedia.org/wiki/Mentuhotep_IV
+
+
+Nebtawyre Mentuhotep IV (died c. 1991 BC) was the last king of the 11th Dynasty in the Middle Kingdom. He seems to fit into a 7-year period in the Turin Canon for which there is no recorded king.
+
+In Wadi Hammamat, a rock inscription (Hammamat M 191) with the royal name of Mentuhotep IV also mentions King's Mother Imi. This monument only focus on the title King's Mother, presumably the mother of Mentuhotep IV. It does not include other titles like King's Wife, King's Sister or King's Daughter. Some have speculated that she was a concubine in the royal harem.
+
+It is not certain who the father of Mentuhotep IV was. Most scholars suggest that he was the son and successor of Mentuhotep III. However, it is also possible that he was a son of Mentuhotep II, thus a brother or half-brother of Mentuhotep III. The fact that he has been omitted from several king lists indicate that there was a crisis in the order of succession. He also represents the last king of the 11th Dynasty, and his reign is poorly documented indicating turmoil.
+
+He is known from several inscriptions at several locations, despite his reign being omitted from the Abydos king list. The inscriptions show the organization and makeup of a large expedition during his reign.
+
+Also, he is attested by the inscriptions at Wadi el-Hudi.
+
+At the Red Sea port of Ain Sukhna expeditions went to places like the Wadi Maghareh in the Sinai. Products like turquoise and copper were transported to Memphis some 120 km across the sand tracks of the Eastern Desert. Or perhaps transported along the Red Sea coast further south to the port of Mersa Gawasis. Inscriptions dated to Mentuhotep IV have been found.
+
+Year 1, arrival of the king’s men; workforce: 3,000, to bring back turquoise, copper, bronze (?) and all fine products of the desert. [rnpt-zp 1: jwt mšʿ n nswt; ṯnw n mšʿ pn 3,000 n s r jnt mfkȝt, bjȝ, ḥsmn (?), jnw nb(w) nfr(w) n ḫȝst]
+
+He is known from a few inscriptions in Wadi Hammamat that record expeditions to the Red Sea coast and to quarry stone for the royal monuments. One of these inscriptions confirms the name of his mother to be King's Mother Imi. The leader of an expedition to Wadi Hammamat, during the second year of Mentuhotep IV's reign, was his vizier, Amenemhat, who is assumed to be the future king Amenemhat I, the first king of the 12th Dynasty, and Mentuhotep's immediate successor.
+
+
+---
+
+
+## Dynasty 12 (Middle Kingdom ~1985–1773 BC)
+
+---
+
+
+### Amenemhat I
+
+**Source:** https://en.wikipedia.org/wiki/Amenemhat_I
+
+
+Amenemhat I (Ancient Egyptian: Ỉmn-m-ḥꜣt meaning 'Amun is at the forefront'), also known as Amenemhet I, was a pharaoh of ancient Egypt and the first king of the Twelfth Dynasty of the Middle Kingdom.
+
+Amenemhat I was probably the same as the vizier named Amenemhat who led an expedition to Wadi Hammamat under his predecessor Mentuhotep IV, and possibly overthrew him from power. Scholars differ as to whether Mentuhotep IV was killed by Amenemhat I, but there is no independent evidence to suggest this and there may even have been a period of co-regency between their reigns.
+
+Amenemhat I was not of royal lineage, born to Senusret and Nefert who were possibly related to the nomarchial family of Elephantine. The composition of some literary works (the Prophecy of Neferti, the Instructions of Amenemhat) and, in architecture, the reversion to the pyramid-style complexes of the 6th dynasty rulers are often considered to have been attempts at legitimizing his rule. Texts from the period mention his mother being from the Upper Egyptian nome Ta-Seti. Many scholars in recent years have argued that Amenemhat I's mother was of Nubian origin.
+
+Amenemhat I moved the capital from Thebes to Itjtawy and was buried in el-Lisht. Both the Instructions of Amenemhat and the Story of Sinuhe suggest he was assassinated before he could celebrate his first Sed festival.
+
+Amenemhat I's praenomen occupies the first entry of the third row of the Karnak King List from the Festival Hall of Thutmose III (c. 1479–1425 BC). In the Abydos king list from the temple of Seti I (c. 1290–1279 BC) in Abydos, Amenemhat I's praenomen Sehetep-ib-re occupies the fifty-ninth entry. It must also have occupied the same position in the king list at the temple of Ramesses II (c. 1279–1213 BC), though it has been lost in a lacuna. In the Saqqara Tablet from the tomb of the chief lector priest and chief of works Tjuneroy, Amenemhat I's praenomen occupies the fifteenth entry. The Turin Canon partially preserves Amenemhat I's praenomen in the twentieth entry of the fifth column and accords him a reign of 29 years. The line immediately above mentions the 'kings of the residence of Iti-tawy'.
+
+Amenemhat I is also mentioned in Manetho's Aegyptiaca, originally composed circa the 3rd century BC and tentatively dated to the reign of Ptolemy II. The original work is no longer extant, but it has persisted through the writings of Josephus, Africanus, Eusebius, and George Syncellus. He is accorded a reign of 16 years under the name Άμμενέμης (romanized Ammenemês) by both Africanus and Eusebius, though he is placed at the end of the Eleventh Dynasty instead of at the start of the Twelfth Dynasty. Syncellus accords him a reign of 26 years under the name Σταμμενέμης ά (romanized Stammenemês I) as the thirty-second king of Thebes.[b]
+
+In the view of Egyptologist Frank J. Yurco,
+
+"The XIIth Dynasty (1991-1786 B.C.E.) originated from the Aswan region. As expected, strong Nubian features and dark coloring are seen in their sculpture and relief work. This dynasty ranks as among the greatest, whose fame far outlived its actual tenure on the throne."
+
+
+---
+
+
+### Senusret I
+
+**Source:** https://en.wikipedia.org/wiki/Senusret_I
+
+
+Senusret I (Middle Egyptian: z-n-wsrt; /suʀ nij ˈwas.ɾiʔ/) also anglicized as Sesostris I and Senwosret I (died c. 1926 BC) was the second king of the 12th Dynasty of Egypt, and was one of the most powerful kings of the dynasty. He was the son of Amenemhat I. Senusret I was known by his prenomen, Kheperkare, which means "the Ka of Re is created." He expanded the territory of Egypt, allowing him to rule during an age of prosperity.
+
+The family relations of the king are well known. Senusret I was the son of Amenemhat I. His mother was a queen with the name Neferitatjenen.
+
+His main wife was Neferu III who was also his sister.
+
+He continued his father's aggressive expansionist policies against Nubia by initiating two expeditions into this region in his 10th and 18th years and established Egypt's formal southern border near the second cataract where he placed a garrison and a victory stele. He also organized an expedition to a Western Desert oasis. Senusret I established diplomatic relations with some rulers of towns in Syria and Canaan. He also tried to centralize the country's political structure by supporting nomarchs who were loyal to him. His pyramid was constructed at el-Lisht. Senusret I is mentioned in the Story of Sinuhe where he is reported to have rushed back to the royal palace in Memphis from a military campaign in Libya after hearing about the assassination of his father, Amenemhat I.
+
+In Year 21 of Amenemhat I, a coregency was established with Senusret I celebrating his Year 1 as junior coregent (Horus), while his father became senior coregent (Osiris). A double dated stele from Abydos and now in the Cairo Museum (CG 20516) is dated to the Year 30 of Amenemhat I and to the Year 10 of Senusret I.
+
+Assassination of Amenemhat. In Year 30 of Amenemhat I and Year 10 of Senusret I of the coregency, his father Amenemhat I was assassinated. This marked the beginning of the sole reign of Senusret I. As recounted in the Story of Sinuhe, a famous text of Egyptian literature:
+
+Year 30, third month of the Inundation season, day 7, the god mounted to his horizon, the King of Upper and Lower Egypt Sehetepibre (Amenemhat I) went aloft to heaven and became united with the sun's disk, the limb of the god being merged in him who made him; whilst the Residence was hushed, hearts were in mourning, the Great Gates were closed, the courtiers crouched, head on lap, and the nobles grieved.
+Now His Majesty had sent an army to the land of the Tjemeh (Libyans), his eldest son as the captain thereof, the god Senusret (Senusret I). He had been sent to smite the foreign countries, and to take prisoner the dwellers in the Tjehnu-land, and now indeed he was returning and had carried off living prisoners of the Tjehnu and all kinds of cattle limitless. And the Companions of the Palace sent to the western side to acquaint the king's son concerning the position that had arisen in the Royal Apartments, and the messengers found him upon the road, they reached him at time of night. Not a moment did he linger, the falcon flew off with his followers, not letting his army know. But the king's children who accompanied him in this army had been sent for and one of them had been summoned. (...)
+
+As Senusret was informed of the attack by a messenger while still on campaign, he likely also learned that several of his brothers, present in the army, may have been involved in the conspiracy that lead to Amenemhat's assassination. Without alerting anyone, he returned hastily to the palace, leaving his forces behind, fearing he might also become a target. The exact means by which he regained control of the government or secured the throne remain unknown. It is historically attested that a civil war broke out shortly afterwards and that Senusret was forced to brutally suppress seditious forces aligned against him.
+
+
+---
+
+
+### Senusret II
+
+**Source:** https://en.wikipedia.org/wiki/Senusret_II
+
+
+Senusret II or Sesostris II (died c. 1878 BC) was the fourth king of the 12th Dynasty of Egypt. His pyramid was constructed at El-Lahun. Senusret II took a great deal of interest in the Faiyum oasis region and began work on an extensive irrigation system from Bahr Yussef through to Lake Moeris through the construction of a dike at El-Lahun and the addition of a network of drainage canals. The purpose of his project was to increase the amount of cultivable land in that area. The importance of this project is emphasized by Senusret II's decision to move the royal necropolis from Dahshur to El-Lahun where he built his pyramid. This location would remain the political capital for the 12th and 13th Dynasties of Egypt. Senusret II was known by his prenomen Khakheperre, which means "The Ka of Re comes into being". The king also established the first known workers' quarter in the nearby town of Senusrethotep (Kahun).
+
+Co-regencies are a major issue for Egyptologists' understanding of the history of the Middle Kingdom and the 12th Dynasty. The Egyptologist Claude Obsomer wholly rejects the possibility of co-regencies in the 12th Dynasty. The Egyptologist Karl Jansen-Winkeln having investigated Obsomer's work concluded in favour of co-regencies. Jansen-Winkeln cites a rock stele found at Konosso as irrefutable evidence in favour of a co-regency between Senusret II and Amenemhat II, and by extension proof of co-regencies in the 12th Dynasty. The Egyptologist William Murnane states that "the co-regencies of the period are all known ... from double-dated documents". The Egyptologist Thomas Schneider concludes that recently discovered documents and archaeological evidence are effectively proof of co-regencies in this period.
+
+Some sources ascribe a co-regency period to Senusret II's rule, with Amenemhat II as his co-regent. The Egyptologist Peter Clayton ascribes at least three years of co-regency to Senusret II's reign. The Egyptologist Nicolas Grimal assigns nearly five years of co-regency prior to sole accession to the throne.
+
+The lengths of the reigns of Senusret II and Senusret III are one of the main considerations for discerning the chronology of the 12th Dynasty. The Turin Canon is believed to assign a reign of 19 years to Senusret II and 30 years of reign to Senusret III. This traditional view was challenged in 1972 when the Egyptologist William Simpson observed that the latest attested regnal year for Senusret II was his 7th, and similarly for Senusret III his 19th.
+
+Kim Ryholt, a professor of Egyptology at the University of Copenhagen, suggests the possibility that the names on the canon had been misarranged and offers two possible regnal lengths for Senusret II: 10+ years, or 19 years. Several Egyptologists, such as Thomas Schneider, cite Mark C. Stone's 1997 article in the Göttinger Miszellen as determining that Senusret II's highest recorded regnal year was his 8th, based on Stela Cairo JE 59485.
+
+Some scholars prefer to ascribe him a reign of only 10 years and assign the 19-year reign to Senusret III instead. Other Egyptologists, however, such as Jürgen von Beckerath and Frank Yurco, have maintained the traditional view of a longer 19-year reign for Senusret II given the level of activity undertaken by the king during his reign.[citation needed] Yurco notes that reducing Senusret II's regnal length to 6 years poses difficulties because:
+
+That pharaoh built a complete pyramid at Kahun, with a solid granite funerary temple and complex of buildings. Such projects optimally took fifteen to twenty years to complete, even with the mudbrick cores used in Middle Kingdom pyramids.
+
+At present, the problem concerning the reign length of Senusret II is irresolvable but many Egyptologists today prefer to assign him a reign of 9 or 10 years only given the absence of higher dates attested for him beyond his 8th regnal year. This would entail amending the 19-year figure which the Turin Canon assigns for a 12th dynasty ruler in his position to 9 years instead. However, Senusret II's monthly figure on the throne might be ascertained. According to Jürgen von Beckerath, the temple documents of El-Lahun, the pyramid city of Sesostris/Senusret II often mention the Festival of "Going Forth to Heaven" which might be the date of death for this ruler. These documents state that this Festival occurred on IV Peret day 14.  However, Rita Gautschy states that this Festival date did not mark the actual day of Senusret II's death, but of his funeral or burial. Lisa Saladino Haney observes based on Gautschy's interpretation of this date, "Therefore, if one takes seventy days from the feast day IV Peret 14, one gets II Peret 4 as the approximate date of death of Senwosret/[Senusret II].
+
+
+---
+
+
+### Senusret III
+
+**Source:** https://en.wikipedia.org/wiki/Senusret_III
+
+
+Khakaure Senusret III (also written as Senwosret III or the hellenised form, Sesostris III; died c. 1839 BC) was a king of Egypt. He ruled from c. 1878 BC to c. 1839 BC during a time of great power and prosperity, and was the fifth king of the 12th Dynasty of the Middle Kingdom. He was a great king of the 12th Dynasty and is considered to rule at the height of the Middle Kingdom. Consequently, he is regarded as one of the sources for the legend about Sesostris. His military campaigns gave rise to an era of peace and economic prosperity that reduced the power of regional rulers and led to a revival in craftwork, trade, and urban development. Senusret III was among the few Egyptian kings who were deified and honored with a cult during their own lifetime.
+
+Senusret III was the son of Senusret II and Khenemetneferhedjet I, also called Khenemetneferhedjet I Weret (the elder). Three wives of Senusret III are known for certain. These are Itakayt, Khenemetneferhedjet II, and Neferthenut, all three mainly known from their burials next to the pyramid of the king at Dahshur.
+
+Senusret III cleared a navigable canal through the first cataract of the Nile River, (this was different from the Canal of the Pharaohs, which apparently, Senusret III also tried to build). He also relentlessly pushed his kingdom's expansion into Nubia (from 1866 to 1863 BC) where he erected massive river forts including Buhen, Semna, Shalfak, and Toshka at Uronarti.
+
+He carried out at least four major campaigns into Nubia in his Years 8, 10, 16, and 19. His Year 8 stela at Semna documents his victories against the Nubians, through which he is thought to have made safe the southern frontier, preventing further incursions into Egypt. Another great stela from Semna dated to the third month of Year 16 of his reign mentions his military activities against both Nubia and Canaan. In it, he admonished his future successors to maintain the new border that he had created:
+
+Year 16, third month of winter: the king made his southern boundary at Heh. I have made my boundary further south than my fathers. I have added to what was bequeathed me. (...) As for any son (i.e., successor) of mine who shall maintain this border which my Majesty has made, he is my son born to my Majesty. The true son is he who champions his father, who guards the border of his begetter. But he [who] abandons it, who fails to fight for it, he is not my son, he was not born to me. Now my majesty has had an image made of my majesty, at this border which my majesty has made, in order that you maintain it, in order that you fight for it.
+
+The Sebek-khu Stele, dated to the reign of Senusret III, records the earliest known Egyptian military campaign in the Levant. The text reads "His Majesty proceeded northward to overthrow the Asiatics. His Majesty reached a foreign country of which the name was Sekmem (...) Then Sekmem fell, together with the wretched Retenu", where Sekmem (s-k-m-m) is thought to be Shechem and "Retenu" or "Retjenu" are associated with ancient Syria.
+
+His final campaign, which was in his Year 19, was less successful because the king's forces were caught due to the Nile being lower than normal. They had to retreat and abandon their campaign in order to avoid being trapped in the hostile Nubian territory.
+
+Such was his forceful nature and immense influence that Senusret III was worshipped as a deity in Semna by later generations. Jacques Morgan, in 1894, found rock inscriptions near Sehel Island documenting his digging of a canal. Senusret III erected a temple and town in Abydos, and another temple in Medamud.
+
+
+---
+
+
+### Amenemhat III
+
+**Source:** https://en.wikipedia.org/wiki/Amenemhat_III
+
+
+Amenemhat III, alternatively Amenemhet III, (Egyptian: Ỉmn-m-hꜣt, lit. 'Amun is at the forefront') was a pharaoh of ancient Egypt and the sixth king of the Twelfth Dynasty of the Middle Kingdom. He was elevated to co-regent by his father Senusret III, with whom he shared the throne as the active king for the next twenty years. During his reign, Egypt attained its cultural and economic zenith of the Middle Kingdom.
+
+The aggressive military and domestic policies of Senusret III, which re-subjugated Nubia and wrested power from the nomarchs, allowed Amenemhat III to inherit a stable and peaceful Egypt. He directed his efforts towards an extensive building program with particular focus on Faiyum. Here he dedicated a temple to Sobek, a chapel to Renenutet, erected two colossal statues of himself in Biahmu, and contributed to excavation of Lake Moeris. He built for himself two pyramids at Dahshur and Hawara, becoming the first pharaoh since Sneferu in the Fourth Dynasty to build more than one. Near to his Hawara pyramid is a pyramid for his daughter Neferuptah. To acquire resources for his building program, Amenemhat III exploited the quarries of Egypt and the Sinai for turquoise and copper. Other exploited sites includes the schist quarries at Wadi Hammamat, amethyst from Wadi el-Hudi, fine limestone from Tura, alabaster from Hatnub, red granite from Aswan, and diorite from Nubia. A large corpus of inscriptions attest to the activities at these sites, particularly at Serabit el-Khadim. There is scant evidence of military expeditions during his reign, though a small one is attested at Kumma in his ninth regnal year. He also sent a handful of expeditions to Punt.
+
+Amenemhat III reigned for at least 45 years, though a papyrus fragment from El-Lahun mentioning a 46th year probably dates to his reign as well. Toward the end of his reign he instituted a co-regency with Amenemhat IV, as recorded in a rock inscription from Semna in Nubia, which equates regnal year 1 of Amenemhat IV to regnal year 44, 46, or 48 of Amenemhat III. Sobekneferu later succeeded Amenemhat IV as the last ruler of the Twelfth Dynasty.
+
+There are a variety of contemporary sources attesting to the reign of Amenemhat III. Chief among these are the collection of inscriptions left at mining sites throughout Egypt, Nubia, and the Sinai Peninsula. His activities in the Sinai Penninsula are particularly well attested to, spanning regnal years 2 to 45. It is notable though, that the overwhelming majority of these inscriptions originate outside Egypt. He is also well attested to through his statuary with around 80 works attributed to him, his building program, particularly concentrated around Faiyum, and the two pyramids that he had built. The Rhind Mathematical Papyrus – one of a limited set of evidence attesting to Egyptian knowledge of mathematics – is also thought to have been originally composed during Amenemhat III's time.
+
+The Karnak King List from the Festival Hall of Thutmose III has a lacuna of two entries between Amenemhat II and Amenemhat IV, though three kings are known to have reigned during this period – Senusret II, Senusret III, and Amenemhat III. In the Abydos King List from the temple of Seti I in Abydos, Amenemhat III is attested by his praenomen Ni-maat-re in the sixty-fourth entry. His praenomen also occupies the 64th entry in the king list at the temple of Ramesses II in Abydos. In the Saqqara Tablet from the tomb of the chief lector priest and chief of works Tjuneroy, Amenemhat III's praenomen occupies the 20th entry. The Turin Canon has a lacuna in the mid-Twelfth Dynasty preserving no names and only partial reign lengths. The 25th entry of the fifth column corresponding to Amenemhat III preserves only a regnal length of 40 + x years. The entries of his presumed children and immediate successors – Amenemhat IV and Sobekneferu – are near-wholly intact preserving their praenomen and reign lengths.
+
+Amenemhat III is also mentioned in Manetho's Aegyptiaca, originally composed circa the 3rd century BC, tentatively dated to the reign of Ptolemy II. The original work is no longer extant, but has persisted through the writings of Josephus, Africanus, Eusebius, and Syncellus. He is accorded a reign of 8 years under the name Λαχάρης (romanized Lacharês / Lamarês) by both Africanus and Eusebius. Syncellus accords him a reign of 43 years under the name Μάρης (romanized Marês) as the 35th king of Thebes.[b]
+
+Amenemhat III was the son of Senusret III, his predecessor on the throne. There is no explicit testimony to this filial relationship, however, the inference can be made from their co-regency. The identity of his mother is unknown. He had several potential sisters or half sisters: Menet, Mereret, Senetsenbetes, Sithathor, and a partially known Khnemet-.
+
+Two of Amenemhat III's wives are known, Aat and Khenemetneferhedjet III, who were both buried in his Pyramid at Dahshur. Hetepti – the mother of Amenemhat IV – might be another wife.
+
+
+---
+
+
+### Sobekneferu
+
+**Source:** https://en.wikipedia.org/wiki/Sobekneferu
+
+
+Sobekneferu or Neferusobek (Egyptian: Sbk-nfrw, lit. 'Beauty of Sobek') was the first confirmed queen regnant (or 'female king') of ancient Egypt and the last pharaoh of the Twelfth Dynasty and of the Middle Kingdom. Her reign was brief, lasting three years, 10 months, and 24 days according to the Turin Canon in the 18th century BC. She distinguished herself from any potential prior female rulers by adopting the full royal titulary which were often had modified to acknowledge her womanhood such as by the titles 'daughter of Re' and 'female Horus'. She was also the first ruler to be associated with the crocodile god Sobek in her nomen and to have associated herself with him through her praenomen.
+
+Sobekneferu ascended to the throne following the death of Amenemhat IV, her presumed brother and husband, albeit the relationship is unsubstantiated. The reasons for her accession are debated. One possibility is that her predecessor had no male heir to bestow the throne to, thus leaving his sister to take the mantle of king. Yet, there are two candidate sons, Sobekhotep I and Sonbef, that are stated through their filiative nomen to be 'Amenemhat's son'. If Amenemhat IV is meant, then it may be that she usurped the throne from them, perhaps because she perceived them to be illegitimate. She also never associated herself with Amenemhat IV, instead asserting her legitimacy through their presumptive father, Amenemhat III. It appears though, that Sokebhotep I modelled his praenomen after Sobekneferu's Nebty name, indicating that he may have sought legitimacy from his predecessor and also demonstrating the esteem she was held in.
+
+Contemporary evidence from her reign is scant. There are a few partial statues – one with her face, now lost – and a small corpus of seals and inscriptions that have been preserved. These mainly originate from Faiyum where she is credited with the completion of 'the Labyrinth' – the mortuary temple of Amenemhat III's pyramid at Hawara. One important inscription is a graffito recording the level of the Nile inundation at the fortress at Kumma in her third regnal year indicating that she maintained authority across Egypt. Her funerary monument remains unidentified, though a papyrus discovered in Harageh mentions a site called Sekhem Sobekneferu which may refer to it, and there is a storeroom administrator attested to on a stela providing evidence of an active funerary cult. Her rule is also attested to on several later king lists from the Thutmosid and Ramesside periods and in Manetho's Aegyptiaca.
+
+The link between Amenemhat III and his two successors, Amenemhat IV and Sobekneferu, is uncertain, though they are usually presumed to be his son and daughter. For Amenemhat IV, this identification is not universal. Kim Ryholt has proposed that because Amenemhat IV's mother, Hetepti, only has the mw.t-nsw[i] title and not ḥm.t-nsw,[ii] that this indicates that Amenemhat IV is of non-royal lineage. Aidan Dodson and Dyan Hilton note that while Amenemhat IV does refer to Amenemhat III as his father in inscriptions, this may simply be referring to him as a predecessor, and also notes the lack of the ḥm.t-nsw title for Hetepti. It also possible that Amenemhat IV was his grandson rather than his son. For Sobekneferu, her mother's identity is unknown. The relationship between Amenemhat IV and Sobekneferu is also unclear. The ancient historian Manetho in Aegyptiaca states that they were brother and sister. This filial identification is the norm and there is speculation on a potential marriage between them. There is no contemporary evidence for this as neither sn.t-nsw[iii] nor ḥm.t-nsw are attested for Sobekneferu.
+
+Amenemhat III had two known wives, Aat and Khenemetneferhedjet III, who died early in his reign and were buried in his first pyramid at Dahshur. He had at least one daughter, Neferuptah, who had a burial at his second pyramid at Hawara that was eventually moved to her own pyramid. The enclosure of Neferuptah's name in a cartouche suggests that she may have been groomed for the throne. The burials of three other princesses – Hathorhotep, Nubhotepet, and Sithathor – were found at the Dahshur complex, but it is unclear whether these princesses were his daughters because the complex was used for royal burials throughout the Thirteenth Dynasty.
+
+Sobekneferu's accession may have been motivated by a lack of a male heir for Amenemhat IV; though there are two kings of the Thirteenth Dynasty, Amenemhat [Sa] Sobekhotep (Sobekhotep I) and Amenemhat [Sa] Senebef (Sonbef), that have the filiative nomen ỉmn-m-hꜣt sꜣ[iv] indicating they may be his sons. Kim Ryholt proposes that in this case, Sobekneferu may have taken the throne following Amenemhat IV's death because she perceived them to be illegitimate. Barbara Bell has questioned the premise of a dynastic split following Sobekneferu and has proposed that Sobekhotep I may have been a son of Amenemhat III from a secondary queen that legitimately ascended the throne. Julien Siesse and Robyn Gillam note that Sobekhotep I's praenomen sḫm-rꜥ-ḫw-tꜣwy[v] bears a distinct resemblance to Sobekneferu's Nebty name sꜣt-sḫm-nbt-tꜣwy[b][vi] which Gillam additionally notes indicates that Sobekhotep I appears to have sought legitimacy through his predecessor and reflects the esteem held by Sobekenferu.
+
+The Middle Kingdom attained its military and economic zenithon during the reigns of Senusret III and Amenemhat III respectively. Senusret III's reign was an inflection point in the domestic and foreign policy of Egypt. On the domestic front, he reorganized the administration displacing authority away from the nomarchs and condensing it into the hands of his appointed viziers and their councils.[c] Yet, it is his foreign policy that forms the most significant component of his legacy and is defined by the military campaigns he led into Nubia and Syria–Palestine. These contributed the basis of the Greek legendary figure of Sesostris described by Manetho and Herodotus. Following 19 years of sole reign, he passed the throne to his son, Amenemhat III, with whom he seems to have shared it for a further 20 years.[d] In turn, Amenemhat III presided over a peaceful Egypt enabling him to direct his attention to the economic development of the nation. His building programme spanned all of Egypt, but its nexus was at Faiyum to which he contributed two colossi of himself at Biahmu, temples to Sobek and Renenutet, a pyramid at Dahshur and another at Hawara which is most noted for its mortuary temple known by the epithet 'the Labyrinth', and expanded the agricultural potential of Lake Moeris. To provide the materials for these projects, the natural deposits of Egypt from the Sinai Peninsula to Nubia were extensively exploited. His reign lasted for at least 45 years, possibly longer, and may have ended with a coregency with his successor. Amenemhat IV ruled for nine or ten years, but there is scant information regarding his reign, and by the end of it the dynasty was in decline.
+
+Sobekneferu ascended to the throne following Amenemhat IV.[e] The reasons for the accession of a 'female king' are obscure, but may have been motivated by the lack of a male heir for Amenemhat IV or a dispute over their legitimacy. She is the earliest confirmed woman to rule over Egypt as a king and the first to adopt the full royal titulary.[f] The traditional titles preceding her names were modified to note Sobekneferu's womanhood by appending the feminine marker t to them: sꜣ.t-rꜥ;[vii] ḥr.t.[viii] Though this was an inconsistent practice that was not done to all names bỉk-nbw[ix] or even in all cases sꜣ-rꜥ.[x]
+
+
+---
+
+
+## Dynasty 15 (Hyksos ~1650–1550 BC)
+
+---
+
+
+### Salitis
+
+**Source:** https://en.wikipedia.org/wiki/Salitis
+
+
+In the Manethonian tradition, Salitis (Greek Σάλιτις, also Salatis or Saites) was the first Hyksos king, the one who subdued and ruled Lower Egypt and founded the 15th Dynasty.
+
+Salitis is mainly known from a few passages of Flavius Josephus' work Contra Apionem; for these passages, Josephus claimed to have reported Manetho's original words. It seems that during the reign of an Egyptian pharaoh called Timaios or Tutimaios, an army of foreigners suddenly came from the Near East and took over the Nile Delta without a fight. After conquering Memphis and likely deposing Timaios, the invaders committed several atrocities such as destroying cities and temples and killing or capturing the native Egyptians.: I:75–6  After that, they
+
+made one of their number, whose name was Salitis, king. He resided in Memphis and exacted tribute from both the upper and lower country, leaving fortresses in the most strategic places.
+
+— Flavius Josephus, Against Apion, I: 77.
+
+Salitis was determined to hold down his new conquests. For this reason he fortified the eastern borders, and sought a strategic position to establish an imposing stronghold from which he could dominate the independent-minded Upper Egyptians. Having found it in the city of Avaris on the east bank of the Bubastite branch of the Nile,: I:77–8  Salitis
+
+established this city and rendered it extremely secure with walls, settling there a large body of armed troops – as many as 240,000 men – as a frontier guard. He used to go there in the summer, partly to hand out rations and distribute pay, and partly to train them carefully in military exercises, to frighten foreigners.
+
+— Flavius Josephus, Against Apion, I: 78–80
+
+Salitis died after 19 years of rule and his throne passed to another Asiatic called Bnon or Beon.: I:80–91
+
+
+---
+
+
+### Apep
+
+**Source:** https://en.wikipedia.org/wiki/Apepi_(pharaoh)
+
+
+Apepi (Greek Apophis) was a Hyksos ruler of Lower Egypt during the Fifteenth Dynasty and the late Second Intermediate Period. He can be archaeologically associated with Tell el-Daba Stratum D/3 and the Middle Bronze IIC in the Southern Levant.
+
+According to the Turin Canon of Kings, he reigned over the northern portion of Egypt for forty years during the early half of the 16th century BC. Although officially only in control of the Lower Kingdom, Apepi in practice dominated the majority of Egypt during the early portion of his reign. He outlived his southern rival, Kamose, but not Ahmose I.
+
+His Horus name Shetep-tawy is attested only twice (once together with A-qenen-Re). It appears on an offering table and on blocks found at Bubastis.
+
+Neb-khepesh-Re (nb ḫpš rˁ), Aa-qenen-Re (ˁ3 ḳn n rˁ) and Aa-user-Re (ˁ3 wsr rˁ) are three praenomina (throne names) used by this same ruler during various parts of his reign. 
+While some Egyptologists once believed that there were two separate kings who bore the name Apepi, namely Aauserre Apepi and Aaqenenre Apepi, it is now recognized that Khamudi succeeded Apepi at Avaris and that there was only one king named Apepi or Apophis. Nebkhepeshre ("Re is the Lord of Strength") was Apepi's first prenomen; towards the middle of his reign, this Hyksos ruler adopted a new prenomen, Aaqenenre ("The strength of Re is great"). In the final decade or so of his reign, Apepi chose Aauserre as his last prenomen. While the prenomen was altered, there is no difference in the translation of both Aaqenenre and Aauserre.
+
+His Nomen was Apepi (also Ipepi; Egyptian language ipp(i)). In Greek the name became Apophis (Greek: Ἄποφις).
+
+At Tell el-Daba (Avaris, Eastern Nile Delta, Lower Egypt), the reign of Apophis can be associated with Stratum D/3 in the late Hyksos period. In the Southern Levant, this corresponds with the Middle Bronze IIC (MB IIC) from around 1600/1590 to 1550 BCE. In the Northern Levant, the Late Bronze IA started following the Hittite destruction by Mursili I around 1590 BCE with the Fall of the Great Kingdom of Yamhad (Aleppo), destruction of its vassal Ebla etc. The Hittite attacks into Syria may have triggered refugees to migrate into Canaan. At Thebes, Ahmose I came to power around 1571/1570 BCE (high chronology) and would defeat Avaris around 1560 BCE before he continued to expel the Hyksos in the Southern Levant - ending the MB IIC.
+
+Kamose, the last king of the Seventeenth Dynasty, refers to Apepi as a "Chieftain of Retjenu" in a stela that implies a Canaanite background for this Hyksos king.
+
+While Apepi exerted suzerainty over and maintained peaceful trade relations with the native Theban Seventeenth Dynasty to the south, the other kingdom eventually regained control. The Hyksos were driven out of Egypt no more than fifteen years after his death.
+
+
+---
+
+
+### Khamudi
+
+**Source:** https://en.wikipedia.org/wiki/Khamudi
+
+
+Khamudi (also known as Khamudy) was the last Hyksos ruler of the Fifteenth Dynasty of Egypt. Khamudi came to power in 1534 BC or 1541 BC, ruling the northern portion of Egypt from his capital Avaris. His ultimate defeat at the hands of Ahmose I, after a short reign, marks the end of the Second Intermediate Period.
+
+Khamudi is listed on the Turin canon, column 10, line 28 (Gardiner entry 10.20) as the last Hyksos king. Beyond this, only two scarab seals are firmly attributed to him, both from Jericho.
+
+Additionally, a cylinder seal of unknown provenance but possibly from Byblos is inscribed with a cartouche which may read "Khamudi". This reading is contested by the egyptologist Kim Ryholt who proposed that the cartouche reads "Kandy" instead and refers to an hitherto unknown king. In any case, even if the cartouche bears Khamudi's name, it is believed to have been inscribed on the seal simply to fill up space rather than as an explicit reference to Khamudi. The seal is currently housed in the Petrie Museum, catalog number UC 11616.
+
+Based on the scarcity of material dating to Khamudi's reign, Ryholt has proposed that his reign must have been short, amounting to no more than a year. In this situation, Khamudi would have inherited little more than the Hyksos throne, being possibly already besieged in Sharuhen, the last Hyksos stronghold in the Negev Desert.
+
+This is contested by other scholars, such as Manfred Bietak, who points to a year 11 of an unknown king on the Rhind Mathematical Papyrus. Bietak and many egyptologists believe that this year 11 belongs to Khamudi since the text of the papyrus refers to Ahmose I, founder of the Egyptian New Kingdom as "He of the South." As Thomas Schneider writes:
+
+Another date on the papyrus is explicitly dated to Year 33 of Khamudi's predecessor Apepi. It is generally believed that Ahmose I defeated the Hyksos king by his 18th or 19th regnal year. This is suggested by "a graffito in the quarry at Tura whereby 'oxen from Canaan' were used at the opening of the quarry in Ahmose's regnal year 22." Since the cattle could only have been brought after Ahmose's 3 to 6 years long siege of the South Canaanite town of Sharuhen which followed after the fall of Avaris, this means the reign of Khamudi must have terminated by Year 18 or 19 of Ahmose's 25-year reign at the very latest.
+
+
+---
+
+
+## Dynasty 17 (Theban ~1580–1550 BC)
+
+---
+
+
+### Seqenenre Tao
+
+**Source:** https://en.wikipedia.org/wiki/Seqenenre_Tao
+
+
+Seqenenre Tao (also Seqenera Djehuty-aa or Sekenenra Taa, called 'the Brave') was a pharaoh who ruled over the last of the local kingdoms of the Theban region of Egypt in the Seventeenth Dynasty during the Second Intermediate Period.
+
+He probably was the son and successor to Senakhtenre Ahmose and Queen Tetisheri.
+
+With his queen, Ahhotep I, Seqenenre Tao fathered two pharaohs: Kamose, his immediate successor who was the last pharaoh of the Seventeenth Dynasty, and Ahmose I, who, following a regency by his mother, was the first pharaoh of the Eighteenth. Seqenenre Tao is credited with starting the opening moves in a war of revanchism against Hyksos incursions into Egypt, which saw the country completely liberated during the reign of his son Ahmose I.
+
+The dates of his reign are uncertain, but he may have risen to power in the decade ending in 1560 BC or in 1558 BC, based on the probable accession date of his son, Ahmose I, the first ruler of the Eighteenth Dynasty; see Egyptian chronology.
+
+New Kingdom literary tradition states that Seqenenre Tao came into contact with his Hyksos contemporary in the north, Apepi or Apophis. The tradition took the form of a tale, nowadays called "The Quarrel of Apophis and Seqenenre", in which the Hyksos king Apepi sent a messenger to Seqenenre in Thebes to demand that the Theban hippopotamus pool be done away with, for the noise of these beasts was such that he was unable to sleep in far-away Avaris. Perhaps the only historical information that can be gleaned from the tale is that Egypt was a divided land, the area of direct Hyksos control being in the north, but the whole of Egypt paying tribute to the Hyksos kings.
+
+Seqenenre Tao participated in active diplomatic posturing, which went beyond simply exchanging insults with the Asiatic ruler in the North. He seems to have led military skirmishes against the Hyksos and, judging from the vicious head wounds on his mummy in the Egyptian Museum in Cairo, may have died during one of them.
+
+His son and successor Wadjkheperre Kamose, the last ruler of the Seventeenth Dynasty at Thebes, is credited with launching a successful campaign in the Theban war of liberation against the Hyksos, although he is thought to have died in the campaign. His mother, Ahhotep I, is thought to have ruled as regent after the death of Kamose and continued the warfare against the Hyksos until Ahmose I, the second son of Seqenenre Tao and Ahhotep I, was old enough to assume the throne and complete the expulsion of the Hyksos and the unification of Egypt.
+
+The relatively short length of Seqenenre Tao's reign did not allow for the construction of many monumental structures, but it is known that he had built a new palace made of mud brick at Deir el-Ballas. On an adjacent hillside overlooking the river, the foundations of a building were found that were identified as having been a military observation post.
+
+
+---
+
+
+### Kamose
+
+**Source:** https://en.wikipedia.org/wiki/Kamose
+
+
+Kamose was the last king of the Theban Seventeenth Dynasty at the end of the Second Intermediate Period. Kamose is usually ascribed a reign of three years (his highest attested regnal year), although some scholars now favor giving him a longer reign of approximately five years.
+
+He was the son of Seqenenre Tao and the brother of Ahmose I, founder of the Eighteenth Dynasty. His mother is unknown, but is thought to be Ahhotep I. His reign is important for the decisive military initiatives he took against the Hyksos, who had come to rule much of Ancient Egypt. His father had begun the initiatives and lost his life in battle with the Hyksos. It is thought that his mother, as regent, continued the campaigns after the death of Kamose, and that his full brother made the final conquest of them and united all of Egypt.
+
+Kamose was the final king in a succession of native Egyptian kings at Thebes. Originally, the Theban Seventeenth dynasty rulers were at peace with the Hyksos kingdom to their north prior to the reign of Seqenenre Tao. They controlled Upper Egypt up to Elephantine and ruled Middle Egypt as far north as Cusae. Kamose sought to extend his rule northward over all of Lower Egypt. This apparently was met with much opposition by his courtiers. It appears that at some point, these princes in Thebes had achieved a practical modus vivendi with the later Hyksos rulers, which included transit rights through Hyksos-controlled Middle and Lower Egypt and pasturage rights in the fertile Delta. Kamose's records on the Carnarvon Tablet (in the text also parallelled in the Thebes stelae of Kamose) relate the misgivings of this king's council to the prospect of a war against the Hyksos:
+
+See, all are loyal as far as Cusae. We are tranquil in our part of Egypt. Elephantine [at the First Cataract] is strong, and the middle part (of the land) is with us as far as Cusae. Men till for us the finest of their lands. Our cattle pasture in the Papyrus marshes. Corn is sent for our swine. Our cattle are not taken away... He holds the land of the Asiatics; we hold Egypt..."
+
+However, Kamose's presentation here may be propaganda designed to embellish his reputation since his predecessor, Seqenenre Tao, had already been engaged in conflict with the Hyksos (for unknown reasons), only to fall in battle. Kamose sought to regain by force what he thought was his by right, namely the kingship of Lower and Upper Egypt. The king thus responds to his council:
+
+I should like to know what serves this strength of mine, when a chieftain in Avaris, and another in Kush, and I sit united with an Asiatic and a Nubian, each in possession of his slice of Egypt, and I cannot pass by him as far as Memphis... No man can settle down, when despoiled by the taxes of the Asiatics. I will grapple with him, that I may rip open his belly! My wish is to save Egypt and to smite the Asiatic!"
+
+There is no evidence to support Pierre Montet's assertion that Kamose's move against the Hyksos was sponsored by the priesthood of Amun as an attack against the Seth-worshippers in the north (i.e., a religious motive for the war of liberation). The Carnarvon Tablet does state that Kamose went north to attack the Hyksos by the command of Amun, but this is common to virtually all royal inscriptions of Egyptian history, and should not be understood as the specific command from this deity.[citation needed] Kamose states his reasons for an attack on the Hyksos was nationalistic pride.
+
+In Kamose's third year, he embarked on his military campaign against the Hyksos by sailing north out of Thebes on the Nile. He first reached Nefrusy, which was just north of Cusae and was manned by an Egyptian garrison loyal to the Hyksos. A detachment of Medjay troops attacked the garrison and overran it. The Carnarvon Tablet recounted this much of the campaign, but breaks off there. Nonetheless, Kamose's military strategy probably can be inferred. As Kamose moved north, he could easily take small villages and wipe out small Hyksos garrisons, but if a city resisted, he could cut it off from the rest of the Hyksos kingdom simply by taking over the city directly to the north. This kind of tactic probably allowed him to travel very quickly up the Nile. The second stele of Kamose (found in Thebes) continues Kamose's narrative with an attack on Avaris. Because it does not mention Memphis or other major cities to the north, it has long been suspected that Kamose never did attack Avaris, but instead recorded what he intended to do. Kim Ryholt recently has argued that Kamose probably never advanced farther than the Anpu or Cynopolis Nome in Middle Egypt (around the Faiyum and the city of Saka) and did not enter either the Nile Delta, nor Lower Egypt proper.
+
+
+---
+
+
+## Dynasty 20 (Late Ramesside ~1186–1069 BC)
+
+---
+
+
+### Ramesses III
+
+**Source:** https://en.wikipedia.org/wiki/Ramesses_III
+
+
+Usermaatre Meryamun Ramesses III was the second Pharaoh of the Twentieth Dynasty in Ancient Egypt. Some scholars date his reign from 26 March 1186 to 15 April 1155 BC, and he is considered the last pharaoh of the New Kingdom to have wielded substantial power.
+
+His long reign saw the decline of Egyptian political and economic power, linked to a series of invasions and internal economic problems that also plagued pharaohs before him. This coincided with a decline in the cultural sphere of Ancient Egypt.
+
+However, his successful defence was able to slow down the decline, although it still meant that his successors had a weaker military. He has also been described as a "warrior Pharaoh" due to his strong military strategies. He led the way by defeating the invaders known as "the Sea Peoples", who had caused destruction in other civilizations and empires. He was able to save Egypt from collapsing at the time when many other empires fell during the Late Bronze Age; however, the damage of the invasions took a toll on Egypt.
+
+Rameses III constructed one of the largest mortuary temples of western Thebes, now called Medinet Habu. He was assassinated in the Harem conspiracy led by his secondary wife Tiye and her eldest son Pentawere. This ultimately caused a succession crisis which further accelerated the decline of Ancient Egypt. He was succeeded by his son and designated successor Ramesses IV, although many of his other sons rule later.
+
+Ramesses' (also written Ramses and Rameses) two main names are transliterated wsr-mꜢʿt-rʿ–mry-ỉmn rʿ-ms-s–ḥḳꜢ-ỉwnw. They are normally realised as Usermaatre-Meryamun Rameses-Heqaiunu, meaning "The Ma'at of Ra is strong, Beloved of Amun, Born of Ra, Ruler of Heliopolis".
+
+Ramesses III was not closely related to Ramesses I or Ramesses II.
+He was the son of Setnakhte and Tiy-Merenese who wrote her name in a cartouche. Setnakhte's origin is unknown. He seized the throne during a time of crisis and political unrest likely from Twosret and he was presumably a minor descendant of Ramesses II through a separate family line from that of Seti II, Siptah and Twosret.
+
+Ramesses III is believed to have reigned from March 1186 to April 1155 BC. This is based on his known accession date of I Shemu day 26 and his death on Year 32 III Shemu day 15. Some scholars estimate a reign of 31 years, 1 month and 19 days. Alternative dates for his reign are 1187–1156 BC.
+
+In a description of his coronation from Medinet Habu, four doves were said to be "dispatched to the four corners of the horizon to confirm that the living Horus, Ramses III, is (still) in possession of his throne, that the order of Maat prevails in the cosmos and society".
+
+
+---
+
+
+### Ramesses IV
+
+**Source:** https://en.wikipedia.org/wiki/Ramesses_IV
+
+
+Usermaatre Heqamaatre Setepenamun Ramesses IV (also written Ramses or Rameses) was the third pharaoh of the Twentieth Dynasty of the New Kingdom of Ancient Egypt. He was the second son of Ramesses III and became crown prince when his elder brother Amenherkhepshef died aged 15 in 1164 BC, when Ramesses was only 12 years old. His promotion to crown prince is suggested by his appearance (suitably entitled) in a scene of the festival of Min at the Ramesses III temple at Karnak, which may have been completed by Year 22 [of his father's reign]. (the date is mentioned in the poem inscribed there)
+
+As his father's chosen successor, the prince employed three distinctive titles: "Hereditary Prince", "Royal scribe" and "Generalissimo." The latter two titles are mentioned in a text at the temple of Amenhotep III at Soleb and all three titles appear on a lintel now in Florence, Italy. As heir-apparent he took on increasing responsibilities; for instance, in Year 27 of his father's reign, he is depicted appointing a certain Amenemope to the important position of Third Prophet of Amun in the latter's TT 148 tomb. Amenemope's Theban tomb also accords prince Ramesses all three of his aforementioned sets of royal titles. Despite the 31-year reign of his father Ramesses III, Ramesses IV was only 21 when he became pharaoh, and only reigned for six and a half years. His rule has been dated to 1155 to 1149 BC.
+
+It is now believed that Ramesses IV's mother was most likely Queen Tyti from recently discovered notes published in the 2010 issue of the Journal of Egyptian Archaeology. They reveal that Tyti—who was a king's daughter, a king's wife and a king's mother in her own right—was identified in Papyrus BM EA 10052 (i.e., the tomb-robbery papyri) to be a queen of Ramesses III, Ramesses IV's father. The 2010 JEA article authors—including Aidan Dodson—write that since Ramesses VI's mother is known to be a certain lady named Iset Ta-Hemdjert or Isis:
+
+only Ramesses IV and Ramesses VIII remain as candidates [for the son of Tyti]. Given that Ramesses VIII only reigned briefly some 25 years after his father's death, it is hardly likely that the decoration of QV52, with the mwt-nsw (i.e., king's mother) title intimately mixed with Tyti's other titles, could have been delayed this late to refer to him. This leaves Ramesses IV as the only credible primary 'subject' of the mwt-nsw title in the tomb. As for which--if any--of the other sons of Ramesses III were borne to Tyti, no unequivocal data is available, other than the fact that Amenhirkhopeshef B, buried in QV55, was ms n Hmt-nTr mwt-nTr Hmt-nsw-wrt, paralleling Tyti's titles so closely that he may with some confidence be proposed as her son.
+
+Thus, the identity of Ramesses IV's mother has been resolved in favour of Queen Tyti who was once erroneously thought to be the mother of another king in the mid-1980s: Ramesses XI. Ramesses IV was succeeded to the throne by his 13-year-old son Ramesses V.
+
+Ramesses IV came to the throne in difficult circumstances. Ramesses III, his father, was assassinated by conspirators led by Tiye, one of his secondary wives, to establish Pentawer, her own son and Ramesses IV's half-brother, on the throne. Ramesses IV, however, was able to secure himself on the throne, and had the conspirators arrested, prosecuted and executed.
+
+It was once thought that Ramesses IV's father, Ramesses III, had survived the initial attack, only to die some time later. This is due in part to the Judicial Papyrus of Turin, which preserves a record of the trials of the conspirators, being carried out under his name. The document opens with:
+
+[King Usermare'-Meriamun, l.p.h., Son of Re': Ramesses] Ruler of Heliopolis [l.p.h. said]... I commissioned the overseer of the treasury Montemtowe; the overseer of the treasury Pefrowe; the standard-bearer Kara; the butler Paibese, the butler Kedendenna; the butler Ba'almahar; the butler Peirswene; the butler Dhutrekhnefer; the king's adjutant Penernute; the clerk Mai; the clerk of the archives Pre'em-hab; the standard-bearer of the infantry Hori; saying 'As for the matters which the people-I do not know who-have plotted, go and examine them'.
+
+
+---
+
+
+### Ramesses IX
+
+**Source:** https://en.wikipedia.org/wiki/Ramesses_IX
+
+
+Neferkare Setepenre Ramesses IX (also written Ramses)  (originally named Amon-her-khepshef Khaemwaset) (ruled 1128-1110 BC) or 1129–1111 BC) was the eighth pharaoh of the Twentieth Dynasty of Egypt.
+
+He was the third longest serving king of this Dynasty after Ramesses III and Ramesses XI. His throne name, Neferkare Setepenre, means "Beautiful Is The Soul of Re, Chosen of Re." Ramesses IX is believed to be the son of Mentuherkhepeshef, a son of Ramesses III, since Mentuherkhopshef's wife, the lady Takhat bears the prominent title of King's Mother on the walls of tomb KV10, which she usurped and reused in the late 20th Dynasty; no other 20th Dynasty king is known to have had a mother with this name. Ramesses IX was, therefore, probably a grandson of Ramesses III.
+
+Jürgen von Beckerath (1984) argues he assumed the throne on I Akhet day 21.
+
+In the sixth year of his reign, he inscribed his titulature in the Lower Nubian town of Amara West.
+
+His reign is best known for the year 16 and year 17 tomb robbery trials, recorded in the Abbott Papyrus, the Papyrus Leopold II, Papyrus BM 10054 and on the recto of both Papyrus BM 10053 and Papyrus BM 10068. It has been suggested that the undated Papyrus Mayer B, dealing with the plundering of the tomb of Ramesses VI, may also stem from his reign.
+
+During these trials it became clear that several royal and noble tombs in the Western Theban Necropolis had been robbed, including that of a 17th Dynasty king, Sobekemsaf II. Paser, Mayor of Eastern Thebes or Karnak, accused his subordinate Paweraa, the Mayor of West Thebes responsible for the safety of the necropolis, of being either culpable in this wave of robberies or negligent in his duties of protecting the Valley of the Kings from incursions by tomb robbers. Paweraa played a leading part in the vizierial commission set up to investigate, and, not surprisingly, it proved impossible for Paweraa to be officially charged with any crime due to the circumstantiality of the evidence.  Paser disappeared from sight soon after the report was filed.
+
+Papyrus BM 10053 from Year 17 of this king records that 8 of the workmen of Deir El-Medina had "been apprehended by the local authorities somewhere within the west Theban necropolis, and [were] duly escorted across the river to the main city of Thebes." The workmen were interrogated for robbing a royal tomb--that of Queen Isis, Ramesses III's chief royal wife. They then disappear from history and were presumably executed by impalement for their crimes according to Benedict G. Davies.
+
+According to the latest archaeological information, Ramesses IX died in Regnal Year 19 I Peret day 27 of his reign. Therefore, he enjoyed a reign of 18 years, 4 months and 6 days.
+
+
+---
+
+
+### Ramesses XI
+
+**Source:** https://en.wikipedia.org/wiki/Ramesses_XI
+
+
+Menmaatre Ramesses XI (also written Ramses and Rameses) reigned from 1106 BC to somewhere between 1078 BC and 1068 BC and is generally considered the tenth and final pharaoh of the Twentieth Dynasty of Egypt and as such, the last king of the New Kingdom period. He ruled Egypt for at least 29 years although some Egyptologists think he could have ruled for as long as slightly more than 30 years. The latter figure would be up to 2 years beyond this king's highest known date of Year 10 of the wḥm-mswt ("Renaissance") era or Year 28 of his reign. One scholar, Ad Thijs, has suggested that Ramesses XI could even have reigned as long as 33 years.
+
+It is believed that Ramesses ruled into his Year 29 since a graffito records that the general and High Priest of Amun Piankh returned to Thebes from Nubia on III Shemu day 23—or just 3 days into what would have been the start of Ramesses XI's 29th regnal year. Piankh is known to have campaigned in Nubia during Year 28 of Ramesses XI's reign (or Year 10 of the wḥm-mswt) and would have returned home to Egypt in the following year.
+
+Ramesses XI was once thought to be the son of Ramesses X by Queen Tyti who was a King's Mother, King's Wife and King's Daughter in her titles. However, recent scholarly research into certain copies of parts of the Harris papyrus (or Papyrus BM EA 10052)—collected by Anthony Harris—which discusses a harem conspiracy against Ramesses III—reveals that Tyti was a queen of Ramesses III instead. Hence, Ramesses XI's mother was not Tyti and although he could have been a son of his predecessor, this is not established either. Ramesses XI is believed to have married Tentamun, the daughter of Nebseny, with whom he is assumed to have fathered Duathathor-Henuttawy—the future wife of the high priest Pinedjem I. Ramesses XI may have had another daughter named Tentamun who became king Smendes' future wife in the next dynasty. These connections, however, remain tentative.
+
+Sometime during his reign, the High Priest of Amun, Amenhotep, was ousted from office by Pinehesy, the Viceroy of Kush who for some time took control of the Thebais. Although this “suppression of the High Priest of Amun” used to be dated quite early in the reign (prior to year 9 of the reign), recently the communis opinio has changed to the view that it took place only shortly before the start of the wḥm-mswt or "Renaissance," an era which was inaugurated in regnal Year 19, probably to stress the return of normal conditions following the coup of Pinehesy.
+
+Ramesses XI is usually assigned an accession date of  III shemu 20 (third month of the Summer season, day 20)  However, a later Twentieth Dynasty papyrus fragment from Deir el-Medina published in 2023 by the Egyptologist Robert J. Demarée refers to a partial date of Year 4, III month of Akhet together with a change to Year 1, IV month of Akhet. Although both kings are unnamed, the papyrus is strongly suggested by Demarée to refer to the reigns of Ramesses X and his successor Ramesses XI. If confirmed, this would mean that Ramesses XI actually had his accession date between the III and IV month of Akhet rather than III Shemu 20 as has been assumed.
+
+Demarée stresses in his 2023 study that the sources which support an accession date of III Shemu day 20 for Ramesses XI are hardly conclusive:
+
+Ramesses XI's reign is notable for a large number of important papyri that have been discovered, including the Adoption Papyrus, which mentions regnal years 1 and 18 of his reign; Pap. B.M. 10052, Pap. Mayer A, Pap. B.M. 10403 and Pap. B.M. 10383 (the last four containing the accounts of tomb-robbery trials conducted during the first two years of the wḥm-mswt); Pap. Ambras (containing a list of documents which were repurchased in year 6 of the wḥm-mswt, after having been stolen from some temple archive, most probably during the chaotic period of the suppression of the High Priest of Amun Amenhotep); the Turin Taxation Papyrus, of an unspecified year 12; Pap. B.M. 10068, which includes on its verso two lists, called the House-list (from an unspecified year 12) and the Srmt-list (undated, but slightly later than the Houselist); Pap. B.M. 9997, of an unspecified year 14 and 15; and an entire series of Late Ramesside Letters written by -among others- the scribes of the Necropolis Dhutmose, Butehamun, and the High Priest Piankh. Late Ramesside Letter no. 9 establishes that the wḥm-mswt period lasted into a 10th year (which more or less equates year 28 proper of Ramesses XI).
+
+Pinehesy was subsequently designated as an enemy in several papyri from year 1 and 2 of the wḥm-mswt (equaling year 19 and 20 proper of Ramesses XI) where his name was consistently associated "by the nḏs [or] ('bad') bird as its determinative" in these papyri.
+
+
+---
+
+
+## Dynasty 21 (Third Intermediate ~1069–945 BC)
+
+---
+
+
+### Smendes I
+
+**Source:** https://en.wikipedia.org/wiki/Smendes_I
+
+
+Hedjkheperre Setepenre Smendes was the founder of the Twenty-first Dynasty of Egypt and succeeded to the throne after burying Ramesses XI in Lower Egypt – territory which he controlled.
+
+According to the Story of Wenamun from c. 1000 BC, Smendes was a governor of Lower Egypt during the Era of the Renaissance under the reign of Ramesses XI, however, Egyptologists have questioned the historical accuracy of this story.
+
+Smendes may have been a son of a lady named Hrere. Hrere was a Chief of the Harem of Amun-Re and likely the wife of a high priest of Amun. If Hrere was Smendes' mother, then he was a brother of Nodjmet and through her brother-in-law of the High Priests Herihor and Piankh.
+
+Smendes was married to Tentamun B, likely a daughter of Ramesses IX. They may have been the parents of his successor Amenemnisu.
+
+His Egyptian nomen or birth name was actually Nesbanebdjed meaning "He of the Ram, Lord of Mendes", but it was translated into Greek as Smendes by later classical writers such as Josephus and Sextus Africanus.
+
+His prenomen or throne name Hedjkheperre Setepenre/Setepenamun—which means 'Bright is the Manifestation of Rê, Chosen of Rê/Amun'—became very popular in the following 22nd Dynasty and 23rd Dynasty. In all, five kings: Shoshenq I, Shoshenq IV, Takelot I, Takelot II and Harsiese A adopted it for their own use.
+
+Smendes features prominently in the Report of Wenamun. This story is set in an anonymous "Year 5", generally taken to be year 5 of the so-called Renaissance of Pharaoh Ramesses XI, the tenth and last ruler of the Twentieth Dynasty of Ancient Egypt (1190–1077 BC). However, since Karl Jansen-Winkeln has proposed to reverse the order of the High Priests of Amun Herihor and Piankh, this ascription has become disputed. With the pontificate of Herihor falling later than that of Piankh, who is attested in year 7 of the Renaissance, the date in the heading of Wenamun should rather refer to the successor of Ramesses XI. Following Jansen-Winkeln, Arno Egberts (1991) therefore argues that the story is set in the fifth regnal year of Smendes.
+
+As the story begins, the principal character, Wenamun, a priest of Amun at Karnak, is sent by the High Priest of Amun Herihor to the Phoenician city of Byblos to acquire lumber (probably cedar wood) to build a new ship to transport the cult image of Amun. 
+Wenamun first visits Smendes at Tanis and personally presented his letters of accreditation to Smendes in order to receive the latter's permission to travel north to modern Lebanon. Smendes responds by dispatching a ship for Wenamun's travels to Syria and the Levant. Smendes appears as a person of the highest importance in Tanis.
+
+
+---
+
+
+### Pinedjem I
+
+**Source:** https://en.wikipedia.org/wiki/Pinedjem_I
+
+
+Pinedjem I (died 1032 BC) was ruler of Southern Egypt as the High Priest of Amun at Thebes in Ancient Egypt from 1070 to 1055 BC, and nominal pharaoh alongside Smendes from 1054 to 1032 BC. He was the son of the High Priest Piankh. However, many Egyptologists today believe that the succession in the Amun priesthood actually ran from Piankh to Herihor to Pinedjem I.
+
+According to the new hypothesis regarding the succession of the Amun priesthood, Pinedjem I was too young to succeed to the High Priesthood of Amun after the death of Piankh. Herihor instead intervened to assume this office. After Herihor's death, Pinedjem I finally claimed this office which had once been held by his father Piankh. This interpretation is supported by the decorations from the Temple of Khonsu at Karnak where Herihor's wall reliefs here are immediately followed by those of Pinedjem I with no intervening phase for Piankh and also by the long career of Pinedjem I who served as High Priest of Amun and later as king at Thebes.
+
+He inherited a political and religious base of power at Thebes. Pinedjem strengthened his control over both Middle and Upper Egypt and asserted his kingdom's virtual independence from the Twenty-first Dynasty based at Tanis. He married Duathathor-Henuttawy, a daughter of Ramesses XI, to cement his relations with the other powerful families of the period. Their son, Psusennes I, went on to become Pharaoh at Tanis, thereby removing at a stroke the gap between the two families. In practice, however, the 21st dynasty kings and the Theban high priests were probably never very far apart politically since they respected each other's political autonomy.
+
+Around Year 15 or 16 of Smendes, Pinedjem I proclaimed himself pharaoh over Upper Egypt, though years in Egypt were still counted according reign of Smendes, and his priestly role was inherited by his two sons Masaharta and Menkheperre. His daughter, Maatkare, held the position of Divine Adoratrice of Amun.
+
+Pinedjem's mummy was found in the cache at Deir el-Bahri.
+
+His parents Piankh and Nodjmet had several children; three brothers (Heqanefer, Heqamaat, Ankhefenmut) and one sister (Faienmut) of Pinedjem I are known. Three of his wives are known. Duathathor-Henuttawy, the daughter of Ramesses XI bore him several children: the future pharaoh Psusennes I, the God's Wife of Amun Maatkare, Princess Henuttawy and probably Queen Mutnedjmet, the wife of Psusennes.
+
+Another wife was Isetemkheb, Singer of Amun. She is mentioned along with Pinedjem I on bricks found at el-Hiban. A possible third wife is Tentnabekhenu, who is mentioned on the funerary papyrus of her daughter Nauny. Nauny was buried at Thebes and is called a King's Daughter, thus it is likely that Pinedjem was her father.
+
+Other than Psusennes, Pinedjem had four other sons, whose mother is unidentified, but one or more of them must have been born to Duathathor-Henuttawy: Masaharta, Djedkhonsuefankh, Menkheperre (all of whom became High Priests of Amun) and Nesipaneferhor, a God's Father (priest) of Amun, whose name replaced that of a son of Herihor in the Karnak temple of Khonsu.
+
+
+---
+
+
+### Psusennes I
+
+**Source:** https://en.wikipedia.org/wiki/Psusennes_I
+
+
+Psusennes I (Ancient Egyptian: pꜣ-sbꜣ-ḫꜥ-n-njwt; Greek Ψουσέννης) was the third pharaoh of the 21st Dynasty who ruled from Tanis in the Iron Age IB, between c. 1047 and 998 BC.
+
+Psusennes's tomb, discovered in February 1940 by the French Egyptologist Pierre Montet, is notable for the condition in which it was found. All previously found pharaonic tombs had been graverobbed, including the tomb of Tutankhamun, and Psusennes's tomb was the only ancient Egyptian royal tomb discovered in fully intact condition. However, the humid climate of Lower Egypt caused only the metal objects to survive. Pharaoh Amenemope and General Wendjebauendjed were also buried within Psusennes I's NRT III Tanis tomb while Pharaoh Shoshenq II and two anonymous royal individuals (possibly Siamun and Psusennes II) were reburied in Psusennes I's tomb after their original tombs became inundated with water.
+
+Psusennes is the Greek version of his original name Pasibkhanu or Pasebakhaenniut (in reconstructed Late Egyptian: /pəsiwʃeʕənneːʔə/), which means "The Star Appearing in the City". His throne name, Akheperre Setepenamun, translates as "Great are the Manifestations of Ra, chosen of Amun."
+
+The reign length of Psusennes I is not certain. Different copies of Manetho's records credit him with a reign of either 41 or 46 years.
+
+Some Egyptologists have proposed raising the 41 year figure by a decade to 51 years to more closely match certain anonymous Year 48 and Year 49 dates in Upper Egypt. in 1992, the German Egyptologist Karl Jansen-Winkeln suggested that all these dates should be attributed to the serving High Priest of Amun, Menkheperre instead who is explicitly documented in a Year 48 record. Jansen-Winkeln notes that "in the first half of Dyn. 21, [the] HP Herihor, Pinedjem I and Menkheperre have royal attributes and [royal] titles to differing extents" whereas the first three Tanite kings (Smendes, Amenemnisu and Psusennes I) are almost never referred to by name in Upper Egypt with the exception of one graffito and rock stela for Smendes. In contrast, the name of Psusennes I's Twenty-first Dynasty successors such as Amenemope, Osorkon the Elder, and Siamun appear frequently in various documents from Upper Egypt while the Theban High Priest Pinedjem II who was a contemporary of the latter three kings never adopted any royal attributes or titles in his career.
+
+Hence, two separate Year 49 dates from Thebes and Kom Ombo could be attributed to the ruling High Priest Menkheperre in Thebes instead of Psusennes I but this remains uncertain. Psusennes I's reign has been estimated at 46 years by the editors of the Handbook to Ancient Egyptian Chronology. Psusennes I must have enjoyed cordial relations with the serving High Priests of Amun in Thebes during his long reign since the High Priest Smendes II donated several grave goods to this king which were found in Psusennes I's tomb.
+
+However, as the Egyptologist Aidan Dodson notes in his 2012 book "Afterglow of Empire: Egypt from the Fall of the New Kingdom to the Saite Renaissance":
+
+Moreover, Menkheperre was the brother of king Psusennes I since both of them were sons of the High priest Pinedjem I.  Therefore, the Year 49 anonymous dates in Upper Egypt almost certainly belong to Psusennes I who worked in close cooperation with his brother Menkheperre who never used a royal name or prenomen in his own monuments. The German Egyptologist Thomas Schneider also assigns Psusennes I a highest date of Year 49 in a 2010 paper on the Chronology of the Egyptian New Kingdom and Third Intermediate Period. While Menkheperre certainly ruled Upper Egypt, he granted defacto recognition of Psusennes I's reign from Thebes. The aged Psusennes I could even have reigned into an unattested 50th year.
+
+
+---
+
+
+## Dynasty 22 (Libyan ~945–720 BC)
+
+---
+
+
+### Shoshenq I
+
+**Source:** https://en.wikipedia.org/wiki/Shoshenq_I
+
+
+Hedjkheperre Setepenre Shoshenq I (Egyptian ššnq; reigned c. 943–922 BC)—also known as Shashank or Sheshonk or Sheshonq I—was a pharaoh of ancient Egypt and the founder of the Twenty-second Dynasty of Egypt.
+
+Of Meshwesh ancestry, Shoshenq I was the son of Nimlot A, Great Chief of the Ma, and his wife Tentshepeh A, a daughter of a Great Chief of the Ma herself; Shoshenq was thus the nephew of Osorkon the Elder, a Meshwesh king of the 21st Dynasty.
+
+He is generally presumed to be the Shishak mentioned in the Hebrew Bible, and his exploits are carved on the Bubastite Portal at Karnak.
+
+The conventional dates for his reign, as established by Kenneth Kitchen, are 945–924 BC but his time-line has recently been revised downwards by a few years to 943–922 BC, since he may well have lived for up to two to three years after his successful campaign in Israel and Judah, conventionally dated to 925 BC. As Edward Wente of the University of Chicago noted (1976) on page 276 of his JNES 35 Book Review of Kitchen's study of the Third Intermediate Period, there is "no certainty" that Shoshenq's 925 BC campaign terminated just prior to this king's death a year later in 924 BC. Egyptologist Morris Bierbrier also dated Shoshenq I's accession "between 945–940 BC" in his 1975 book concerning the genealogies of Egyptian officials, who served during the late New Kingdom and Third Intermediate Period.
+
+Bierbrier based his opinion on Biblical evidence collated by William F. Albright in a BASOR 130 paper. This development would also account for the mostly unfinished state of decorations of Shoshenq's building projects at the Great Temple of Karnak where only scenes of the king's Palestinian military campaign are fully carved. Building materials would first have had to be extracted and architectural planning performed for his great monumental projects here. Such activities usually took up to a year to complete before work was even begun. This would imply that Shoshenq I likely lived for a period in excess of one year after his 925 BC campaign. On the other hand, if the Karnak inscription was concurrent with Shoshenq's campaign into Canaan, the fact that it was left unfinished would suggest this campaign occurred in the last year of Shoshenq's reign. This possibility would also permit his 945 BC accession date to be slightly lowered to 943 BC.
+
+A 2005 study by Rolf Krauss of ancient Egyptian chronology suggests that Shoshenq I came to power in 943 BC rather than 945 BC as is conventionally assumed based on epigraphic evidence from the Great Dakhla stela, which dates to Year 5 of his reign. Krauss and David Warburton write in the 2006 book Ancient Egyptian Chronology:
+
+The chronology of early Dyn. 22 depends on dead reckoning. The sum of the highest attested regnal dates for Osorkon II, Takelot I, Osorkon I, and Shoshenq I, added to 841 BC as year 1 of Shoshenq III, yields 938 BC at the latest for year 1 of Shoshenq I...[However] The large Dakhla stela provides a lunar date in the form of a wrš feast in year 5 of Shoshenq [I], yielding 943 BC as his year 1.
+
+The Year 5 wrš feast is recorded to have been celebrated at Dakhla oasis on IV Peret day 25 and Krauss' exploration of the astronomical data leads him to conclude that the only 'fit' within the period of 950 to 930 BC places the accession of Shoshenq I between December 944 and November 943 BC—or 943 BC for the most part. However, Dr. Anthony Leahy has suggested that "the identification of the wrš-festival of Seth as [a] lunar [festival] is hypothetical, and [thus] its occurrence on the first day of a lunar month is [an] assumption. Neither has been proven incontrovertibly." Thus far, however, only Dr. Kenneth Kitchen is on record as sharing the same academic view.
+
+
+---
+
+
+### Osorkon II
+
+**Source:** https://en.wikipedia.org/wiki/Osorkon_II
+
+
+Usermaatre Setepenamun Osorkon II was the fifth king of the Twenty-second Dynasty of Ancient Egypt and the son of King Takelot I and Queen Kapes. He ruled Egypt from approximately 872 BC to 837 BC from Tanis, the capital of that dynasty.
+
+After succeeding his father, Osorkon II was faced with the competing rule of his cousin, King Harsiese A, who controlled both Thebes and the Western Oasis of Egypt. Potentially, Harsiese's kingship could have posed a serious challenge to the authority of Osorkon, however, when Harsiese died in 860 BC, Osorkon II acted to ensure that no king would replace Harsiese. He appointed his son, Nimlot C, as the high priest of Amun at Thebes, which would have been the source for a successor to Harsiese. This consolidated the king's authority over Upper Egypt and thereafter, Osorkon II ruled over a united Egypt. Osorkon II's reign was a time of prosperity for Egypt and large-scale monumental building ensued.
+
+Osorkon II was the last king of the Twenty-second dynasty to rule Egypt from the Delta to Upper Egypt. His successor, Shoshenq III, lost the effective control of Middle and Upper Egypt that Osorkon II had achieved.
+
+Osorkon II devoted considerable resources into his building projects by adding to the temple of Bastet at Bubastis, which featured a substantial new hall decorated with scenes depicting his Sed festival and images of his queen, Karomama. Monumental construction during his reign also was performed at Thebes, Memphis, Tanis, and Leontopolis. Osorkon II also built Temple J at Karnak during the final years of his reign and it was decorated by his high priest, Takelot F (the future king, Takelot II). Takelot F was the son of the deceased high priest Nimlot C and, thus, Osorkon II's grandson.
+
+All of Osorkon II's sizeable stone statues are known to be re-used works of earlier periods that were re-inscribed for Osorkon II, including the famous "Cairo-Philadelphia statue of Osorkon II".
+
+Many officials may be dated to the reign of Osorkon II. Ankhkherednefer was inspector of the palace, Paanmeny probably was his chief physician, Djeddjehutyiuefankh was the fourth prophet of Amun, and Bakenkhons was another prophet of Amun during his reign.
+
+Osorkon II was forced to be aggressive on the international scene. The growing power of Assyria was accompanied with increased meddling in the affairs of Israel and Syria—territories well within Egypt's sphere of influence.
+
+Approximately 837 BC, Osorkon II died and he was buried in Tomb NRT I at Tanis. Currently, he is believed to have reigned for more than 30 years, rather than just 25 years as had been interpreted earlier. The celebration of his first Sed Jubilee previously was thought to have occurred in his Year 22, but the Heb Sed date in his Great Temple of Bubastis is damaged and also may be read as Year 30, as Edward Wente notes. The fact that this king's own grandson, Takelot F, served him as High Priest of Amun at Thebes–as the inscribed walls of Temple J prove – supports the hypothesis of a longer reign for Osorkon II.
+
+
+---
+
+
+### Shoshenq III
+
+**Source:** https://en.wikipedia.org/wiki/Shoshenq_III
+
+
+The modern designation Shoshenq III refers to King Usermaatre Setepnamun Shoshenq Sibaste Meryamun Netjerheqaon, who reigned for about four decades, c. 841 – c. 803/799 BC  or c. 831 – c. 791/788 BC. His highest attested regnal year is Year 39. Although he apparently retained control of Tanis and, for the most part, of Bubastis and Memphis, for most of his long reign, Shoshenq III had to reckon with rival kings in parts of the country.
+
+The family origins of Shoshenq III Sibaste are nowhere explicitly specified. The reappraisal of the chronological relationship between his reign and those of Osorkon II Sibaste and Takelot II Siese has invalidated the conjectural basis for considering Shoshenq III an apparent son of Takelot II, who succeeded him by allegedly displacing his brother, Takelot's rightful heir, the High Priest of Amun Osorkon. Since Osorkon II Sibaste already had a son named Shoshenq "D", the High Priest of Ptah at Memphis, who was buried or reburied by Shoshenq III Sibaste, it has been suggested that Shoshenq III Sibaste was a son of this Shoshenq "D" and a grandson of Osorkon II Sibaste. Alternatively, it has also been suggested that Shoshenq III Sibaste was a younger homonymous brother of the High Priest of Ptah Shoshenq "D", and a late-born son of Osorkon II Sibaste.
+
+Recent scholarship has corrected a number of earlier assumptions about the reign of Shoshenq III Sibaste. He was long thought to be the successor of Takelot II Siese and predecessor of Pami I Sibaste, and to have reigned for 52 years on the basis of the burial of a 26-year-old Apis Bull, installed in Year 28 of Shoshenq III, in Year 2 of Pami I. It is now recognized that an additional king, designated Shoshenq IV, Hedjkheperre Setepenre Shoshenq Sibaste Meryamun Netjerheqaon, reigned between Shoshenq III and Pami for at least a decade, and that Shoshenq III and Shoshenq IV reigned for 52 years altogether. Further, most Egyptologists now agree that Takelot II Siese did not intervene as king between Osorkon II Sibaste and Shoshenq III, but reigned as a rival or regional king, apparently somewhere in Upper Egypt, from the last years of Osorkon II Sibaste until Year 22 of Shoshenq III; therefore, Shoshenq III Sibaste was the direct successor of Osorkon II Sibaste.
+
+The death of Osorkon II seems to have triggered a crisis in the order of succession. Shoshenq III ascended the throne under unclear circumstances.
+
+Shoshenq III Sibaste succeeded his probable grandfather Osorkon II Sibaste in what was already Year 4 of Takelot II Siese, another probable grandson of Osorkon II Sibaste. It was Shoshenq III Sibaste that arranged for the burial of Osorkon II Sibaste in his tomb at Tanis (NRT I), where he is depicted making offerings to the gods. Additionally, Shoshenq III seems to have signalled his succession to Osorkon II by adopting the same basic Praenomen (Usermaatre) and epithet (Sibaste, "son of Bastet"), in contrast to Takelot II's Praenomen (Hedjkheperre) and epithet (Siese, "son of Isis").
+
+Shoshenq III Sibaste appears to have retained control of his capital Tanis throughout his reign, together with most of Lower Egypt. His probably indirect authority over Thebes and Upper Egypt, however, was intermittent, as he faced one or two rival kings at most times. By his Year 6, the distant authority of Shoshenq III Sibaste was recognized at Thebes, with the High Priest of Amun Harsiese "B" dating to his reign, having temporarily displaced Takelot II Siese's son Osorkon. From his Year 8, Shoshenq III Sibaste had to reckon with one more king, Padubaste I Sibaste/Siese, who became the new patron of the High Priest of Amun Harsiese "B". Padubaste I has been considered a possible brother of Shoshenq III Sibaste  or perhaps a son of Osorkon II Sibaste's former rival, King Harsiese. Because the High Priest of Amun Harsiese "B" dated to Year 5 of Padubaste I and Year 12 of (unnamed) Shoshenq III on at least one occasion, it has been suggested that the two kings might have been allies at that time, in joint opposition to Takelot II Siese and his son Osorkon. Shoshenq III's son, the General Pashedbaste "B", restored the foregate of Pylon X at Karnak, dating by the regnal count of Padubaste I, although the year is lost. Whether as partner or rival of Shoshenq III Sibaste, Padubaste I is attested by his subjects' dedications at Memphis, and a donation stele at Bubastis. Takelot II Siese died in his Year 25, which corresponded to Year 22 of Shoshenq III Sibaste, and the high priest Osorkon now recognized Shoshenq's authority and dated by his reign at Thebes, in Years 22–25 and Years 26–29, briefly interrupted by Padubaste I and the High Priest of Amun Harsiese "B". The last attestations of Shoshenq III Sibaste, also at Thebes and also in association with the High Priest of Amun Osorkon, are from Year 39. Shortly thereafter, Shoshenq III died and the high priest Osorkon declared himself king, Osorkon III Siese. Shoshenq III seems to have outlived all of his Upper Egyptian rivals, Takelot III Siese (last attested in Shoshenq III's Year 25) and the latter's apparent successor Iuput I (last attested in Shoshenq III's Year 33), and Padubaste I (last attested in Shoshenq III's Year 30) and the latter's apparent successor, the counterfactually-designated Shoshenq VI (actually Shoshenq IV, last attested in Shoshenq III's Year 36?).
+
+Shoshenq III Sibaste ruled throughout Lower Egypt, and in his Year 26 also at Heracleopolis, whose military commander Bakenptah is recorded as a brother of the High Priest of Amun Osorkon. Although the Libyan chieftains continued to defer to the king's authority, it appears that in this period they began to surpass their original function as garrison commanders by becoming more involved in and controlling larger territories. Their greater role is documented by an increased number of donation stelae. Some of the beneficiaries of this regionalisation were king's sons, or "king's sons of Rameses," like the king's eldest son Bakennefy "A" at Athribis, the general Takelot at Busiris, Padebehenbaste at Kom el-Hisn, and the Great Chief of Ma and High Priest of Ptah at Memphis, Takelot "B", a grandson of Osorkon II Sibaste and probably brother of the reigning king. Other chiefs of Ma are attested at Mendes (Harnakhte) and Pharbaithos (Iufera). The increasing autonomy of the chieftains was more pronounced among the more recently arrived Libu (rbw) than among the more integrated Ma (mʿ)/Meshwesh (mšwš). The Libu might have been settled in the western Delta during the reign of Shoshenq III Sibaste, and they seem to have been united under the authority of a single chieftain, Inamunnifnebu, by Year 31.
+
+The name of Shoshenq III Sibaste appears throughout Lower Egypt, often in relation to building projects, for example at Tell Umm Harb, Bendariyah, Tell Balamun, and Kom el-Hisn. The main focus of his activity was the capital Tanis, where he opened a new monaumental gateway in the brick wall of the enclosure of the Temple of Amun, and where he also built his tomb (NRT V), using a simple design. The works at Tanis relied heavily on recycled building materials from Pi-Ramesses. At Memphis, where the king built a chapel to the goddess Sekhmet, Apis Bulls were buried in perhaps Year 4 and in Year 28, and a stele commemorating the latter was set up by king's probable nephew, the Great Chief of Ma Pediese, son of Takelot "B", and Pediese's sons the High Priest of Ptah Peftjauawybaste and the Sem Priest of Ptah Takelot. In his Year 30, Shoshenq III Sibaste may have celebrated his Heb Sed Jubilee, but there seems to be no surviving commemoration of this event in the reliefs and inscriptions.
+
+
+---
+
+
+## Dynasty 26 (Saite Period ~664–525 BC)
+
+---
+
+
+### Psamtik I
+
+**Source:** https://en.wikipedia.org/wiki/Psamtik_I
+
+
+Wahibre Psamtik I (Ancient Egyptian: Wꜣḥ-jb-Rꜥ Psmṯk) was the first pharaoh of the Twenty-sixth Dynasty of Egypt, the Saite period, ruling from the city of Sais in the Nile delta between 664 and 610 BC. He was installed by Ashurbanipal of the Neo-Assyrian Empire, against the Kushite rulers of the Twenty-fifth Dynasty, and later gained more autonomy as the Assyrian Empire declined.
+
+The Egyptian name psmṯk, pronounced as Psamāṯək, was a short form of pꜣ-sꜣ-n-mṯk, meaning "the man of Meṯek", with Meṯek presumably a deity.
+
+His name was rendered by the Assyrians as Pishamilki (Neo-Assyrian Akkadian: 𒁹𒉿𒃻𒈨𒅋𒆠, romanized: Pišamilki), by the Ancient Greeks as Psammētikhos (Ψαμμήτιχος), and by the Romans as Psammētichus.
+
+Psamtik was also called Nabu-shezibanni (Neo-Assyrian Akkadian: 𒁹𒀭𒀝𒊺𒍦𒀀𒉌 and 𒁹𒀭𒉺𒊺𒍦𒀭𒉌 Nabu-šezibanni), meaning "O Nabu, save me!" by the Assyrians.
+
+In 671 BCE, the Assyrian king Esarhaddon invaded Egypt. This invasion was directed against the Kushite rulers of the Twenty-fifth Dynasty of Egypt, who had been in control of Upper Egypt, rather than against the native Egyptian rulers. The Assyrians created an administration relying on local Egyptian rulers, and put in place the twelve kinglets who formed a Dodecarchy ruling over the Nile Delta. They also formed alliances with the ruler of the city of Sais, Necho I, who was the most powerful of the Delta kinglets, as well as with Pakruru, the ruler of the important nome of Per-Sopdu.
+
+In 665 BCE, the Kushite king Tantamani invaded Lower Egypt again, and Necho I and Pakruru resisted the Kushite attack. Necho I died in battle and his son Psamtik I fled to Syria, while Pakruru became the spokesperson of the Delta kinglets during the peace negotiations with Tantamani at Memphis.
+
+The next year, in 664 BCE, the Assyrians under Esarhaddon's son Ashurbanipal invaded Egypt again, and the Assyrian army retook Memphis, proceeded with the Sack of Thebes, and expelled Tantamani from Egypt. Necho I's son Psamtik I returned to Egypt with this invading force, was installed by the Assyrians as the ruler of Sais and Memphis, and concluded with the Assyrians an adû agreement, some type of superior-inferior relation, but none of the Assyrian sources details the arrangements.
+
+For the first two years of his reign, Psamtik I ruled in conformity with the arrangement implemented by the Assyrians in Egypt as one of many vassal kinglets of the Egyptian Dodecarchy. According to Herodotus, during this period, Psamtik unwittingly fulfilled a prophecy by an oracle which promised the kingship of all Egypt to whoever poured a libation from a bronze vessel, after which the other kinglets of the Dodecarchy chased him from Memphis, of which he lost the rule, and he had to flee into the swamps of the Nile Delta.
+
+
+---
+
+
+### Necho II
+
+**Source:** https://en.wikipedia.org/wiki/Necho_II
+
+
+Necho II (sometimes Nekau, Neku, Nechoh, or Nikuu; Greek: Νεκώς Β'; Hebrew: נְכוֹ, Modern: Neḵō, Tiberian: Nəḵō) of Egypt was a king of the 26th Dynasty (610–595 BC), which ruled from Sais.  Necho undertook a number of construction projects across his kingdom. In his reign, according to the Greek historian Herodotus, Necho II sent out an expedition of Phoenicians, which in three years sailed from the Red Sea around Africa to the Strait of Gibraltar and back to Egypt. His son, Psammetichus II, upon succession may have removed Necho's name from monuments.
+
+Necho played a significant role in the histories of the Neo-Assyrian Empire, the Neo-Babylonian Empire and the Kingdom of Judah. Necho II is most likely the pharaoh Necho who was mentioned in 2 Kings, 2 Chronicles, and Jeremiah of the Bible. The aim of the second of Necho's campaigns was Asiatic conquest, to contain the westward advance of the Neo-Babylonian Empire, and cut off its trade route across the Euphrates. However, the Egyptians were defeated by the unexpected attack of the Babylonians and were eventually expelled from Syria.
+
+The Egyptologist Donald B. Redford observed that Necho II was "a man of action from the start, and endowed with an imagination perhaps beyond that of his contemporaries, [who] had the misfortune to foster the impression of being a failure."
+
+Necho II was the son of Psammetichus I by his Great Royal Wife Mehtenweskhet. His prenomen or royal name Wahem-Ib-Re means "Carrying out [the] Heart (i.e., Wish) [of] Re."  Upon his ascension, Necho was faced with the chaos created by the raids of the Cimmerians and the Scythians, who had not only ravaged Asia west of the Euphrates, but had also helped the Babylonians shatter the Assyrian Empire. That once mighty empire was now reduced to the troops, officials, and nobles who had gathered around a general holding out at Harran, who had taken the throne name of Ashur-uballit II. Necho attempted to assist this remnant immediately upon his coronation, but the force he sent proved to be too small, and the combined armies were forced to retreat west across the Euphrates.[citation needed]
+
+In the spring of 609 BC, Necho personally led a sizable force to help the Assyrians. At the head of a large army, consisting mainly of his mercenaries, Necho took the coast route Via Maris into Syria, supported by his Mediterranean fleet along the shore, and proceeded through the low tracts of Philistia and Sharon. At Megiddo (according to 2 Kings 23) he engaged the Judean king, Josiah, and had the Judean king killed  (an alternative version, in 2 Chronicles 35, of a battle in Megiddo also exists.)
+
+Herodotus reports the campaign of the pharaoh in his Histories, Book 2:159:
+
+Necos, then, stopped work on the canal and turned to war; some of his triremes were constructed by the northern sea, and some in the Arabian Gulf (Red Sea), by the coast of the Sea of Erythrias. The windlasses for beaching the ships can still be seen. He deployed these ships as needed, while he also engaged in a pitched battle at Magdolos with the Syrians, and conquered them; and after this he took Cadytis (Kadesh), which is a great city of Syria. He sent the clothes he had worn in these battles to the Branchidae of Miletus and dedicated them to Apollo.
+
+Necho soon captured Kadesh on the Orontes and moved forward, joining forces with Ashur-uballit and together they crossed the Euphrates and laid siege to Harran. Although Necho became the first pharaoh to cross the Euphrates since Thutmose III, he failed to capture Harran, and retreated back to northern Syria. At this point, Ashur-uballit vanished from history, and the Assyrian Empire was conquered by the Babylonians.
+
+
+---
+
+
+### Psamtik II
+
+**Source:** https://en.wikipedia.org/wiki/Psamtik_II
+
+
+Psamtik II (Ancient Egyptian: Nfr-jb-Rꜥ Psmṯk, pronounced Psamāṯək), known by the Graeco-Romans as Psammetichus or Psammeticus, was a king of the Saite-based Twenty-sixth Dynasty of Egypt (595 BC – 589 BC). His prenomen, Nefer-Ib-Re, means "Beautiful [is the] Heart [of] Re." He was the son of Necho II.
+
+Psamtik II led a foray into Nubia in 592 BC, marching as far south as the Third or even the Fourth Cataract of the Nile, according to a contemporary stela from Thebes (Karnak), which dates to Year 3 of this king's name and refers to a heavy defeat that was inflicted upon the kingdom of Kush. A well-known graffito inscribed in Greek on the left leg of the colossal seated statue of Ramesses II, on the south side of the entrance to the temple of Abu Simbel, records that:
+
+When King Psammetichus (i.e., Psamtik II) came to Elephantine, this was written by those who sailed with Psammetichus the son of Theocles, and they came beyond Kerkis as far as the river permits. Those who spoke foreign tongues (Greek and Carians who also scratched their names on the monument) were led by Potasimto, the Egyptians by Amasis.
+
+Kerkis was located near the Fifth Cataract of the Nile "which stood well within the Cushite Kingdom."
+
+This was the first confrontation between Egypt and Nubia since the reign of Tantamani. A Kushite king named Anlamani had revived the power of the kingdom of Napata. Psamtik II's campaign was likely initiated to destroy any future aspirations the Kushites may have had to reconquer Egypt. The Egyptian army advanced to Pnubs (Kerma) and the capital city of Napata in a series of fierce battles, where they looted its temples and destroyed the royal Kushite statues. The Kushite capital was sacked under the reign of the native Kushite king Aspelta who was the younger brother of Anlamani and the son of Senkamanisken. The Year 3 Karnak stela is dated to II Shemu day 10 of Psamtik II's reign and states that:
+
+The army that your Majesty sent to Nubia has reached the land of Pnubs....Nubians from all parts [of Kush] had arisen against him, their hearts full of anger when he attacked those who had rebelled against him there; because he was furious at those who had arisen against him. His Majesty took part in the combat as soon as he reached the battle. The rebels capitulated before a single arrow was unleashed against them....Those who tried to flee did not succeed and were brought back as prisoners: four thousand two hundred men.
+
+As a result of Psamtik's campaign, Kush's power was weakened, and its lost the opportunity of regaining control of Egypt as they were intending. Instead, the Nubian rulers decided to shift their capital further south from Napata to the relative safety of Meroë although most Historians agree that this wasn't the only reason. Curiously, however, Psamtik II does not appear to have capitalized on his victory, possibly because of lack of troops after the fierce battle. His troops retreated back to the First Cataract, and Elephantine continued to be the southern border of Egypt.
+
+An outcome of this campaign was the deliberate destruction of monuments belonging to the 25th Dynasty Kushite kings in Egypt "by hacking out their names and the emblems of royalty from their statues and reliefs." Later, in 591 BC, during the fourth year of his reign, Psamtik II launched an expedition into Palestine "to foment a general Levantine revolt against the Babylonians" that involved, among others, Zedekiah of the Kingdom of Judah. Or according to Dan’el Kahn, "592 B.C. seems to be the date of the military reconquest of the Levant by Psammetichus II."
+
+
+---
+
+
+### Apries
+
+**Source:** https://en.wikipedia.org/wiki/Apries
+
+
+Apries (Ancient Greek: Ἁπρίης) is the name by which Herodotus: II.161  and Diodorus: I.68  designate Wahibre Haaibre, a pharaoh of Egypt  (589–570 BCE), the fourth king (counting from Psamtik I) of the Twenty-sixth dynasty of Egypt. He was equated with the Ouaphris (Οὔαφρις) of Manetho, who correctly records that he reigned for 19 years. Apries is also called Hophra in Jeremiah 44:30 (Hebrew: חָפְרַע, Modern: Ḥofra', Tiberian: H̱op̄ra'; Ancient Greek: Ουαφρη[ς], romanized: Ouaphre[s]).
+
+Apries inherited the throne from his father, pharaoh Psamtik II, in February 589 BCE. Apries was an active builder who constructed "additions to the temples at Athribis (Tell Atrib), Bahariya Oasis, Memphis and Sais." In the 4th year of his reign, Apries' sister Ankhnesneferibre was made the new God's Wife of Amun at Thebes. However, Apries' reign was also fraught with internal problems. In 588 BCE, Apries dispatched a force to Jerusalem to protect it from Babylonian forces sent by Nebuchadnezzar II (Book of Jeremiah 37:5; 34:21). His forces quickly withdrew, however, apparently avoiding a major confrontation with the Babylonians. Jerusalem, following an 18 month-long siege, was destroyed by the Babylonians in either 587 or 586 BCE. Apries's unsuccessful attempt to intervene in the politics of the Kingdom of Judah was followed by a mutiny of soldiers from the strategically important Aswan garrison.
+
+According to classical historians, Apries campaigned in the Levant, took Sidon and so terrified the other cities of Phoenicia that he secured their submission.: ii. 161 : I.68  However, this supposed submission was likely short lived. A recently uncovered stela from Tahpanhes records that Nebuchadnezzar II attempted to invade Egypt in 582 BCE, but Apries' forces were capable to repel the invasion.
+
+In Cyrenaica to the west, Battus II of Cyrene had encouraged further Greek settlement in his city, especially from the Peloponnese and Crete. This sparked conflict with the indigenous Libyans, whose king Adicran appealed to Apries for help around 570 BCE. Apries launched a military expedition against Cyrene, but was decisively defeated at the Battle of Irasa.
+
+When the defeated army returned home, a civil war broke out in the Egyptian army between the indigenous troops and the foreign mercenaries. The Egyptians threw their support to Amasis II, a general who had led Egyptian forces in a highly successful invasion of Nubia in 592 BCE under Pharaoh Psamtik II, Apries' father. Amasis quickly declared himself pharaoh in 570 BCE, and Apries fled Egypt and sought refuge in a foreign country. When Apries marched back to Egypt in 567 BCE with the aid of a Babylonian army to reclaim the throne of Egypt, he was likely killed in battle with Amasis' forces.[a] Alternatively, Herodotus: II.169  holds that Apries survived the battle, and was captured and treated well by the victorious Amasis, until the Egyptian people demanded justice against him, whereby he was placed into their hands and strangled to death.: II.169  Amasis thus secured his kingship over Egypt and was then its unchallenged ruler.
+
+Amasis, however, reportedly treated Apries' mortal remains with respect and observed the proper funerary rituals by having Apries' body carried to Sais and buried there with "full military honours." Amasis, the former general who had declared himself pharaoh, also married Apries' daughter, Khedebneithirbinet II, to legitimise his accession to power. While Herodotus claimed that the wife of Apries was called Nitetis (Νιτῆτις, in Greek), "there are no contemporary references naming her" in Egyptian records.
+
+Eusebius placed the eclipse of Thales in 585 BCE, in the eighth or twelfth year of Apries' reign.
+
+An obelisk which Apries erected at Sais was moved by the 3rd century AD Roman Emperor Diocletian and originally placed at the Temple of Isis in Rome. It is today located in front of the Santa Maria sopra Minerva basilica church in Rome.
+
+
+---
+
+
+### Ahmose II
+
+**Source:** https://en.wikipedia.org/wiki/Ahmose_II
+
+
+Amasis II (Ancient Greek: Ἄμασις Ámasis; Phoenician: 𐤇𐤌𐤎 ḤMS) or Ahmose II was a pharaoh (reigned 570 – 526 BCE) of the Twenty-sixth Dynasty of Egypt, the successor of Apries at Sais. He was the last great ruler of Egypt before the Persian conquest. He was also the first pharaoh to conquer Cyprus after Thutmose III.
+
+Most of our information about him is derived from Herodotus (2.161ff) and can only be imperfectly verified by monumental evidence. According to the Greek historian, he was of common origins. He was originally an officer in the Egyptian army. His birthplace was Siuph at Saïs. He took part in a general campaign of Pharaoh Psamtik II in 592 BC in Nubia.
+
+A revolt which broke out among native Egyptian soldiers gave him his opportunity to seize the throne. These troops, returning home from a disastrous military expedition to Cyrene in Libya, suspected that they had been betrayed in order that Apries, the reigning king, might rule more absolutely by means of his Greek mercenaries; many Egyptians fully sympathized with them. General Amasis, sent to meet them and quell the revolt, was proclaimed king by the rebels instead, and Apries, who then had to rely entirely on his mercenaries, was defeated (though it is suggested that Apries had more native support than classical sources describe). Apries then fled to an "island" (possibly an elevated or isolated base of Apries within Egypt) and was killed while mounting a final insurrection against Amasis in 567 BCE with the aid of a shipped force (probably Greek and maybe Carian), while the Babylonians also invaded Egypt the same year. An inscription confirms the struggle between the native Egyptian and the foreign soldiery, and proves that Apries was killed and honourably buried in the fourth year of Amasis (c. 567 BCE). Amasis' revolt against Apries is also alluded to in Jeremiah 44:30. Amasis then married Khedebneithirbinet II, one of the daughters of his predecessor Apries, in order to legitimise his kingship.
+
+Some information is known about the family origins of Amasis: his mother was a certain Tashereniset, as a bust of her, today located in the British Museum, shows. A stone block from Mehallet el-Kubra also establishes that his maternal grandmother—Tashereniset's mother—was a certain Tjenmutetj.
+
+His court is relatively well known. The head of the gate guard Ahmose-sa-Neith appears on numerous monuments, including the location of his sarcophagus. He was referenced on monuments of the 30th Dynasty and apparently had a special significance in his time.  Wahibre was 'Leader of the southern foreigners' and 'Head of the doors of foreigners', so he was the highest official for border security. Under Amasis the career of the doctor, Udjahorresnet, began, who was of particular importance to the Persians. Several "heads of the fleet" are known. Psamtek Meryneit and Pasherientaihet / Padineith are the only known viziers.
+
+Herodotus describes how Amasis II would eventually cause a confrontation with the Persian armies. According to Herodotus, Amasis was asked by Cambyses II or Cyrus the Great for an Egyptian ophthalmologist on good terms. Amasis seems to have complied by forcing an Egyptian physician into mandatory labor, causing him to leave his family behind in Egypt and move to Persia in forced exile. In an attempt to exact revenge for this, the physician grew very close to Cambyses and suggested that Cambyses should ask Amasis for a daughter in marriage in order to solidify his bonds with the Egyptians. Cambyses complied and requested a daughter of Amasis for marriage.
+
+Amasis, worrying that his daughter would be a concubine to the Persian king, refused to give up his offspring; Amasis also was not willing to take on the Persian empire, so he concocted a deception in which he forced the daughter of the ex-pharaoh Apries, whom Herodotus explicitly confirms to have been killed by Amasis, to go to Persia instead of his own offspring.
+
+This daughter of Apries was none other than Nitetis, who was, as per Herodotus's account, "tall and beautiful". Nitetis naturally betrayed Amasis and upon being greeted by the Persian king explained Amasis's trickery and her true origins. This infuriated Cambyses and he vowed to take revenge for it. Amasis died before Cambyses reached him, but his heir and son Psamtik III was defeated by the Persians.
+
+
+---
+
+
+### Psamtik III
+
+**Source:** https://en.wikipedia.org/wiki/Psamtik_III
+
+
+Psamtik III (Ancient Egyptian: ꜥnḫ-kꜣ-n-Rꜥ Psmṯk, pronounced Psamāṯək), known by the Graeco-Romans as Psammetichus or Psammeticus (Ancient Greek: Ψαμμήτιχος), or Psammenitus (Ancient Greek: Ψαμμήνιτος), was the last Pharaoh of the Twenty-sixth Dynasty of Egypt from 526 BC to 525 BC. Most of what is known about his reign and life was documented by the Greek historian Herodotus in the 5th century BC. Herodotus states that Psamtik had ruled Egypt for only six months before he was confronted by a Persian invasion of his country led by King Cambyses II of Persia. Psamtik was subsequently defeated at the Battle of Pelusium, and fled to Memphis where he was captured. The deposed pharaoh was carried off to Susa in chains, and later committed suicide.
+
+Psamtik III was the son of the pharaoh Amasis II and one of his wives, Queen Tentkheta. He succeeded his father as pharaoh in 526 BC, when Amasis died after a long and prosperous reign of some 44 years. According to Herodotus, he had a son named Amasis and a wife and daughter, both unnamed in historical documents.
+
+Psamtik ruled Egypt for no more than six months. A few days after his coronation, rain fell at Thebes, which was a rare event that frightened some Egyptians, who interpreted this as a bad omen. The young and inexperienced pharaoh was no match for the invading Persians. After the Persians, under Cambyses, had crossed the Sinai desert with the aid of the Arabians, a battle was fought near Pelusium, a city on Egypt's eastern frontier, in the spring of 525 BC and the Egyptians were defeated. Consequently, Psamtik and his army were compelled to withdraw to Memphis. The Persians captured the city after a long siege, and, subsequently Psamtik himself. Shortly thereafter, Cambyses ordered the public execution of two thousand of the principal citizens, including (according to some sources) a son of the fallen pharaoh.
+
+Psamtik's captivity and subsequent suicide are described in The Histories by Herodotus, Book III, sections 14 and 15. Psamtik's daughter and the daughters of all the Egyptian noblemen were enslaved. Psamtik's son and two thousand other sons of noblemen were sentenced to death, in retaliation for the murder of the Persian ambassador and the two hundred crew of his boat. An "old man who had once been the king's friend" was reduced to beggary. All these people were brought before Psamtik to test his reaction, and he only became upset after seeing the state of the beggar.
+
+Psamtik's compassion for the beggar caused him to be spared, but his son had already been executed. The deposed pharaoh was then raised up to live in the entourage of the Persian King in Susa, the Persian capital. After a while, however, Psamtik attempted to raise a rebellion among the Egyptians. When Cambyses learned of this, Psamtik is reported by Herodotus to have drunk bull's blood and immediately died.
+
+
+---
+
+
+## Dynasty 27 (First Persian ~525–404 BC)
+
+---
+
+
+### Cambyses II
+
+**Source:** https://en.wikipedia.org/wiki/Cambyses_II
+
+
+Cambyses II[a] was the second King of Kings of the Achaemenid Empire, reigning from 530 to 522 BCE. He was the son of and successor to Cyrus the Great (r. 550 – 530 BC); his mother was Cassandane. His relatively brief reign was marked by his conquests in North Africa, notably Egypt, which he took by defeating pharaoh Psamtik III (r. 526–525 BC) at the Battle of Pelusium in 525 BC. After his victory in Egypt, he expanded the empire's holdings in Africa by taking Cyrenaica, the coastal region of eastern Libya. In the spring of 522 BC, Cambyses had to leave Egypt hastily to put down a revolt in Persia.
+
+En route to Syria (Eber-Nari), Cambyses somehow received a thigh wound; it soon became gangreneous. Cambyses died three weeks later in Agbatana, likely the modern city of Hama. He died childless, and was thus succeeded by his younger brother Bardiya. Bardiya ruled for a short time, and was then overthrown by Darius the Great (r. 522–486 BC), who went on to increase the power of the Achaemenids further.
+
+Before his accession, Cambyses was governor of northern Babylonia under his father Cyrus from April to December 538 BCE. He held positions in Babylon and Sippar. In 530 BCE, his father made him co-ruler. Cyrus then set off on an expedition against the Massagetae of Central Asia, where he met his end. Cambyses thus became the sole ruler of the vast Achaemenid Empire. According to chroniclers, he faced no opposition.
+
+The origins of the name of "Cambyses" (Old Persian: 𐎣𐎲𐎢𐎪𐎡𐎹, romanized: Kaᵐbūjiya) is disputed in scholarship; according to some scholars, the name is of Elamite origin, whilst others associate it with Kambojas, an Iranian people who inhabited northwestern India. The name of Cambyses is known in other languages as: Elamite Kanbuziya; Akkadian Kambuziya; Aramaic Kanbūzī.
+
+Cambyses was the eldest son of Cyrus the Great (r. 550–530 BC) and Cassandane.[b] Cambyses had a younger brother, Bardiya, and three sisters; these were Artystone, Atossa, and Roxanne. Cambyses' paternal grandfather was his namesake Cambyses I, the king of Persis from 600 to 559 BC. The family was descended from a line of rulers of Persian tribes who, starting with Cyrus in Anshan, expanded their reach over Persis by subjugating first the Median Empire, then the Neo-Babylonian Empire, and finally Lydia and Central Asia to establish the Achaemenid Empire.
+
+In April 538 BC, Cambyses was appointed by his father as the governor of the northern part of Babylonia, including its city Babylon, whilst the central and southern part continued to be directly supervised by Cyrus and his bureaucrats. Before his appointment, Cambyses had taken part in a ritual at the regular New Year festival on 27 March 538 BC, where he received the royal sceptre in Esagila, a temple dedicated to the god Marduk. His governorship, however, lasted only nine months; Cyrus dismissed him from the post in December 538 BC for unknown reasons. After his dismissal, Cambyses continued to mostly reside in the Babylonian cities of Babylon and Sippar.
+
+According to Babylonian records, both Cambyses and Cyrus carried the title of "King of Babylon, King of the Lands" in 538/7 BC, which indicates that Cyrus had appointed him as co-ruler some years before his campaign against the Massagetae. Cyrus' younger son, Bardiya, was given his own realm in Central Asia, which was exempted from paying tribute. Cambyses reportedly took part in the expedition against the Massagetae, but, due to his being the heir to the throne, he was sent back to Persia, before Cyrus fell to the Massagetae. Cambyses had his father's body carried to Pasargadae in Persis, where he was buried in a tomb that had been prepared for him earlier.
+
+Cambyses' accession to the Achaemenid throne was relatively smooth. Ruling over a vast but young empire, Cambyses preserved his authority over the subjugated lands, but also expanded his dominion over Egypt, the last prominent power in the Near East. According to the French Iranologist Pierre Briant, "this must not be seen as a more or less irrational and uncontrollable desire to take over the entire inhabited world". On the contrary, Cambyses' action had already been planned by his father, who wanted to unify Babylonia with the lands of the Trans-Euphrates (an area that stretched from Posideium to Egypt). This would eventually require conquering the lands situated between the Euphrates and Nile rivers, and therefore necessitated conflict with Egypt, which had previously and more recently shown interest in the area.
+
+
+---
+
+
+### Darius I
+
+**Source:** https://en.wikipedia.org/wiki/Darius_I
+
+
+Darius I (Old Persian: 𐎭𐎠𐎼𐎹𐎺𐎢𐏁 Dārayavaʰuš; c. 550 – 486 BCE), commonly known as Darius the Great, was the third King of Kings of the Achaemenid Empire, reigning from 522 BCE until his death in 486 BCE. He ruled the empire at its territorial peak, when it included much of West Asia, parts of the Balkans (Thrace–Macedonia and Paeonia) and the Caucasus, most of the Black Sea's coastal regions, Central Asia, the Indus Valley in the far east, and portions of North Africa and Northeast Africa including Egypt (Mudrâya), eastern Libya, and coastal Sudan.
+
+Darius ascended the throne after overthrowing the Achaemenid monarch Bardiya (or Smerdis), who he claimed was in fact an imposter named Gaumata. The new king met with rebellions throughout the empire but quelled each of them; a major event of Darius's career described in Greek historiography was his punitive expedition against Athens and Eretria for their participation in the Ionian Revolt.
+
+Darius organized the empire by dividing it into administrative provinces, each governed by a satrap. He organized Achaemenid coinage as a new uniform monetary system, and he made Aramaic a co-official language of the empire alongside Old Persian. He also put the empire in better standing by improving roads and introducing standard weights and measures. Through these changes, the Achaemenid Empire became centralized and unified. Darius undertook other construction projects throughout his realm, primarily focusing on Susa, Pasargadae, Persepolis, Babylon, and Egypt. He had an inscription carved upon a cliff-face of Mount Behistun to record his conquests, which would later become important evidence of the Old Persian language.
+
+Dārīus and Dārēus are the Latin forms of the Greek Dareîos (Δαρεῖος), itself from Old Persian Dārayauš (𐎭𐎠𐎼𐎹𐎢𐏁, d-a-r-y-uš); which is a shortened form of Dārayavaʰuš (𐎭𐎠𐎼𐎹𐎺𐎢𐏁, d-a-r-y-v-u-š). The longer Persian form is reflected in the Elamite Da-ri-(y)a-ma-u-iš, Babylonian Da-(a-)ri-ia-(a-)muš, and Aramaic drywhwš (𐡃𐡓𐡉𐡅𐡄𐡅𐡔) forms, and possibly in the longer Greek form, Dareiaîos (Δαρειαῖος). The name in nominative form means "he who holds firm the good(ness)", which can be seen by the first part dāraya, meaning "holder", and the adverb vau, meaning "goodness".
+
+At some time between his coronation and his death, Darius left a tri-lingual monumental relief on Mount Behistun, which was written in Elamite, Old Persian and Babylonian. The inscription begins with a brief autobiography including his ancestry and lineage. To aid the presentation of his ancestry, Darius wrote down the sequence of events that occurred after the death of Cyrus the Great.
+
+Darius mentions several times that he is the rightful king by the grace of the supreme deity Ahura Mazda. Further texts and monuments from Persepolis have been found, as well as a clay tablet containing an Old Persian cuneiform of Darius from Gherla, Romania (Harmatta) and a letter from Darius to Gadates, preserved in a Greek text of the Roman period. In the foundation tablets of Apadana Palace, Darius described in Old Persian cuneiform the extent of his Empire in broad geographical terms:
+
+Darius the great king, king of kings, king of countries, son of Hystaspes, an Achaemenid. King Darius says: This is the kingdom which I hold, from the Sacae who are beyond Sogdia to Kush, and from Sind (Old Persian: 𐏃𐎡𐎭𐎢𐎺, "Hidauv", locative of "Hiduš", i.e. "Indus valley") to Lydia (Old Persian: "Spardâ") – [this is] what Ahuramazda, the greatest of gods, bestowed upon me. May Ahuramazda protect me and my royal house!
+
+— DPh inscription of Darius I in the foundations of the Apadana Palace
+
+
+---
+
+
+### Xerxes I
+
+**Source:** https://en.wikipedia.org/wiki/Xerxes_I
+
+
+Xerxes I (/ˈzɜːrksiːz/ ZURK-seez;[a] commonly known as Xerxes the Great; c. 518 BC – 465 BC) was a Persian ruler who reigned as the fourth King of Kings of the Achaemenid Empire, reigning from 486 BC until his assassination in 465 BC. He was the son of Darius the Great and Atossa, a daughter of Cyrus the Great.
+
+In Western history, Xerxes is best known for his invasion of Greece in 480 BC, which ended in Persian defeat. Xerxes was made successor by Darius over his elder brother Artobarzan and inherited a large, multi-ethnic empire upon his father's death. He consolidated power by crushing revolts in Egypt and Babylon, and renewed his father's campaign to subjugate Greece and punish Athens and its allies for their interference in the Ionian Revolt. In 480 BC, Xerxes led a large army and crossed the Hellespont into Europe. He achieved victories at Thermopylae and Artemisium before capturing and razing Athens. His forces gained control of mainland Greece north of the Isthmus of Corinth until their defeat at the Battle of Salamis. Fearing that the Greeks might trap him in Europe, Xerxes retreated with the greater part of his army back to Asia, leaving behind Mardonius to continue his campaign. Mardonius was defeated at Plataea the following year, ending the Persian invasion.
+
+After returning to Persia, Xerxes dedicated himself to large construction projects, many of which had been left unfinished by his father. He oversaw the completion of the Gate of All Nations, the Apadana and the Tachara at Persepolis, and continued the construction of the Palace of Darius at Susa. He also maintained the Royal Road built by his father. In 465 BC, Xerxes and his heir Darius were assassinated by Artabanus, the commander of the royal bodyguard. He was succeeded by his third son, who took the throne as Artaxerxes I.
+
+Xérxēs (Ξέρξης) is the Greek and Latin (Xerxes, Xerses) transliteration of the Old Iranian Xšaya-ṛšā ("ruling over heroes"), which can be seen by the first part xšaya, meaning "ruling", and the second ṛšā, meaning "hero, man". The name of Xerxes was known in Akkadian as Ḫi-ši-ʾ-ar-šá and in Aramaic as ḥšyʾrš. Xerxes would become a popular name among the rulers of the Achaemenid Empire.
+
+Xerxes' father was Darius the Great (r. 522–486 BC), the monarch of the Achaemenid Empire, albeit not a member of the family of Cyrus the Great, the founder of the empire. Xerxes' mother was Atossa, a daughter of Cyrus. Darius and Atossa married in 522 BC, and Xerxes was born around 518 BC.
+
+According to the Greek dialogue First Alcibiades, which describes typical upbringing and education of Persian princes, they were raised by eunuchs. Starting at the age of seven, they learned how to ride and hunt; after reaching the age of fourteen, they were each taught by four teachers from aristocratic backgrounds, who taught them how to be "wise, just, prudent, and brave." Persian princes also learned the basics of the Zoroastrian religion, and were taught to be truthful, to be courageous, and to have self-restraint. The dialogue further added that "fear, for a Persian, is the equivalent of slavery." At the age of 16 or 17, they began their mandatory 10 years of national service, which included practicing archery and javelin, competing for prizes, and hunting. Afterwards, they served in the military for around 25 years, after which they were elevated to the status of elders and advisers to the king. Families in this time, including Xerxes', would intermarry.
+
+This account of education among the Persian elite is supported by Xenophon's description of the 5th-century BC Achaemenid prince Cyrus the Younger, with whom he was well-acquainted. Stoneman suggests that this was the type of upbringing and education that Xerxes experienced. It is unknown if Xerxes ever learned to read or write, with the Persians favoring oral history over written literature. Stoneman suggests that Xerxes' upbringing and education was possibly not much different from that of the later Iranian kings, such as Abbas the Great, king of the Safavid Empire in the 17th-century AD. Starting from 498 BC, Xerxes resided in the royal palace of Babylon.
+
+While Darius was preparing for another war against Greece, a revolt began in Egypt in 486 BC over taxation and the deportation of craftsmen to build the royal palaces at Susa and Persepolis. The king was required by Persian law to choose a successor before setting out on dangerous expeditions; when Darius decided to leave for Egypt (487–486 BC), he prepared his tomb at Naqsh-e Rustam (five kilometers from his royal palace at Persepolis) and appointed Xerxes, his eldest son by Atossa, as his successor. Darius could not lead the campaign due to his failing health; he died in October 486 BC at the age of 64.
+
+
+---
+
+
+### Artaxerxes I
+
+**Source:** https://en.wikipedia.org/wiki/Artaxerxes_I
+
+
+Artaxerxes I[a] was the fifth King of Kings of the Achaemenid Empire, from August 465 to December 424 BC. He was the third son of Xerxes I.
+
+In Greek sources he is also surnamed "Long-handed" (Ancient Greek: μακρόχειρ Makrókheir; Latin: Longimanus), allegedly because his right hand was longer than his left.
+
+Josephus and several ancient traditions identify him as King Ahasuerus, from the Book of Esther.
+
+Artaxerxes was probably born in the reign of his grandfather Darius I, to the emperor's son and heir, Xerxes I. In 465 BC, Xerxes I was murdered by Hazarapat ("commander of thousand") Artabanus, the commander of the royal bodyguard and the most powerful official in the Persian court, with the help of a eunuch, Aspamitres. Greek historians give contradicting accounts of events. According to Ctesias (in Persica 20), Artabanus then accused Crown Prince Darius, Xerxes's eldest son, of the murder, and persuaded Artaxerxes to avenge the patricide by killing Darius. But according to Aristotle (in Politics 5.1311b), Artabanus killed Darius first and then killed Xerxes. After Artaxerxes discovered the murder, he killed Artabanus and his sons.
+
+Artaxerxes had to face a revolt in Egypt in 460–454 BC led by Inaros II, who was the son of a Libyan prince named Psamtik, presumably descended from the Twenty-sixth Dynasty of Egypt. In 460 BC, Inaros II revolted against the Persians with the help of his Athenian allies, and defeated the Persian army commanded by satrap Achaemenes. The Persians retreated to Memphis, and the Athenians were finally defeated in 454 BC, by the Persian army led by Megabyzus, after a two-year siege. Inaros was captured and carried away to Susa.
+
+After the Achaemenid Empire had been defeated at the Battle of the Eurymedon (c. 469 BC), military action between Greece and Persia was at a standstill. When Artaxerxes I took power, he introduced a new Persian strategy of weakening the Athenians by funding their enemies in Greece. This indirectly caused the Athenians to move the treasury of the Delian League from the island of Delos to the Athenian acropolis. This funding practice inevitably prompted renewed fighting in 450 BC, where the Greeks attacked at the Battle of Cyprus. After Cimon's failure to attain much in this expedition, hostilities ceased. Later sources argue that the purported Peace of Callias was agreed among Athens, Argos and Persia in 449 BC; however, the existence of a formal treaty between the Greek States and Persia is disputed.
+
+Artaxerxes I offered asylum to Themistocles, who was probably his father Xerxes's greatest enemy for his victory at the Battle of Salamis, after Themistocles was ostracized from Athens. Also, Artaxerxes I gave him Magnesia, Myus, and Lampsacus to maintain him in bread, meat, and wine. In addition, Artaxerxes I gave him Skepsis to provide him with clothes, and he also gave him Percote with bedding for his house. Themistocles would go on to learn and adopt Persian customs, Persian language, and traditions.
+
+A King Artaxerxes[b] is described in the Bible (Ezra 7) as having commissioned Ezra, a kohen and scribe, by means of a letter of decree, to take charge of the ecclesiastical and civil affairs of the Jewish nation.
+
+
+---
+
+
+## Dynasty 30 (Last Native ~380–343 BC)
+
+---
+
+
+### Nectanebo I
+
+**Source:** https://en.wikipedia.org/wiki/Nectanebo_I
+
+
+Nectanebo I (Egyptian: Nḫt-nb.f; Ancient Greek: Νεκτάνεβις Nectanebis; died 361/60 BC) was an ancient Egyptian pharaoh, founder of the last native dynasty of Egypt, the 30th.
+
+Nectanebo's Egyptian personal name was Nḫt-nb.f (Nakhtnebef), which means "the strong one of his lord". Greek sources rendered the name as Νεκτάνεβις (Nectanebis). The writings of Manetho which have been preserved by George Syncellus spell it Νεκτανέβης (Nectanebēs), but this is probably only based on a phonetic approximation due to iotacism. Although convention in English assigns identical names to him and his grandson, Nectanebo II, the two in fact had different names.
+
+Nectanebo was an army general from Sebennytos, son of an important military officer named Djedhor and of a lady whose name is only partially recorded, [...]mu. A stele found at Hermopolis provides some evidence that he came to power by overthrowing, and possibly putting to death, the last pharaoh of the 29th Dynasty Nepherites II. It has been suggested that Nectanebo was assisted in the coup by the Athenian general Chabrias. Nectanebo carried out the coronation ceremony in c. 379/8 BC in both Sais and Memphis, and shifted the capital from Mendes to Sebennytos.
+
+The relationships between Nectanebo and the pharaohs of the previous dynasty are not entirely clear. He showed little regard for both Nepherites II and his father Achoris, calling the former inept and the latter a usurper. He seemed to have had a higher regard for Nepherites I, who was formerly believed to be Nectanebo's father or grandfather, although it is now believed that this view was due to a misinterpretation of the Demotic Chronicle. However, it has been suggested that both Achoris and Nectanebo may have been Nepherites I's relatives in some way.
+
+Nectanebo had two known sons: Teos, who was his appointed successor, and Tjahapimu.
+
+Nectanebo was a great builder and restorer, to an extent not seen in Egypt for centuries. He ordered work on many of the temples across the country.
+
+On the sacred island of Philae near Aswan, he began the temple of Isis, which would become one of the most important religious sites in ancient Egypt, by erecting its vestibule. Nectanebo also began the First Pylon in the Precinct of Amun-Re at Karnak, and it is believed that the earliest known mammisi, which was found at Dendera, was built by him. The cult of sacred animals, which became prominent between the two Persian occupation periods (the 27th and 31st dynasties respectively), was supported by Nectanebo as evidenced by archaeological findings at Hermopolis, Hermopolis Parva, Saft el-Hinna and Mendes. Further works ordered by the pharaoh have been found in religious buildings at Memphis, Tanis and El Kab.
+
+Nectanebo was also generous towards the priesthood. A decree dated to his first year and discovered on a stele at Naucratis, required that 10 percent of taxes collected both from imports and from local production in this city were to be used for the temple of Neith at Sais. A twin of this stele was recently discovered in the now-submerged city of Heracleion. The aforementioned stele from Hermopolis, placed before a pylon of Ramesses II, lists the donations made by Nectanebo to the local deities, and other benefits were also granted to the priesthood of Horus at Edfu. Nectanebo's prodigality showed his devotion to the gods and at the same time financially supported the largest holders of wealth of the country and for expenditure on the defence of the country.
+
+
+---
+
+
+### Teos
+
+**Source:** https://en.wikipedia.org/wiki/Teos_of_Egypt
+
+
+Djedhor, better known as Teos (Ancient Greek: Τέως) or Tachos (Ancient Greek: Τάχως), was an ancient Egyptian pharaoh of the 30th Dynasty.
+
+A son of his predecessor Nectanebo I, Teos was his co-regent for three years before ascending to the throne in 361–60 BCE.
+
+Nectanebo's success in the Nile Delta against the invading Persian armies in 374–73 BCE encouraged Teos to start to plan a military expedition into Palestine and Phoenicia, which were territories controlled by the Persians. Taking advantage of a moment of weakness for the Achaemenid Empire due to riots in some satrapies in Asia Minor, Teos sought assistance from both the octogenarian king Agesilaus II of Sparta and the Athenian general Chabrias, including a number of mercenaries and 200 triremes, from Greece. However, to finance such an expedition, Teos had to impose new taxes and to expropriate the goods of the temples, destroying the delicate balance artfully established by his father Nectanebo. This action ensured to Teos both the required finances and a great unpopularity.
+
+The operation against the Persians started with Chabrias as the admiral of the fleet, Agesilaus as the commander of the Greek mercenaries and Teos's nephew Nakhthorheb as the leader of the machimoi (Diodorus Siculus, certainly exaggerating, claimed that the machimoi were 80,000 in number). Teos placed himself in the supreme command of the expedition (the position claimed by Agesilaus) leaving his brother Tjahapimu, the father of Nakhthorheb, in Egypt as his regent. The expedition made its way to Phoenicia without particular problems.
+
+Unfortunately for Teos, his brother Tjahapimu was plotting against him. Taking advantage of Teos's unpopularity, and with the support of the priestly classes, Tjahapimu convinced his son Nakhthorheb to rebel against Teos and to make himself pharaoh. Nakhthorheb persuaded Agesilaus to join his side by taking advantage of the several disagreements that had arisen between the Spartan king and the pharaoh. Nakhthorheb was acclaimed pharaoh – better known today as Nectanebo II – and the betrayed Teos had no alternative but to flee to Susa, the court of his enemies.
+
+Knowledge of the final fate of Teos comes from the inscription by a noble called Wennefer, who also participated in Teos's unfortunate expedition as a physician. Wennefer was sent by Nectanebo II in search of Teos and managed to have him held by the Persian king Artaxerxes II at Susa. Wennefer then had Teos brought back with him in chains to the Egyptian pharaoh.
+
+
+---
+
+
+### Nectanebo II
+
+**Source:** https://en.wikipedia.org/wiki/Nectanebo_II
+
+
+Nectanebo II (Egyptian: Nḫt-Ḥr-Ḥbt; Ancient Greek: Νεκτανεβώς Nectanebos) was the last native ruler of ancient Egypt, as well as the third and last pharaoh of the Thirtieth Dynasty, reigning from 358 to c.340 BC.
+
+During the reign of Nectanebo II, Egyptian artists developed a specific style that left a distinctive mark on the reliefs of the Ptolemaic Kingdom. Like his indirect predecessor Nectanebo I, Nectanebo II showed enthusiasm for many of the cults of the gods within ancient Egyptian religion, and more than a hundred Egyptian sites bear evidence of his attention.
+
+For several years, Nectanebo II was successful in keeping Egypt safe from the Achaemenid Empire. However, he was betrayed by his former servant, Mentor of Rhodes, and ultimately defeated. The Achaemenids occupied Memphis and then seized the rest of Egypt, incorporating the country into the Achaemenid Empire under Artaxerxes III. Nectanebo fled south. His subsequent fate is unknown. He was the last native Egyptian to rule over Ancient Egypt.
+
+Nectanebo is derived from the Greek form of his name, Nectanebōs (Νεκτανεβώς, or Νεκτανεβός in later sources). His Egyptian name was Nḫt-ḥr-Ḥbt (Nakht-hor-hebyt), which means "victorious is Horus of Hebyt". Although convention in English assigns identical names to him and his grandfather, Nectanebo I, the latter was in fact called Nectanebis (Νεκτάνεβις).
+
+Medieval Arab authors referred to him as Nāqāṭānībās (Arabic: ناقاطانيباس).
+
+In 525 BC, Egypt was conquered by the Achaemenid Empire. Because of internal struggles for the Persian imperial succession, Egypt managed to regain independence in 404 BC. In 389 BC, Pharaoh Hakor negotiated a treaty with Athens and for three years (from 385 to 383 BC) managed to withstand Persian aggression. However, following the conclusion of the Peace of Antalcidas in 387 BC between the Achaemenids and the Greek city-states, Egypt and Cyprus became the only obstacles to Persian hegemony in the Mediterranean.
+
+At the beginning of 360 BC, Nectanebo's predecessor, Teos, started preparations for war against intruders. In the same year, the Egyptian army set off, traveling along the coast by land and sea. Nectanebo II accompanied his uncle Teos in that campaign and was in charge of the machimoi.
+
+In an attempt to quickly raise finances for the war, Teos imposed taxes on Egyptians and seized temple property. Egyptians, particularly the priests, resented these measures but supported Nectanebo II. Teos asked Spartan military leader Agesilaus and Athenian general Chabrias to support him. Agesilaus, however, said he was sent to aid Egypt and not to wage war against it. Chabrias returned home with his mercenaries. Teos decided to flee to the Achaemenid court, where he ultimately died of natural causes.
 
 
 ---

@@ -1,49 +1,50 @@
-# Python
+# ── Python runtime ───────────────────────────────────────────────────────────
 __pycache__/
 *.py[cod]
 *.pyo
+*.pyd
 .Python
-env/
-venv/
+
+# ── Virtual environments ──────────────────────────────────────────────────────
 .venv/
+venv/
+env/
+
+# ── Generated artifacts (re-created by running the pipeline scripts) ──────────
+chroma_db/          # rebuilt by:  python DataBaseChunking.py
+tsne_pharaohs.png   # rebuilt by:  python DataBaseChunking.py
+
+# ── Database files ────────────────────────────────────────────────────────────
+*.sqlite3
+*.sqlite
+
+# ── Distribution / packaging ──────────────────────────────────────────────────
 build/
 dist/
 *.egg-info/
 *.egg
+*.whl
+*.tar
+*.tar.gz
+*.zip
 
-# Node
-node_modules/
+# ── Logs ──────────────────────────────────────────────────────────────────────
+*.log
+
+# ── Environment variables ─────────────────────────────────────────────────────
+.env
+.env.*
+
+# ── Node / Angular (frontend) ─────────────────────────────────────────────────
+FrontEnd/egypt-chatbot/node_modules/
+FrontEnd/egypt-chatbot/dist/
+FrontEnd/egypt-chatbot/.angular/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Angular / frontend build
-/FrontEnd/egypt-chatbot/dist/
-/FrontEnd/egypt-chatbot/.angular/
-
-# IDEs, OS
+# ── IDEs / OS artefacts ───────────────────────────────────────────────────────
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
-
-# Environment files
-.env
-.env.*
-
-# Packaged archives / distributions (don't upload packaged binaries)
-*.tar
-*.tar.gz
-*.zip
-*.whl
-*.apk
-*.deb
-
-# Database files
-.sqlite3
-
-# Logs
-*.log
-
-# Keep script and data files tracked (data/ and scripts/ directories should be committed)
-# If you want to ignore any specific script/data subfolder, add it explicitly below.
