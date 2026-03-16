@@ -1,12 +1,3 @@
-"""
-chatbot.py — RAG Chatbot with FAISS + Ollama
-
-Install:
-    pip install fastapi uvicorn faiss-cpu sentence-transformers ollama
-
-Run:
-    uvicorn chatbot:app --reload --port 8000
-"""
 
 import re
 import pickle
@@ -52,6 +43,7 @@ RULES:
 
 4. If the question is not about ancient Egypt:
    "I only know about ancient Egyptian history! Ask me about a pharaoh."
+
 
 Never say "Based on the context" or "According to the provided text".
 Never repeat the full profile format for a specific question.
