@@ -1,157 +1,307 @@
 """
-clean_data.py
+DataBaseChunking.py
 
-Reads egypt_raw_data.md → cleans each pharaoh's text → writes data_clean/*.txt
-One file per dynasty, one section per pharaoh.
-No field extraction — keeps clean readable Wikipedia paragraphs.
+Reads data_clean/*.txt → chunks by pharaoh → embeds → stores in ChromaDB
+One chunk per pharaoh = clean Wikipedia paragraphs, no broken field extraction.
+LLM formats the answer at query time.
 
-Run: python clean_data.py
+Install:
+    pip install langchain langchain-huggingface langchain-community
+                chromadb sentence-transformers scikit-learn matplotlib
+
+Run:
+    python DataBaseChunking.py
 """
 
 import re
+import numpy as np
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
 from pathlib import Path
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.vectorstores import Chroma
+from langchain_core.documents import Document
+from sklearn.manifold import TSNE
 
-INPUT_FILE = Path("egypt_raw_data.md")
-OUTPUT_DIR = Path("data_clean")
+DATA_DIR   = Path("data_clean")
+CHROMA_DIR = "chroma_db"
+EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+PREVIEW_N   = 3
 
-
-def clean_text(text: str) -> str:
-    # Remove citation brackets [1], [2], [note 1]
-    text = re.sub(r'\[\d+\]', '', text)
-    text = re.sub(r'\[note \d+\]', '', text, flags=re.IGNORECASE)
-    text = re.sub(r'\[citation needed\]', '', text, flags=re.IGNORECASE)
-    text = re.sub(r'\[a\]|\[b\]|\[c\]|\[d\]|\[e\]|\[f\]', '', text)
-
-    # Remove pronunciation guides: (/hɑːtˈʃɛpsʊt/ ...)
-    text = re.sub(r'\(/[^)]+/[^)]*\)', '', text)
-    text = re.sub(r'listenⓘ', '', text)
-
-    # Remove Ancient Egyptian hieroglyph sequences
-    text = re.sub(r'𓀀-𔁕|[\U00013000-\U0001342F]+', '', text)
-
-    # Remove romanization labels: (Ancient Egyptian: ...) keep just the name
-    text = re.sub(r'\(Ancient Egyptian:[^)]+\)', '', text)
-    text = re.sub(r'\(Koine Greek:[^)]+\)', '', text)
-    text = re.sub(r'\(Ancient Greek:[^)]+\)', '', text)
-    text = re.sub(r'\(Neo-Assyrian Akkadian:[^)]+\)', '', text)
-    text = re.sub(r'\(Old Persian:[^)]+\)', '', text)
-
-    # Remove transliteration lines like "ḥr-m-ḥb" that appear alone
-    text = re.sub(r'\b[ḥḫꜣꜥṯḏṭṣḳꜢ][^\s,\.]+', '', text)
-
-    # Remove markdown bold/italic
-    text = re.sub(r'\*\*([^*]+)\*\*', r'\1', text)
-    text = re.sub(r'\*([^*]+)\*', r'\1', text)
-
-    # Remove wiki table/list artifacts
-    text = re.sub(r'^\|.*$', '', text, flags=re.MULTILINE)
-
-    # Collapse multiple spaces and blank lines
-    text = re.sub(r'[ \t]{2,}', ' ', text)
-    text = re.sub(r'\n{3,}', '\n\n', text)
-
-    return text.strip()
+DYNASTY_COLORS = {
+    "early dynastic": "#e74c3c", "dynasty 3":  "#e67e22",
+    "dynasty 4":      "#f39c12", "dynasty 5":  "#d4ac0d",
+    "dynasty 6":      "#a9cce3", "dynasty 11": "#2ecc71",
+    "dynasty 12":     "#27ae60", "dynasty 15": "#c0392b",
+    "dynasty 17":     "#922b21", "dynasty 18": "#3498db",
+    "dynasty 19":     "#2980b9", "dynasty 20": "#1a5276",
+    "dynasty 21":     "#8e44ad", "dynasty 22": "#7d3c98",
+    "dynasty 25":     "#1abc9c", "dynasty 26": "#16a085",
+    "dynasty 27":     "#7f8c8d", "dynasty 30": "#2c3e50",
+    "ptolemaic":      "#e91e63",
+}
 
 
-def parse_raw_md(filepath: Path) -> dict:
-    """Returns {dynasty_name: [{name, source, paragraphs}]}"""
-    content = filepath.read_text(encoding="utf-8")
-    result  = {}
+# ── Config ─────────────────────────────────────────────────────────────────
 
-    sections = re.split(r'\n## ', content)
+# ── Parse clean files — split at [TOPIC] section markers ─────────────────
+TOPIC_LABELS = ["IDENTITY", "REIGN", "MONUMENTS", "FAMILY", "DEATH", "LEGACY"]
 
-    for section in sections[1:]:
-        lines   = section.strip().split("\n")
-        dynasty = lines[0].strip()
-        result[dynasty] = []
 
-        pharaoh_blocks = re.split(r'\n### ', section)
+def parse_clean_files(data_dir: Path) -> list[Document]:
+    """
+    Each pharaoh is split into named topic sections (IDENTITY, REIGN, etc.)
+    Every chunk is self-contained and answers a different query type:
+      IDENTITY  → "who was X?"
+      REIGN     → "what did X do?"
+      MONUMENTS → "what did X build?"
+      FAMILY    → "who were X's children?"
+      DEATH     → "how did X die?"
+      LEGACY    → "why is X famous?"
+    """
+    docs = []
 
-        for block in pharaoh_blocks[1:]:
-            block_lines = block.strip().split("\n")
-            name        = block_lines[0].strip()
+    for txt_file in sorted(data_dir.glob("*.txt")):
+        content = txt_file.read_text(encoding="utf-8")
 
-            src_match = re.search(r'\*\*Source:\*\*\s*(https?://\S+)', block)
+        first_line = content.split("\n")[0]
+        dynasty    = first_line.replace("DYNASTY:", "").strip()
+
+        blocks = re.split(r'\nPHARAOH:', content)
+
+        for block in blocks[1:]:
+            lines     = block.strip().split("\n")
+            name      = lines[0].strip()
+            src_match = re.search(r'SOURCE:\s*(.+)', block)
             source    = src_match.group(1).strip() if src_match else ""
 
-            # Extract raw text — everything after source line
-            raw = re.sub(r'\*\*Source:\*\*.*?\n', '', block, flags=re.DOTALL)
-            raw = re.sub(r'---+', '', raw)
-            raw = clean_text(raw)
-
-            # Skip scrape failures
-            if "scrape failed" in raw.lower() or len(raw) < 50:
+            body_match = re.search(r'-{3,}\n+([\s\S]+?)(?:={3,}|$)', block)
+            if not body_match:
                 continue
 
-            # Keep only meaningful paragraphs (>60 chars)
-            paragraphs = [
-                p.strip() for p in raw.split('\n\n')
-                if len(p.strip()) > 60
-            ]
-
-            if not paragraphs:
+            body = body_match.group(1).strip()
+            if len(body) < 50:
                 continue
 
-            result[dynasty].append({
-                "name":       name,
-                "source":     source,
-                "paragraphs": paragraphs[:8],  # max 8 paragraphs per pharaoh
-            })
+            # Context header — stamped on every chunk
+            header = (
+                f"PHARAOH: {name}\n"
+                f"DYNASTY: {dynasty}\n"
+                f"SOURCE: {source}\n"
+            )
 
-    return result
+            # Split at [TOPIC] markers written by clean_data.py
+            topic_pattern = r'\[(' + '|'.join(TOPIC_LABELS) + r')\]\n'
+            parts = re.split(topic_pattern, body)
+
+            # parts = [pre_text, TOPIC1, content1, TOPIC2, content2, ...]
+            # Find topic sections
+            found_topics = False
+            i = 0
+            while i < len(parts) - 1:
+                if parts[i].strip() in TOPIC_LABELS:
+                    topic   = parts[i].strip()
+                    content = parts[i + 1].strip() if i + 1 < len(parts) else ""
+                    if len(content) > 40:
+                        found_topics = True
+                        is_intro = "true" if topic == "IDENTITY" else "false"
+                        docs.append(Document(
+                            page_content=f"{header}\nTOPIC: {topic}\n\n{content}",
+                            metadata={
+                                "pharaoh":  name,
+                                "dynasty":  dynasty,
+                                "source":   source,
+                                "file":     txt_file.name,
+                                "topic":    topic,
+                                "is_intro": is_intro,
+                            }
+                        ))
+                    i += 2
+                else:
+                    i += 1
+
+            # Fallback: if no topic markers found, store as single IDENTITY chunk
+            if not found_topics:
+                docs.append(Document(
+                    page_content=f"{header}\nTOPIC: IDENTITY\n\n{body}",
+                    metadata={
+                        "pharaoh":  name,
+                        "dynasty":  dynasty,
+                        "source":   source,
+                        "file":     txt_file.name,
+                        "topic":    "IDENTITY",
+                        "is_intro": "true",
+                    }
+                ))
+
+    return docs
 
 
-def to_filename(dynasty: str) -> str:
-    name = dynasty.lower()
-    name = re.sub(r'[~()]', '', name)
-    name = re.sub(r'\s*[–\-]\s*', '_', name)   # date ranges → underscore
-    name = re.sub(r'[^\w]', '_', name)
-    name = re.sub(r'_+', '_', name)
-    return name.strip('_') + ".txt"
+# ── Preview ────────────────────────────────────────────────────────────────
+def preview(docs: list[Document]):
+    print(f"\n{'='*65}")
+    print(f"CHUNK PREVIEW — first {PREVIEW_N} of {len(docs)}")
+    print(f"{'='*65}\n")
+
+    for i, d in enumerate(docs[:PREVIEW_N]):
+        print(f"── Chunk {i+1} ──────────────────────────────")
+        print(f"  Pharaoh  : {d.metadata['pharaoh']}")
+        print(f"  Dynasty  : {d.metadata['dynasty']}")
+        print(f"  Chars    : {len(d.page_content)}")
+        print(f"  Preview  :\n{d.page_content[:300]}")
+        print()
+
+    sizes = [len(d.page_content) for d in docs]
+    print(f"── Stats ───────────────────────────────────")
+    print(f"  Total chunks : {len(docs)}")
+    print(f"  Min chars    : {min(sizes)}")
+    print(f"  Max chars    : {max(sizes)}")
+    print(f"  Avg chars    : {int(sum(sizes)/len(sizes))}\n")
 
 
+# ── Embed + store ──────────────────────────────────────────────────────────
+def store(docs: list[Document], embeddings) -> object:
+    print("Embedding and storing in ChromaDB...")
+    vs = Chroma.from_documents(
+        documents=docs,
+        embedding=embeddings,
+        persist_directory=CHROMA_DIR,
+    )
+    print(f"✅ Saved to '{CHROMA_DIR}/'")
+    return vs
+
+
+# ── t-SNE visualization ────────────────────────────────────────────────────
+def visualize_tsne(docs: list[Document], embeddings):
+    print("\nGenerating t-SNE visualization...")
+
+    texts     = [d.page_content for d in docs]
+    labels    = [d.metadata["pharaoh"] for d in docs]
+    dynasties = [d.metadata["dynasty"] for d in docs]
+
+    print(f"  Embedding {len(texts)} pharaoh records...")
+    vectors = np.array(embeddings.embed_documents(texts))
+
+    print("  Running t-SNE...")
+    tsne    = TSNE(n_components=2, perplexity=min(30, len(vectors)-1),
+                   random_state=42, max_iter=1000)
+    reduced = tsne.fit_transform(vectors)
+
+    def get_color(dynasty: str) -> str:
+        d = dynasty.lower()
+        for key, color in DYNASTY_COLORS.items():
+            if key in d:
+                return color
+        return "#95a5a6"
+
+    colors = [get_color(d) for d in dynasties]
+
+    fig, ax = plt.subplots(figsize=(18, 13))
+    fig.patch.set_facecolor('#1a1208')
+    ax.set_facecolor('#1a1208')
+    ax.scatter(reduced[:, 0], reduced[:, 1],
+               c=colors, s=90, alpha=0.85, edgecolors='white', linewidths=0.3)
+    for i, (x, y) in enumerate(reduced):
+        ax.annotate(labels[i], (x, y), fontsize=5.5, color='#f0e6cc',
+                    ha='center', va='bottom', xytext=(0, 5),
+                    textcoords='offset points')
+
+    ax.set_title("t-SNE: Pharaoh Embeddings",
+                 color='#c9a84c', fontsize=14, fontweight='bold', pad=15)
+    ax.set_xlabel("t-SNE Dim 1", color='#7a6a50')
+    ax.set_ylabel("t-SNE Dim 2", color='#7a6a50')
+    ax.tick_params(colors='#7a6a50')
+    for spine in ax.spines.values():
+        spine.set_edgecolor('#3a2c10')
+
+    seen = {}
+    for dynasty, color in zip(dynasties, colors):
+        k = dynasty[:35]
+        if k not in seen:
+            seen[k] = color
+    handles = [plt.Line2D([0],[0], marker='o', color='w',
+                          markerfacecolor=c, markersize=7, label=d)
+               for d, c in sorted(seen.items())]
+    ax.legend(handles=handles, loc='upper left', fontsize=6,
+              framealpha=0.3, facecolor='#1a1208',
+              edgecolor='#3a2c10', labelcolor='#f0e6cc')
+
+    plt.tight_layout()
+    out = Path("tsne_pharaohs.png")
+    plt.savefig(out, dpi=150, bbox_inches='tight', facecolor='#1a1208')
+    plt.close()
+    print(f"  ✅ Saved: {out}")
+    return out
+
+
+# ── Retrieval test ─────────────────────────────────────────────────────────
+def test(vs):
+    queries = [
+        "Who was Khufu?",
+        "How old was Hatshepsut?",
+        "What did Ramesses II build?",
+        "How did Cleopatra die?",
+        "Tell me about Djoser",
+    ]
+    retriever = vs.as_retriever(search_kwargs={"k": 2})
+
+    print(f"\n{'='*65}")
+    print("RETRIEVAL TEST")
+    print(f"{'='*65}\n")
+
+    intro_queries = ["Who was Khufu?", "Tell me about Djoser"]
+
+    for query in queries:
+        print(f"Q: {query}")
+        # Use intro filter for identity queries
+        if any(t in query.lower() for t in ["who was", "tell me about", "who is"]):
+            results = vs.similarity_search(query, k=2, filter={"is_intro": "true"})
+        else:
+            results = retriever.invoke(query)
+        for r in results:
+            print(f"  → [{r.metadata['pharaoh']}] "
+                  f"{r.page_content[r.page_content.find(chr(10)+chr(10))+2:][:120].replace(chr(10),' ')}...")
+        print()
+
+
+# ── Main ───────────────────────────────────────────────────────────────────
 def main():
-    if not INPUT_FILE.exists():
-        print(f"ERROR: '{INPUT_FILE}' not found. Run egypt_scraper.py first.")
+    if not DATA_DIR.exists() or not any(DATA_DIR.glob("*.txt")):
+        print(f"ERROR: No files in '{DATA_DIR}/'. Run clean_data.py first.")
         return
 
-    OUTPUT_DIR.mkdir(exist_ok=True)
-    print(f"Reading: {INPUT_FILE}\n")
+    print("Step 1: Loading clean files...")
+    docs = parse_clean_files(DATA_DIR)
+    for f in sorted(DATA_DIR.glob("*.txt")):
+        count = sum(1 for d in docs if d.metadata["file"] == f.name)
+        print(f"  {f.name}: {count} pharaohs")
+    print(f"  → {len(docs)} total chunks\n")
 
-    dynasties = parse_raw_md(INPUT_FILE)
-    total     = 0
-    DIVIDER   = "=" * 60
+    print("Step 2: Preview...")
+    preview(docs)
 
-    for dynasty, pharaohs in dynasties.items():
-        if not pharaohs:
-            continue
+    input("Chunks look good? Press Enter to embed + store, or Ctrl+C to abort: ")
 
-        filename    = to_filename(dynasty)
-        output_file = OUTPUT_DIR / filename
-        out_lines   = [f"DYNASTY: {dynasty}", DIVIDER, ""]
+    print("\nStep 3: Loading embedding model...")
+    embeddings = HuggingFaceEmbeddings(
+        model_name=EMBED_MODEL,
+        model_kwargs={"device": "cpu"}
+    )
 
-        print(f"[{dynasty}] — {len(pharaohs)} pharaohs")
+    print("\nStep 4: Storing in ChromaDB...")
+    vs = store(docs, embeddings)
 
-        for p in pharaohs:
-            total += 1
-            body = "\n\n".join(p["paragraphs"])
+    print("\nStep 5: t-SNE visualization...")
+    tsne_file = visualize_tsne(docs, embeddings)
 
-            out_lines += [
-                f"PHARAOH: {p['name']}",
-                f"SOURCE:  {p['source']}",
-                "-" * 40,
-                "",
-                body,
-                "",
-                DIVIDER,
-                "",
-            ]
+    print("\nStep 6: Testing retrieval...")
+    test(vs)
 
-        output_file.write_text("\n".join(out_lines), encoding="utf-8")
-        print(f"  → {output_file}\n")
-
-    print(f"✅ Done. {total} pharaohs written to {OUTPUT_DIR}/")
-    print("Next: run DataBaseChunking.py")
+    print(f"\n✅ Done.")
+    print(f"   Chunks    : {len(docs)} pharaohs")
+    print(f"   ChromaDB  : {CHROMA_DIR}/")
+    print(f"   t-SNE map : {tsne_file}")
 
 
 if __name__ == "__main__":
