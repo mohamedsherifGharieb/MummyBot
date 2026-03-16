@@ -64,7 +64,7 @@ ChromaDB searches 469 embedded chunks
         ↓
 MMR retrieval picks 2 diverse relevant chunks
         ↓
-Phi-3 Mini reads chunks + formats answer
+Ollama3.2 reads chunks + formats answer
         ↓
 Answer streams back to the Angular frontend
 ```
