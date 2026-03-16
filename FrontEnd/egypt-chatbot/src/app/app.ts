@@ -1,5 +1,5 @@
 import { Component, viewChild, ElementRef, signal, effect, inject } from '@angular/core';
-import { HttpClient } from '@angular/common/http';
+import { ChatService } from './chat.service';
 import { FormsModule } from '@angular/forms';
 import { ChatBox } from './components/chatbox/chatbox';
 import { ChatInput } from './components/chat-input/chat-input';
@@ -23,10 +23,10 @@ interface Message {
   styleUrls: ['./app.scss'],
 })
 export class App {
-  private http = inject(HttpClient);
+  private chat = inject(ChatService);
   scrollRef = viewChild<ElementRef>('scrollRef');
 
-  API = 'http://localhost:8000/chat/stream';
+  API = this.chat.API;
 
   messages = signal<Message[]>([]);
   isLoading = signal(false);
@@ -55,25 +55,9 @@ export class App {
     const history = this.messages().slice(-11, -1).map(m => ({ role: m.role, content: m.content }));
 
     try {
-      const response = await fetch(this.API, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query: text, history }),
-      });
-
-      if (!response.ok || !response.body) throw new Error('Stream failed');
-
-      const reader = response.body.getReader();
-      const decoder = new TextDecoder();
-      let started = false;
-
-      while (true) {
-        const { done, value } = await reader.read();
-        if (done) break;
-        const chunk = decoder.decode(value, { stream: true });
-        if (!started) {
+      await this.chat.streamReply(text, history, (chunk, isFirst) => {
+        if (isFirst) {
           this.messages.update(msgs => [...msgs, { role: 'assistant', content: chunk }]);
-          started = true;
         } else {
           this.messages.update(msgs => {
             const updated = [...msgs];
@@ -82,7 +66,7 @@ export class App {
             return updated;
           });
         }
-      }
+      });
     } catch {
       this.messages.update(msgs => [
         ...msgs,

@@ -1,10 +1,3 @@
-"""
-clean_data.py
-
-Reads egypt_raw_data.md → cleans + classifies into topic sections → writes data_clean/*.txt
-
-Run: python clean_data.py
-"""
 
 import re
 from pathlib import Path

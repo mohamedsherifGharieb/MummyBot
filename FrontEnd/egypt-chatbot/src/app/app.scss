@@ -81,7 +81,6 @@
   position: relative;
   padding: 0 12px;
 
-  /* background image moved to .chat-shell with translucent overlay */
 
   &::-webkit-scrollbar { width: 6px; }
   &::-webkit-scrollbar-track { background: transparent; }
@@ -98,7 +97,6 @@
   position: relative;
   z-index: 1;
 
-  /* Chat window panel \u2014 same parchment colour as the input box */
   background: rgba(245, 234, 208, 0.93);
   border: 1.5px solid #d4bc8a;
   border-radius: 18px;

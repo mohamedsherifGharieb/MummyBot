@@ -1,20 +1,3 @@
-"""
-DataBaseChunking.py
-
-Reads data_clean/*.txt → builds territory chunks → embeds with BGE → stores in FAISS
-
-Territory strategy:
-  - Each pharaoh gets one ANCHOR chunk (identity signal)
-  - All chunks prefixed with [DynastyTag][PharaohName] → clusters in vector space
-  - Stored as faiss_index.bin + faiss_meta.pkl (no LangChain, no ChromaDB)
-
-Install:
-    pip install faiss-cpu sentence-transformers transformers scikit-learn matplotlib
-
-Run:
-    python DataBaseChunking.py
-"""
-
 import re
 import pickle
 import numpy as np
