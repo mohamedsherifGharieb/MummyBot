@@ -1,176 +1,109 @@
 """
-chatbot.py — RAG Pipeline + FastAPI
+chatbot.py — RAG Chatbot with FAISS + Ollama
 
 Install:
-    pip install fastapi uvicorn langchain-huggingface langchain-community
-                chromadb ollama sentence-transformers
+    pip install fastapi uvicorn faiss-cpu sentence-transformers ollama
 
 Run:
     uvicorn chatbot:app --reload --port 8000
 """
 
+import re
+import pickle
+import time
+import numpy as np
+import faiss
+import ollama
+from pathlib import Path
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
-import ollama
-import re
-import time
-from langchain_huggingface import HuggingFaceEmbeddings
-from langchain_community.vectorstores import Chroma
+from sentence_transformers import SentenceTransformer
 
-# ── Config ─────────────────────────────────────────────────────────────────
-CHROMA_DIR    = "chroma_db"
-EMBED_MODEL   = "sentence-transformers/all-MiniLM-L6-v2"
-LLM_MODEL = "llama3.2"
-RETRIEVE_K    = 10   # cast wide net
-RERANK_TOP_N  = 2    # reranker picks best 3
-HISTORY_LIMIT = 4
+INDEX_FILE  = Path("faiss_index.bin")
+META_FILE   = Path("faiss_meta.pkl")
+EMBED_MODEL = "BAAI/bge-small-en-v1.5"
+LLM_MODEL   = "llama3.2"
 
 SYSTEM_PROMPT = """
-You are MummyBot — a friendly ancient Egyptian history guide for tourists.
-You answer questions using ONLY the CONTEXT provided. Never use outside knowledge.
+You are MummyBot — a friendly human-like guide at an ancient Egyptian museum.
+You ONLY use the CONTEXT provided. Never add outside knowledge.
 
-If the question is about ancient Egypt, answer using the CONTEXT in this format:
+RULES:
 
-## [Name]
-**Who:** one sentence
-**What they did:** one or two sentences
-**Key facts:**
-- fact from context
-- fact from context
-**In summary:** one plain sentence any tourist would understand
+1. If the question asks WHO someone is or for an introduction (who was, tell me about):
+   Use this format:
+   ## [Name]
+   **Who:** one sentence
+   **What they did:** one or two sentences
+   **Key facts:**
+   - fact from context
+   - fact from context
+   **In summary:** one plain sentence
 
-If the CONTEXT does not contain the answer, say:
-"I don't have that in my scrolls yet! Try asking about another pharaoh."
+2. If the question asks a SPECIFIC fact — how they died, what they built,
+   how old they were, what battles they fought, who their family was:
+   Skip the format. Answer in 1-2 plain conversational sentences directly.
+   Like a tour guide talking to a tourist standing next to the exhibit.
 
-If the question is not about ancient Egypt, say:
-"I only know about ancient Egyptian history! Ask me about a pharaoh."
+3. If context does not contain the answer:
+   "I don't have that in my scrolls yet! Try asking about another pharaoh."
 
-Keep answers friendly, clear, and based only on the CONTEXT.
+4. If the question is not about ancient Egypt:
+   "I only know about ancient Egyptian history! Ask me about a pharaoh."
+
+Never say "Based on the context" or "According to the provided text".
+Never repeat the full profile format for a specific question.
+Just answer what was asked — directly and warmly.
 """
 
-# ── Pharaoh name list for query rewriting ──────────────────────────────────
-PHARAOH_NAMES = [
-    "khufu", "khafre", "menkaure", "snefru", "djedefre", "shepseskaf",
-    "hatshepsut", "thutmose", "amenhotep", "akhenaten", "tutankhamun",
-    "horemheb", "nefertiti", "ay", "ahmose",
-    "ramesses", "seti", "merneptah", "tawosret",
-    "piye", "shabaka", "shebitku", "taharqa", "tantamani",
-    "cleopatra", "ptolemy", "arsinoe",
-    "narmer", "djoser", "pepi", "mentuhotep", "senusret",
-    "amenemhat", "sobekneferu", "unas", "sahure", "userkaf",
-    "nectanebo", "cambyses", "darius", "xerxes", "psamtik",
-    "necho", "apries", "ahmose ii", "seqenenre", "kamose",
-]
-
-FIELD_MAP = {
-    "AGE":           ["old", "age", "born", "birth", "years", "lived", "how long"],
-    "HOW_THEY_DIED": ["die", "died", "death", "killed", "murder", "suicide", "poison", "cause"],
-    "ACHIEVEMENTS":  ["build", "built", "construct", "achieve", "monument", "pyramid", "temple", "accomplish"],
-    "WHAT_THEY_DID": ["do", "did", "rule", "reign", "known for", "famous for"],
-    "WHO":           ["who", "tell me about", "what was", "about", "identity"],
-    "EGYPT_ERA":     ["era", "period", "time", "context", "egypt like", "dynasty"],
-}
-
-PRONOUNS = ["he", "she", "they", "his", "her", "their", "him", "this pharaoh", "this ruler"]
-
-
-# ── Query rewriter ─────────────────────────────────────────────────────────
-def rewrite_query(query: str, history: list[dict]) -> str:
-    msg = query.strip().lower()
-
-    # Resolve pronouns using last pharaoh mentioned in history
-    needs_resolution = any(f" {p} " in f" {msg} " for p in PRONOUNS)
-    resolved_name = None
-
-    if needs_resolution and history:
-        for turn in reversed(history[-HISTORY_LIMIT:]):
-            content = turn.get("content", "").lower()
-            for name in PHARAOH_NAMES:
-                if name in content:
-                    resolved_name = name.title()
-                    break
-            if resolved_name:
-                break
-
-    # Detect field intent
-    detected_field = None
-    for field, keywords in FIELD_MAP.items():
-        if any(kw in msg for kw in keywords):
-            detected_field = field
-            break
-
-    # Extract pharaoh name from current message
-    name_found = None
-    for name in PHARAOH_NAMES:
-        if name in msg:
-            name_found = name.title()
-            break
-
-    pharaoh = name_found or resolved_name
-
-    # "tell me about", "who is/was" = identity query, just return the name
-    # Don't append field name — "Cleopatra who" is a bad embedding query
-    IDENTITY_TRIGGERS = ["tell me about", "who is", "who was", "what was", "about"]
-    is_identity = any(t in query.lower() for t in IDENTITY_TRIGGERS)
-
-    if pharaoh and detected_field and not is_identity:
-        field_label = detected_field.lower().replace("_", " ")
-        return f"{pharaoh} {field_label}"
-    elif pharaoh:
-        return pharaoh
-    else:
-        return query.strip()
-
-
-# ── Load models at startup ─────────────────────────────────────────────────
-print("Loading embedding model...")
-embeddings = HuggingFaceEmbeddings(
-    model_name=EMBED_MODEL,
-    model_kwargs={"device": "cpu"}
-)
-
-print("Loading ChromaDB...")
-vectorstore = Chroma(
-    persist_directory=CHROMA_DIR,
-    embedding_function=embeddings
-)
-
-# Child-only retriever — precise field-level retrieval
-child_retriever = vectorstore.as_retriever(
-    search_type="similarity",
-    search_kwargs={
-        "k": RETRIEVE_K,
-        "filter": {"chunk_type": "field_chunk"}
-    }
-)
-
-# Fallback retriever — no filter, used when child returns nothing
-fallback_retriever = vectorstore.as_retriever(
-    search_kwargs={"k": RETRIEVE_K}
-)
-
-print("✅ Ready.\n")
-
-
-# ── No reranker — use MMR diversity in retrieval instead ──────────────────
-def rerank(query: str, docs: list) -> list:
-    return docs[:2]   # already MMR-ranked, just take top 2
-
-
-# ── Query → topic mapping ──────────────────────────────────────────────────
 QUERY_TOPIC_MAP = {
-    "IDENTITY":  ["who is", "who was", "tell me about", "what was", "about"],
+    "IDENTITY":  ["who is", "who was", "tell me about", "what was"],
     "MONUMENTS": ["built", "build", "construct", "pyramid", "temple", "monument", "achieve"],
     "DEATH":     ["die", "died", "death", "killed", "how did", "cause", "buried", "tomb"],
-    "REIGN":     ["did", "do", "rule", "reign", "campaign", "battle", "war", "accomplish"],
+    "REIGN":     ["rule", "reign", "campaign", "battle", "war", "fight", "battles"],
     "FAMILY":    ["children", "wife", "husband", "son", "daughter", "family", "married"],
-    "LEGACY":    ["legacy", "famous", "known for", "remembered", "impact", "why"],
+    "LEGACY":    ["legacy", "famous", "known for", "remembered", "impact"],
 }
 
+PHARAOH_NAMES = sorted([
+    "ramesses ii", "ramesses iii", "ramesses iv", "ramesses ix", "ramesses xi", "ramesses i",
+    "thutmose iii", "thutmose iv", "thutmose ii", "thutmose i",
+    "amenhotep iii", "amenhotep ii", "amenhotep i",
+    "ptolemy iii", "ptolemy ii", "ptolemy i",
+    "psamtik iii", "psamtik ii", "psamtik i",
+    "pepi ii", "pepi i", "seti ii", "seti i",
+    "mentuhotep iv", "mentuhotep iii", "mentuhotep ii",
+    "senusret iii", "senusret ii", "senusret i",
+    "amenemhat iii", "amenemhat ii", "amenemhat i",
+    "nectanebo ii", "nectanebo i", "shoshenq iii", "shoshenq i",
+    "khufu", "khafre", "menkaure", "snefru", "djedefre", "shepseskaf",
+    "hatshepsut", "akhenaten", "tutankhamun", "horemheb", "nefertiti",
+    "ahmose", "merneptah", "cleopatra vii", "cleopatra", "arsinoe",
+    "djoser", "piye", "taharqa", "shabaka", "shebitku", "tantamani",
+    "narmer", "tawosret", "kamose", "seqenenre",
+    "cambyses", "darius", "xerxes", "artaxerxes",
+    "osorkon", "psusennes", "pinedjem", "smendes",
+    "userkaf", "sahure", "niuserre", "unas", "teti",
+    "sobekneferu", "huni", "sekhemkhet",
+], key=len, reverse=True)
 
-def detect_topic(query: str) -> str | None:
+
+print("Loading BGE model...")
+embed_model = SentenceTransformer(EMBED_MODEL)
+
+print("Loading FAISS index...")
+index = faiss.read_index(str(INDEX_FILE))
+
+print("Loading metadata...")
+with open(META_FILE, "rb") as f:
+    chunks = pickle.load(f)
+
+print(f"✅ Ready — {index.ntotal} vectors, {len(chunks)} chunks\n")
+
+
+def detect_topic(query: str):
     q = query.lower()
     for topic, keywords in QUERY_TOPIC_MAP.items():
         if any(kw in q for kw in keywords):
@@ -178,27 +111,66 @@ def detect_topic(query: str) -> str | None:
     return None
 
 
-# ── Retrieve using topic filter + MMR ──────────────────────────────────────
-def retrieve(query: str) -> list:
-    topic = detect_topic(query)
+def extract_pharaoh(query: str):
+    q = query.lower()
+    for name in PHARAOH_NAMES:
+        if name in q:
+            roman = {"i","ii","iii","iv","v","vi","vii","viii","ix","x","xi"}
+            return " ".join(p.upper() if p in roman else p.title()
+                            for p in name.split())
+    return None
+
+
+def resolve_pronouns(query: str, history: list) -> str:
+    pronouns = ["she ", "he ", "her ", "his ", "him ", "they "]
+    q = query.lower()
+    if not any(p in f" {q} " for p in pronouns):
+        return query
+    for turn in reversed(history[-6:]):
+        content = turn.get("content", "").lower()
+        for name in PHARAOH_NAMES:
+            if name in content:
+                roman  = {"i","ii","iii","iv","v","vi","vii","viii","ix","x","xi"}
+                proper = " ".join(p.upper() if p in roman else p.title()
+                                  for p in name.split())
+                resolved = query
+                for pronoun, replacement in [
+                    ("she ", proper + " "), ("he ",  proper + " "),
+                    ("her ", proper + "'s "), ("his ", proper + "'s "),
+                    ("him ", proper + " "),
+                ]:
+                    resolved = re.sub(rf'\b{pronoun}', replacement + " ",
+                                      resolved, flags=re.IGNORECASE)
+                return resolved.strip()
+    return query
+
+
+def retrieve(query: str, k: int = 2) -> list:
+    bge_q   = f"Represent this sentence for searching relevant passages: {query}"
+    topic   = detect_topic(query)
+    pharaoh = extract_pharaoh(query)
+
+    q_vec = embed_model.encode([bge_q], normalize_embeddings=True).astype("float32")
+    scores, indices = index.search(q_vec, k * 10)
+    candidates = [(chunks[i], float(scores[0][j]))
+                  for j, i in enumerate(indices[0]) if i >= 0]
+
+    if pharaoh:
+        matched = [(c, s) for c, s in candidates
+                   if c["pharaoh"].lower() == pharaoh.lower()]
+        if matched:
+            candidates = matched
 
     if topic:
-        # Filter to the matching topic first — precise retrieval
-        docs = vectorstore.similarity_search(
-            query, k=4, filter={"topic": topic}
-        )
-        if docs:
-            return docs[:2]
+        topic_matched = [(c, s) for c, s in candidates if c["topic"] == topic]
+        if topic_matched:
+            candidates = topic_matched
 
-    # Fallback: MMR across all chunks
-    docs = vectorstore.max_marginal_relevance_search(
-        query, k=2, fetch_k=10
-    )
-    return docs
+    candidates.sort(key=lambda x: x[1], reverse=True)
+    return [c for c, s in candidates[:k]]
 
 
-# ── FastAPI ────────────────────────────────────────────────────────────────
-app = FastAPI(title="Egypt Pharaoh Chatbot")
+app = FastAPI(title="MummyBot")
 
 app.add_middleware(
     CORSMiddleware,
@@ -209,7 +181,7 @@ app.add_middleware(
 
 
 class ChatRequest(BaseModel):
-    query: str
+    query:   str
     history: list[dict] = []
 
 
@@ -226,59 +198,46 @@ def root():
 
 @app.post("/chat", response_model=ChatResponse)
 def chat(req: ChatRequest):
-    history = req.history[-HISTORY_LIMIT:]
+    resolved = resolve_pronouns(req.query, req.history)
+    docs     = retrieve(resolved, k=2)
+    context  = "\n\n---\n\n".join(d["text"] for d in docs)
+    sources  = list({d["source"] for d in docs})
 
-    retrieval_query = rewrite_query(req.query, history)
-    print(f"Original : {req.query}")
-    print(f"Rewritten: {retrieval_query}")
-
-    docs    = retrieve(retrieval_query)
-    context = "\n\n---\n\n".join(d.page_content for d in docs)
-    sources = list({d.metadata.get("source", "") for d in docs})
-
-    messages = [{"role": "system", "content": f"{SYSTEM_PROMPT}\n\nCONTEXT:\n{context}"}]
-    for msg in history:
+    messages = [{"role": "system",
+                 "content": f"{SYSTEM_PROMPT}\n\nCONTEXT:\n{context}"}]
+    for msg in req.history[-4:]:
         if msg.get("role") in ("user", "assistant") and msg.get("content"):
             messages.append({"role": msg["role"], "content": msg["content"]})
     messages.append({"role": "user", "content": req.query})
 
     response = ollama.chat(
-        model=LLM_MODEL,
-        messages=messages,
+        model=LLM_MODEL, messages=messages,
         options={"num_predict": 400, "temperature": 0.2}
     )
-    answer   = response["message"]["content"].strip()
-
-    return ChatResponse(answer=answer, sources=sources, retrieval_query=retrieval_query)
+    answer = response["message"]["content"].strip()
+    return ChatResponse(answer=answer, sources=sources, retrieval_query=resolved)
 
 
 @app.post("/chat/stream")
 def chat_stream(req: ChatRequest):
-    import time
-    history = req.history[-HISTORY_LIMIT:]
+    resolved = resolve_pronouns(req.query, req.history)
+    docs     = retrieve(resolved, k=2)
+    context  = "\n\n---\n\n".join(d["text"] for d in docs)
 
-    t0 = time.time()
-    retrieval_query = rewrite_query(req.query, history)
-    print(f"Original : {req.query}")
-    print(f"Rewritten: {retrieval_query}")
-
-    t1 = time.time()
-    docs    = retrieve(retrieval_query)
-    t2 = time.time()
-    context = "\n\n---\n\n".join(d.page_content for d in docs)
-    print(f"⏱ rewrite={t1-t0:.2f}s  retrieve+rerank={t2-t1:.2f}s  chunks={len(docs)}")
-
-    messages = [{"role": "system", "content": f"{SYSTEM_PROMPT}\n\nCONTEXT:\n{context}"}]
-    for msg in history:
+    messages = [{"role": "system",
+                 "content": f"{SYSTEM_PROMPT}\n\nCONTEXT:\n{context}"}]
+    for msg in req.history[-4:]:
         if msg.get("role") in ("user", "assistant") and msg.get("content"):
             messages.append({"role": msg["role"], "content": msg["content"]})
     messages.append({"role": "user", "content": req.query})
 
+    print(f"Original : {req.query}")
+    print(f"Resolved : {resolved}")
+    print(f"Chunks   : {[(d['pharaoh'], d['topic']) for d in docs]}")
+
     def generate():
         stream = ollama.chat(
-            model=LLM_MODEL,
-            messages=messages,
-            stream=True,
+            model=LLM_MODEL, messages=messages, stream=True,
             options={"num_predict": 400, "temperature": 0.2}
         )
         for chunk in stream:
